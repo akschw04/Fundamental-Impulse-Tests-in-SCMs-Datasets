@@ -1,0 +1,38 @@
+#------------------------------------------------------------------------------
+# File Name: AR5-IR Parameters
+# Authors Names: Adria K. Schwarber
+# Date Last Updated:09 April 2019
+#                   
+#     The parameters used to  
+#
+# Input: None. Parameters and equations from IPCC AR5 Supplementary Chapter 8 (8.SM)
+#
+# Output: N/A
+#-------------------------------------------------------------------------------
+# 0. Input Parameters
+# -------------------------------------------------------------------------------
+
+### Input values for paramters from Supplement Table 8.SM.9
+cj1 <- 0.631 #reference value for CO2 in units of (K * (Wm^-2)^-1)
+cj2 <- 0.429 #reference value for CO2 in units of (K * (Wm^-2)^-1)
+dj1 <- 8.4   #reference value for CO2 in units of years
+dj2 <- 409.5 #reference value for CO2 in units of years
+
+
+### Input values for CO2
+a0 <- 0.2173 #CO2 unitless coefficients from Table 8.SM.10
+a1 <- 0.2240 #CO2 unitless coefficients from Table 8.SM.10
+a2 <- 0.2824 #CO2 unitless coefficients from Table 8.SM.10
+a3 <-  0.2763 #CO2 unitless coefficients from Table 8.SM.10
+tau1 <- 394.4 #CO2 lifetime in units of years from Table 8.SM.10
+tau2 <- 36.54 #CO2 lifetime in units of years from Table 8.SM.10
+tau3 <- 4.304 #CO2 lifetime in units of years from Table 8.SM.10
+Mi <- 44.01 # Molecular weight of CO2 in units of kg/kmol
+RE <- 1.37E-05 #Radiative Efficiceny reference value for CO2 in units of Wm^-2ppb^-1 from Appendix Table 8.A.1
+H <- c(0:300) #Time horizon, H
+emissions <-  0 
+emissions_perturbations <- as.numeric(9.23945E+12 *(44.01/12.01)) #9.23945 PgC perturbation converted to KgCO2
+
+# To Make Fig 8.33 
+# H <- c(0:100) #Time horizon, H, based on values used in Figure 8.33
+# emissions_perturbations <- as.numeric(3.69E+13) #9.23945 GgCO2 perturbation converted to KgCO2

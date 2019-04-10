@@ -1,0 +1,1175 @@
+Experiment,Time,Model,CO2 concentration response ,Total forcing response,Temperature response 
+BC emissions impulse,2010,Hector v2.0,0,0,0
+BC emissions impulse,2011,Hector v2.0,0,0,0
+BC emissions impulse,2012,Hector v2.0,0,0,0
+BC emissions impulse,2013,Hector v2.0,0,0,0
+BC emissions impulse,2014,Hector v2.0,0,0,0
+BC emissions impulse,2015,Hector v2.0,0,0.5930106,0.05134
+BC emissions impulse,2016,Hector v2.0,0,0,0.0431
+BC emissions impulse,2017,Hector v2.0,0.067,0.0009009,0.03083
+BC emissions impulse,2018,Hector v2.0,0.097,0.0012954,0.02349
+BC emissions impulse,2019,Hector v2.0,0.104,0.0013786,0.01872
+BC emissions impulse,2020,Hector v2.0,0.104,0.0013728,0.01542
+BC emissions impulse,2021,Hector v2.0,0.103,0.0013477,0.01303
+BC emissions impulse,2022,Hector v2.0,0.101,0.0013234,0.01124
+BC emissions impulse,2023,Hector v2.0,0.1,0.0013039,0.00987
+BC emissions impulse,2024,Hector v2.0,0.1,0.0012886,0.00878
+BC emissions impulse,2025,Hector v2.0,0.1,0.0012765,0.0079
+BC emissions impulse,2026,Hector v2.0,0.099,0.0012658,0.00718
+BC emissions impulse,2027,Hector v2.0,0.099,0.0012561,0.00658
+BC emissions impulse,2028,Hector v2.0,0.098,0.0012467,0.00608
+BC emissions impulse,2029,Hector v2.0,0.099,0.0012372,0.00564
+BC emissions impulse,2030,Hector v2.0,0.098,0.0012274,0.00527
+BC emissions impulse,2031,Hector v2.0,0.098,0.0012174,0.00495
+BC emissions impulse,2032,Hector v2.0,0.098,0.001207,0.00466
+BC emissions impulse,2033,Hector v2.0,0.098,0.0011965,0.00441
+BC emissions impulse,2034,Hector v2.0,0.097,0.0011854,0.00418
+BC emissions impulse,2035,Hector v2.0,0.097,0.0011744,0.00398
+BC emissions impulse,2036,Hector v2.0,0.096,0.0011634,0.0038
+BC emissions impulse,2037,Hector v2.0,0.096,0.0011523,0.00363
+BC emissions impulse,2038,Hector v2.0,0.095,0.0011412,0.00348
+BC emissions impulse,2039,Hector v2.0,0.095,0.0011299,0.00335
+BC emissions impulse,2040,Hector v2.0,0.095,0.0011188,0.00322
+BC emissions impulse,2041,Hector v2.0,0.095,0.0011077,0.0031
+BC emissions impulse,2042,Hector v2.0,0.094,0.0010966,0.00299
+BC emissions impulse,2043,Hector v2.0,0.094,0.0010858,0.00289
+BC emissions impulse,2044,Hector v2.0,0.093,0.001075,0.00279
+BC emissions impulse,2045,Hector v2.0,0.093,0.0010645,0.00271
+BC emissions impulse,2046,Hector v2.0,0.092,0.0010541,0.00263
+BC emissions impulse,2047,Hector v2.0,0.092,0.0010439,0.00255
+BC emissions impulse,2048,Hector v2.0,0.092,0.0010339,0.00247
+BC emissions impulse,2049,Hector v2.0,0.091,0.001024,0.00241
+BC emissions impulse,2050,Hector v2.0,0.091,0.0010143,0.00234
+BC emissions impulse,2051,Hector v2.0,0.091,0.001005,0.00229
+BC emissions impulse,2052,Hector v2.0,0.09,0.0009958,0.00222
+BC emissions impulse,2053,Hector v2.0,0.089,0.000987,0.00217
+BC emissions impulse,2054,Hector v2.0,0.089,0.0009784,0.00213
+BC emissions impulse,2055,Hector v2.0,0.089,0.0009703,0.00207
+BC emissions impulse,2056,Hector v2.0,0.089,0.0009624,0.00203
+BC emissions impulse,2057,Hector v2.0,0.088,0.0009547,0.00199
+BC emissions impulse,2058,Hector v2.0,0.088,0.0009474,0.00194
+BC emissions impulse,2059,Hector v2.0,0.087,0.0009403,0.0019
+BC emissions impulse,2060,Hector v2.0,0.087,0.0009334,0.00186
+BC emissions impulse,2061,Hector v2.0,0.087,0.0009268,0.00183
+BC emissions impulse,2062,Hector v2.0,0.087,0.0009205,0.0018
+BC emissions impulse,2063,Hector v2.0,0.086,0.0009144,0.00176
+BC emissions impulse,2064,Hector v2.0,0.086,0.0009087,0.00173
+BC emissions impulse,2065,Hector v2.0,0.086,0.0009032,0.0017
+BC emissions impulse,2066,Hector v2.0,0.085,0.0008979,0.00167
+BC emissions impulse,2067,Hector v2.0,0.085,0.0008929,0.00164
+BC emissions impulse,2068,Hector v2.0,0.085,0.0008882,0.00162
+BC emissions impulse,2069,Hector v2.0,0.084,0.0008836,0.00158
+BC emissions impulse,2070,Hector v2.0,0.085,0.0008792,0.00156
+BC emissions impulse,2071,Hector v2.0,0.084,0.0008751,0.00154
+BC emissions impulse,2072,Hector v2.0,0.083,0.0008712,0.00152
+BC emissions impulse,2073,Hector v2.0,0.084,0.0008676,0.00149
+BC emissions impulse,2074,Hector v2.0,0.084,0.000864,0.00148
+BC emissions impulse,2075,Hector v2.0,0.083,0.0008609,0.00146
+BC emissions impulse,2076,Hector v2.0,0.083,0.0008579,0.00143
+BC emissions impulse,2077,Hector v2.0,0.083,0.0008551,0.00141
+BC emissions impulse,2078,Hector v2.0,0.083,0.0008526,0.00139
+BC emissions impulse,2079,Hector v2.0,0.082,0.0008502,0.00137
+BC emissions impulse,2080,Hector v2.0,0.082,0.000848,0.00136
+BC emissions impulse,2081,Hector v2.0,0.082,0.0008459,0.00134
+BC emissions impulse,2082,Hector v2.0,0.082,0.000844,0.00132
+BC emissions impulse,2083,Hector v2.0,0.081,0.000842,0.00131
+BC emissions impulse,2084,Hector v2.0,0.081,0.0008401,0.00129
+BC emissions impulse,2085,Hector v2.0,0.081,0.000838,0.00129
+BC emissions impulse,2086,Hector v2.0,0.08,0.000836,0.00127
+BC emissions impulse,2087,Hector v2.0,0.081,0.0008339,0.00125
+BC emissions impulse,2088,Hector v2.0,0.08,0.0008318,0.00124
+BC emissions impulse,2089,Hector v2.0,0.08,0.0008298,0.00123
+BC emissions impulse,2090,Hector v2.0,0.08,0.0008277,0.00122
+BC emissions impulse,2091,Hector v2.0,0.08,0.0008256,0.0012
+BC emissions impulse,2092,Hector v2.0,0.08,0.0008235,0.00119
+BC emissions impulse,2093,Hector v2.0,0.079,0.0008213,0.00118
+BC emissions impulse,2094,Hector v2.0,0.079,0.0008192,0.00117
+BC emissions impulse,2095,Hector v2.0,0.079,0.0008172,0.00116
+BC emissions impulse,2096,Hector v2.0,0.079,0.000815,0.00115
+BC emissions impulse,2097,Hector v2.0,0.079,0.000813,0.00114
+BC emissions impulse,2098,Hector v2.0,0.078,0.0008109,0.00113
+BC emissions impulse,2099,Hector v2.0,0.078,0.0008088,0.00112
+BC emissions impulse,2100,Hector v2.0,0.078,0.0008067,0.00111
+BC emissions impulse,2101,Hector v2.0,0.078,0.0008046,0.0011
+BC emissions impulse,2102,Hector v2.0,0.078,0.0008027,0.00109
+BC emissions impulse,2103,Hector v2.0,0.078,0.0008007,0.00109
+BC emissions impulse,2104,Hector v2.0,0.078,0.0007988,0.00108
+BC emissions impulse,2105,Hector v2.0,0.077,0.000797,0.00107
+BC emissions impulse,2106,Hector v2.0,0.077,0.0007953,0.00106
+BC emissions impulse,2107,Hector v2.0,0.078,0.0007936,0.00105
+BC emissions impulse,2108,Hector v2.0,0.077,0.0007921,0.00104
+BC emissions impulse,2109,Hector v2.0,0.077,0.0007906,0.00104
+BC emissions impulse,2110,Hector v2.0,0.077,0.0007891,0.00103
+BC emissions impulse,2111,Hector v2.0,0.076,0.0007878,0.00102
+BC emissions impulse,2112,Hector v2.0,0.076,0.0007864,0.00101
+BC emissions impulse,2113,Hector v2.0,0.077,0.0007851,0.001
+BC emissions impulse,2114,Hector v2.0,0.077,0.0007839,0.00099
+BC emissions impulse,2115,Hector v2.0,0.077,0.0007827,0.00098
+BC emissions impulse,2116,Hector v2.0,0.076,0.0007814,0.00098
+BC emissions impulse,2117,Hector v2.0,0.076,0.0007803,0.00098
+BC emissions impulse,2118,Hector v2.0,0.076,0.0007792,0.00097
+BC emissions impulse,2119,Hector v2.0,0.076,0.000778,0.00096
+BC emissions impulse,2120,Hector v2.0,0.075,0.0007771,0.00096
+BC emissions impulse,2121,Hector v2.0,0.075,0.0007761,0.00095
+BC emissions impulse,2122,Hector v2.0,0.076,0.000775,0.00095
+BC emissions impulse,2123,Hector v2.0,0.075,0.000774,0.00094
+BC emissions impulse,2124,Hector v2.0,0.075,0.000773,0.00093
+BC emissions impulse,2125,Hector v2.0,0.075,0.000772,0.00093
+BC emissions impulse,2126,Hector v2.0,0.075,0.000771,0.00092
+BC emissions impulse,2127,Hector v2.0,0.075,0.00077,0.00092
+BC emissions impulse,2128,Hector v2.0,0.074,0.000769,0.00092
+BC emissions impulse,2129,Hector v2.0,0.074,0.000768,0.00091
+BC emissions impulse,2130,Hector v2.0,0.074,0.0007671,0.00091
+BC emissions impulse,2131,Hector v2.0,0.075,0.000766,0.0009
+BC emissions impulse,2132,Hector v2.0,0.074,0.000765,0.0009
+BC emissions impulse,2133,Hector v2.0,0.074,0.0007641,0.00089
+BC emissions impulse,2134,Hector v2.0,0.074,0.0007631,0.00088
+BC emissions impulse,2135,Hector v2.0,0.074,0.000762,0.00088
+BC emissions impulse,2136,Hector v2.0,0.073,0.0007611,0.00088
+BC emissions impulse,2137,Hector v2.0,0.074,0.0007601,0.00088
+BC emissions impulse,2138,Hector v2.0,0.073,0.000759,0.00087
+BC emissions impulse,2139,Hector v2.0,0.073,0.0007581,0.00086
+BC emissions impulse,2140,Hector v2.0,0.074,0.0007571,0.00086
+BC emissions impulse,2141,Hector v2.0,0.073,0.0007561,0.00085
+BC emissions impulse,2142,Hector v2.0,0.073,0.0007551,0.00086
+BC emissions impulse,2143,Hector v2.0,0.074,0.0007541,0.00085
+BC emissions impulse,2144,Hector v2.0,0.073,0.0007532,0.00085
+BC emissions impulse,2145,Hector v2.0,0.073,0.0007522,0.00084
+BC emissions impulse,2146,Hector v2.0,0.073,0.0007512,0.00084
+BC emissions impulse,2147,Hector v2.0,0.073,0.0007502,0.00083
+BC emissions impulse,2148,Hector v2.0,0.072,0.0007492,0.00083
+BC emissions impulse,2149,Hector v2.0,0.073,0.0007483,0.00083
+BC emissions impulse,2150,Hector v2.0,0.073,0.0007473,0.00083
+BC emissions impulse,2151,Hector v2.0,0.072,0.0007463,0.00082
+BC emissions impulse,2152,Hector v2.0,0.072,0.0007452,0.00082
+BC emissions impulse,2153,Hector v2.0,0.072,0.0007442,0.00081
+BC emissions impulse,2154,Hector v2.0,0.072,0.0007431,0.00081
+BC emissions impulse,2155,Hector v2.0,0.072,0.0007421,0.0008
+BC emissions impulse,2156,Hector v2.0,0.072,0.000741,0.00081
+BC emissions impulse,2157,Hector v2.0,0.072,0.0007399,0.0008
+BC emissions impulse,2158,Hector v2.0,0.072,0.0007389,0.00079
+BC emissions impulse,2159,Hector v2.0,0.072,0.0007379,0.00079
+BC emissions impulse,2160,Hector v2.0,0.071,0.0007367,0.00079
+BC emissions impulse,2161,Hector v2.0,0.072,0.0007357,0.00079
+BC emissions impulse,2162,Hector v2.0,0.071,0.0007345,0.00079
+BC emissions impulse,2163,Hector v2.0,0.072,0.0007335,0.00078
+BC emissions impulse,2164,Hector v2.0,0.071,0.0007324,0.00078
+BC emissions impulse,2165,Hector v2.0,0.071,0.0007314,0.00078
+BC emissions impulse,2166,Hector v2.0,0.071,0.0007303,0.00077
+BC emissions impulse,2167,Hector v2.0,0.071,0.0007292,0.00077
+BC emissions impulse,2168,Hector v2.0,0.07,0.0007281,0.00076
+BC emissions impulse,2169,Hector v2.0,0.071,0.0007271,0.00076
+BC emissions impulse,2170,Hector v2.0,0.071,0.000726,0.00076
+BC emissions impulse,2171,Hector v2.0,0.07,0.0007249,0.00076
+BC emissions impulse,2172,Hector v2.0,0.071,0.0007239,0.00076
+BC emissions impulse,2173,Hector v2.0,0.071,0.0007228,0.00076
+BC emissions impulse,2174,Hector v2.0,0.071,0.0007217,0.00075
+BC emissions impulse,2175,Hector v2.0,0.07,0.0007207,0.00074
+BC emissions impulse,2176,Hector v2.0,0.07,0.0007195,0.00074
+BC emissions impulse,2177,Hector v2.0,0.069,0.0007184,0.00074
+BC emissions impulse,2178,Hector v2.0,0.069,0.0007174,0.00074
+BC emissions impulse,2179,Hector v2.0,0.069,0.0007163,0.00073
+BC emissions impulse,2180,Hector v2.0,0.07,0.0007153,0.00074
+BC emissions impulse,2181,Hector v2.0,0.069,0.0007142,0.00073
+BC emissions impulse,2182,Hector v2.0,0.069,0.0007131,0.00073
+BC emissions impulse,2183,Hector v2.0,0.069,0.0007121,0.00073
+BC emissions impulse,2184,Hector v2.0,0.07,0.000711,0.00072
+BC emissions impulse,2185,Hector v2.0,0.069,0.0007099,0.00072
+BC emissions impulse,2186,Hector v2.0,0.069,0.0007089,0.00073
+BC emissions impulse,2187,Hector v2.0,0.069,0.0007079,0.00072
+BC emissions impulse,2188,Hector v2.0,0.069,0.0007068,0.00072
+BC emissions impulse,2189,Hector v2.0,0.069,0.0007057,0.00071
+BC emissions impulse,2190,Hector v2.0,0.069,0.0007047,0.00071
+BC emissions impulse,2191,Hector v2.0,0.069,0.0007036,0.00071
+BC emissions impulse,2192,Hector v2.0,0.069,0.0007026,0.00071
+BC emissions impulse,2193,Hector v2.0,0.068,0.0007015,0.0007
+BC emissions impulse,2194,Hector v2.0,0.068,0.0007005,0.00071
+BC emissions impulse,2195,Hector v2.0,0.068,0.0006995,0.00071
+BC emissions impulse,2196,Hector v2.0,0.068,0.0006985,0.0007
+BC emissions impulse,2197,Hector v2.0,0.068,0.0006974,0.0007
+BC emissions impulse,2198,Hector v2.0,0.068,0.0006965,0.0007
+BC emissions impulse,2199,Hector v2.0,0.068,0.0006954,0.0007
+BC emissions impulse,2200,Hector v2.0,0.068,0.0006943,0.00069
+BC emissions impulse,2201,Hector v2.0,0.067,0.0006934,0.00069
+BC emissions impulse,2202,Hector v2.0,0.068,0.0006924,0.00069
+BC emissions impulse,2203,Hector v2.0,0.068,0.0006913,0.00069
+BC emissions impulse,2204,Hector v2.0,0.068,0.0006904,0.00068
+BC emissions impulse,2205,Hector v2.0,0.067,0.0006894,0.00068
+BC emissions impulse,2206,Hector v2.0,0.067,0.0006883,0.00068
+BC emissions impulse,2207,Hector v2.0,0.067,0.0006874,0.00068
+BC emissions impulse,2208,Hector v2.0,0.067,0.0006864,0.00068
+BC emissions impulse,2209,Hector v2.0,0.067,0.0006854,0.00067
+BC emissions impulse,2210,Hector v2.0,0.067,0.0006845,0.00067
+BC emissions impulse,2211,Hector v2.0,0.067,0.0006835,0.00068
+BC emissions impulse,2212,Hector v2.0,0.067,0.0006825,0.00067
+BC emissions impulse,2213,Hector v2.0,0.067,0.0006815,0.00066
+BC emissions impulse,2214,Hector v2.0,0.067,0.0006806,0.00067
+BC emissions impulse,2215,Hector v2.0,0.066,0.0006796,0.00067
+BC emissions impulse,2216,Hector v2.0,0.066,0.0006787,0.00066
+BC emissions impulse,2217,Hector v2.0,0.066,0.0006778,0.00067
+BC emissions impulse,2218,Hector v2.0,0.066,0.0006768,0.00066
+BC emissions impulse,2219,Hector v2.0,0.065,0.0006724,0.00066
+BC emissions impulse,2220,Hector v2.0,0.065,0.0006651,0.00065
+BC emissions impulse,2221,Hector v2.0,0.064,0.0006561,0.00065
+BC emissions impulse,2222,Hector v2.0,0.064,0.0006459,0.00065
+BC emissions impulse,2223,Hector v2.0,0.062,0.0006348,0.00065
+BC emissions impulse,2224,Hector v2.0,0.061,0.0006231,0.00064
+BC emissions impulse,2225,Hector v2.0,0.06,0.000611,0.00064
+BC emissions impulse,2226,Hector v2.0,0.058,0.0005986,0.00063
+BC emissions impulse,2227,Hector v2.0,0.057,0.000586,0.00063
+BC emissions impulse,2228,Hector v2.0,0.056,0.0005732,0.00062
+BC emissions impulse,2229,Hector v2.0,0.055,0.0005606,0.00062
+BC emissions impulse,2230,Hector v2.0,0.054,0.0005478,0.00061
+BC emissions impulse,2231,Hector v2.0,0.053,0.0005352,0.0006
+BC emissions impulse,2232,Hector v2.0,0.052,0.0005226,0.0006
+BC emissions impulse,2233,Hector v2.0,0.05,0.0005103,0.00059
+BC emissions impulse,2234,Hector v2.0,0.048,0.0004981,0.00058
+BC emissions impulse,2235,Hector v2.0,0.048,0.000486,0.00057
+BC emissions impulse,2236,Hector v2.0,0.046,0.0004741,0.00058
+BC emissions impulse,2237,Hector v2.0,0.045,0.0004623,0.00057
+BC emissions impulse,2238,Hector v2.0,0.044,0.0004508,0.00056
+BC emissions impulse,2239,Hector v2.0,0.043,0.0004395,0.00056
+BC emissions impulse,2240,Hector v2.0,0.042,0.0004283,0.00054
+BC emissions impulse,2241,Hector v2.0,0.041,0.0004174,0.00054
+BC emissions impulse,2242,Hector v2.0,0.04,0.0004067,0.00054
+BC emissions impulse,2243,Hector v2.0,0.039,0.0003963,0.00053
+BC emissions impulse,2244,Hector v2.0,0.038,0.000386,0.00052
+BC emissions impulse,2245,Hector v2.0,0.036,0.0003759,0.00051
+BC emissions impulse,2246,Hector v2.0,0.035,0.0003662,0.00051
+BC emissions impulse,2247,Hector v2.0,0.034,0.0003566,0.0005
+BC emissions impulse,2248,Hector v2.0,0.034,0.0003472,0.0005
+BC emissions impulse,2249,Hector v2.0,0.034,0.0003381,0.00049
+BC emissions impulse,2250,Hector v2.0,0.033,0.0003291,0.00048
+BC emissions impulse,2251,Hector v2.0,0.032,0.0003204,0.00048
+BC emissions impulse,2252,Hector v2.0,0.03,0.0003119,0.00047
+BC emissions impulse,2253,Hector v2.0,0.029,0.0003035,0.00047
+BC emissions impulse,2254,Hector v2.0,0.029,0.0002954,0.00046
+BC emissions impulse,2255,Hector v2.0,0.028,0.0002875,0.00045
+BC emissions impulse,2256,Hector v2.0,0.027,0.0002797,0.00045
+BC emissions impulse,2257,Hector v2.0,0.026,0.0002722,0.00044
+BC emissions impulse,2258,Hector v2.0,0.026,0.0002649,0.00044
+BC emissions impulse,2259,Hector v2.0,0.025,0.0002577,0.00043
+BC emissions impulse,2260,Hector v2.0,0.025,0.0002508,0.00042
+BC emissions impulse,2261,Hector v2.0,0.023,0.000244,0.00042
+BC emissions impulse,2262,Hector v2.0,0.023,0.0002374,0.00041
+BC emissions impulse,2263,Hector v2.0,0.022,0.0002308,0.00041
+BC emissions impulse,2264,Hector v2.0,0.022,0.0002245,0.0004
+BC emissions impulse,2265,Hector v2.0,0.022,0.0002184,0.0004
+BC emissions impulse,2266,Hector v2.0,0.021,0.0002124,0.00039
+BC emissions impulse,2267,Hector v2.0,0.02,0.0002066,0.00039
+BC emissions impulse,2268,Hector v2.0,0.019,0.0002009,0.00038
+BC emissions impulse,2269,Hector v2.0,0.019,0.0001954,0.00038
+BC emissions impulse,2270,Hector v2.0,0.019,0.0001901,0.00038
+BC emissions impulse,2271,Hector v2.0,0.018,0.0001848,0.00037
+BC emissions impulse,2272,Hector v2.0,0.017,0.0001797,0.00037
+BC emissions impulse,2273,Hector v2.0,0.017,0.0001747,0.00036
+BC emissions impulse,2274,Hector v2.0,0.017,0.0001698,0.00036
+BC emissions impulse,2275,Hector v2.0,0.016,0.0001651,0.00035
+BC emissions impulse,2276,Hector v2.0,0.015,0.0001606,0.00035
+BC emissions impulse,2277,Hector v2.0,0.015,0.000156,0.00035
+BC emissions impulse,2278,Hector v2.0,0.015,0.0001517,0.00035
+BC emissions impulse,2279,Hector v2.0,0.015,0.0001475,0.00033
+BC emissions impulse,2280,Hector v2.0,0.014,0.0001433,0.00034
+BC emissions impulse,2281,Hector v2.0,0.013,0.0001393,0.00033
+BC emissions impulse,2282,Hector v2.0,0.014,0.0001354,0.00033
+BC emissions impulse,2283,Hector v2.0,0.013,0.0001315,0.00033
+BC emissions impulse,2284,Hector v2.0,0.012,0.0001278,0.00032
+BC emissions impulse,2285,Hector v2.0,0.012,0.0001242,0.00032
+BC emissions impulse,2286,Hector v2.0,0.012,0.0001207,0.00031
+BC emissions impulse,2287,Hector v2.0,0.011,0.0001172,0.0003
+BC emissions impulse,2288,Hector v2.0,0.011,0.0001138,0.0003
+BC emissions impulse,2289,Hector v2.0,0.011,0.0001106,0.0003
+BC emissions impulse,2290,Hector v2.0,0.01,0.0001074,0.0003
+BC emissions impulse,2291,Hector v2.0,0.01,0.0001043,0.0003
+BC emissions impulse,2292,Hector v2.0,0.009,0.0001013,0.00029
+BC emissions impulse,2293,Hector v2.0,0.01,0.0000983,0.00029
+BC emissions impulse,2294,Hector v2.0,0.01,0.0000954,0.00028
+BC emissions impulse,2295,Hector v2.0,0.009,0.0000926,0.00029
+BC emissions impulse,2296,Hector v2.0,0.009,0.0000898,0.00028
+BC emissions impulse,2297,Hector v2.0,0.009,0.0000872,0.00027
+BC emissions impulse,2298,Hector v2.0,0.008,0.0000846,0.00027
+BC emissions impulse,2299,Hector v2.0,0.008,0.000082,0.00026
+BC emissions impulse,2300,Hector v2.0,0.008,0.0000796,0.00027
+BC emissions impulse,2010,MAGICC 5.3,0,0,0
+BC emissions impulse,2011,MAGICC 5.3,0,0,0
+BC emissions impulse,2012,MAGICC 5.3,0,0,0
+BC emissions impulse,2013,MAGICC 5.3,0,0,0
+BC emissions impulse,2014,MAGICC 5.3,0,0,0
+BC emissions impulse,2015,MAGICC 5.3,0,0.245,0.072936
+BC emissions impulse,2016,MAGICC 5.3,0.072,0.24548,0.115231
+BC emissions impulse,2017,MAGICC 5.3,0.156,0.00149,0.02147
+BC emissions impulse,2018,MAGICC 5.3,0.13,0.00187,0.01525
+BC emissions impulse,2019,MAGICC 5.3,0.133,0.00172,0.012
+BC emissions impulse,2020,MAGICC 5.3,0.134,0.00173,0.00995
+BC emissions impulse,2021,MAGICC 5.3,0.135,0.00173,0.00853
+BC emissions impulse,2022,MAGICC 5.3,0.135,0.00173,0.00747
+BC emissions impulse,2023,MAGICC 5.3,0.135,0.00172,0.00667
+BC emissions impulse,2024,MAGICC 5.3,0.134,0.0017,0.00603
+BC emissions impulse,2025,MAGICC 5.3,0.134,0.00168,0.00551
+BC emissions impulse,2026,MAGICC 5.3,0.134,0.00167,0.00507
+BC emissions impulse,2027,MAGICC 5.3,0.133,0.00166,0.00471
+BC emissions impulse,2028,MAGICC 5.3,0.131,0.00163,0.0044
+BC emissions impulse,2029,MAGICC 5.3,0.13,0.0016,0.00413
+BC emissions impulse,2030,MAGICC 5.3,0.129,0.00158,0.0039
+BC emissions impulse,2031,MAGICC 5.3,0.128,0.00156,0.00369
+BC emissions impulse,2032,MAGICC 5.3,0.126,0.00154,0.00351
+BC emissions impulse,2033,MAGICC 5.3,0.125,0.00151,0.00334
+BC emissions impulse,2034,MAGICC 5.3,0.124,0.00148,0.00319
+BC emissions impulse,2035,MAGICC 5.3,0.122,0.00146,0.00305
+BC emissions impulse,2036,MAGICC 5.3,0.121,0.00143,0.00294
+BC emissions impulse,2037,MAGICC 5.3,0.119,0.00141,0.00282
+BC emissions impulse,2038,MAGICC 5.3,0.119,0.00139,0.00272
+BC emissions impulse,2039,MAGICC 5.3,0.117,0.00136,0.00262
+BC emissions impulse,2040,MAGICC 5.3,0.115,0.00134,0.00253
+BC emissions impulse,2041,MAGICC 5.3,0.114,0.00132,0.00245
+BC emissions impulse,2042,MAGICC 5.3,0.113,0.0013,0.00238
+BC emissions impulse,2043,MAGICC 5.3,0.112,0.00128,0.0023
+BC emissions impulse,2044,MAGICC 5.3,0.111,0.00125,0.00223
+BC emissions impulse,2045,MAGICC 5.3,0.11,0.00124,0.00218
+BC emissions impulse,2046,MAGICC 5.3,0.108,0.00122,0.00211
+BC emissions impulse,2047,MAGICC 5.3,0.107,0.0012,0.00206
+BC emissions impulse,2048,MAGICC 5.3,0.106,0.00118,0.00201
+BC emissions impulse,2049,MAGICC 5.3,0.104,0.00116,0.00196
+BC emissions impulse,2050,MAGICC 5.3,0.104,0.00114,0.00191
+BC emissions impulse,2051,MAGICC 5.3,0.103,0.00112,0.00186
+BC emissions impulse,2052,MAGICC 5.3,0.102,0.00111,0.00182
+BC emissions impulse,2053,MAGICC 5.3,0.101,0.00109,0.00178
+BC emissions impulse,2054,MAGICC 5.3,0.099,0.00107,0.00174
+BC emissions impulse,2055,MAGICC 5.3,0.098,0.00106,0.00171
+BC emissions impulse,2056,MAGICC 5.3,0.098,0.00105,0.00168
+BC emissions impulse,2057,MAGICC 5.3,0.097,0.00103,0.00164
+BC emissions impulse,2058,MAGICC 5.3,0.095,0.00101,0.00161
+BC emissions impulse,2059,MAGICC 5.3,0.095,0.001,0.00158
+BC emissions impulse,2060,MAGICC 5.3,0.093,0.00099,0.00155
+BC emissions impulse,2061,MAGICC 5.3,0.093,0.00097,0.00152
+BC emissions impulse,2062,MAGICC 5.3,0.092,0.00096,0.00149
+BC emissions impulse,2063,MAGICC 5.3,0.091,0.00095,0.00147
+BC emissions impulse,2064,MAGICC 5.3,0.09,0.00094,0.00144
+BC emissions impulse,2065,MAGICC 5.3,0.089,0.00092,0.00142
+BC emissions impulse,2066,MAGICC 5.3,0.088,0.00092,0.00139
+BC emissions impulse,2067,MAGICC 5.3,0.087,0.00091,0.00137
+BC emissions impulse,2068,MAGICC 5.3,0.087,0.0009,0.00134
+BC emissions impulse,2069,MAGICC 5.3,0.085,0.00089,0.00133
+BC emissions impulse,2070,MAGICC 5.3,0.085,0.00087,0.00131
+BC emissions impulse,2071,MAGICC 5.3,0.083,0.00086,0.00128
+BC emissions impulse,2072,MAGICC 5.3,0.082,0.00085,0.00127
+BC emissions impulse,2073,MAGICC 5.3,0.082,0.00085,0.00125
+BC emissions impulse,2074,MAGICC 5.3,0.081,0.00083,0.00123
+BC emissions impulse,2075,MAGICC 5.3,0.081,0.00083,0.00122
+BC emissions impulse,2076,MAGICC 5.3,0.079,0.00082,0.0012
+BC emissions impulse,2077,MAGICC 5.3,0.079,0.00081,0.00118
+BC emissions impulse,2078,MAGICC 5.3,0.078,0.0008,0.00117
+BC emissions impulse,2079,MAGICC 5.3,0.077,0.0008,0.00115
+BC emissions impulse,2080,MAGICC 5.3,0.076,0.00079,0.00114
+BC emissions impulse,2081,MAGICC 5.3,0.075,0.00078,0.00112
+BC emissions impulse,2082,MAGICC 5.3,0.075,0.00077,0.0011
+BC emissions impulse,2083,MAGICC 5.3,0.074,0.00077,0.00109
+BC emissions impulse,2084,MAGICC 5.3,0.073,0.00075,0.00108
+BC emissions impulse,2085,MAGICC 5.3,0.072,0.00075,0.00106
+BC emissions impulse,2086,MAGICC 5.3,0.072,0.00074,0.00106
+BC emissions impulse,2087,MAGICC 5.3,0.071,0.00073,0.00104
+BC emissions impulse,2088,MAGICC 5.3,0.07,0.00072,0.00103
+BC emissions impulse,2089,MAGICC 5.3,0.07,0.00072,0.00102
+BC emissions impulse,2090,MAGICC 5.3,0.068,0.00071,0.00101
+BC emissions impulse,2091,MAGICC 5.3,0.068,0.0007,0.001
+BC emissions impulse,2092,MAGICC 5.3,0.067,0.00069,0.00098
+BC emissions impulse,2093,MAGICC 5.3,0.067,0.00069,0.00097
+BC emissions impulse,2094,MAGICC 5.3,0.066,0.00068,0.00096
+BC emissions impulse,2095,MAGICC 5.3,0.065,0.00067,0.00095
+BC emissions impulse,2096,MAGICC 5.3,0.064,0.00066,0.00094
+BC emissions impulse,2097,MAGICC 5.3,0.063,0.00066,0.00093
+BC emissions impulse,2098,MAGICC 5.3,0.063,0.00065,0.00093
+BC emissions impulse,2099,MAGICC 5.3,0.062,0.00064,0.00091
+BC emissions impulse,2100,MAGICC 5.3,0.062,0.00064,0.00091
+BC emissions impulse,2101,MAGICC 5.3,0.061,0.00063,0.00089
+BC emissions impulse,2102,MAGICC 5.3,0.061,0.00063,0.00088
+BC emissions impulse,2103,MAGICC 5.3,0.06,0.00062,0.00088
+BC emissions impulse,2104,MAGICC 5.3,0.059,0.00061,0.00087
+BC emissions impulse,2105,MAGICC 5.3,0.059,0.00061,0.00086
+BC emissions impulse,2106,MAGICC 5.3,0.059,0.0006,0.00085
+BC emissions impulse,2107,MAGICC 5.3,0.058,0.0006,0.00084
+BC emissions impulse,2108,MAGICC 5.3,0.057,0.00059,0.00083
+BC emissions impulse,2109,MAGICC 5.3,0.056,0.00058,0.00083
+BC emissions impulse,2110,MAGICC 5.3,0.055,0.00057,0.00081
+BC emissions impulse,2111,MAGICC 5.3,0.055,0.00058,0.00081
+BC emissions impulse,2112,MAGICC 5.3,0.054,0.00057,0.0008
+BC emissions impulse,2113,MAGICC 5.3,0.054,0.00056,0.0008
+BC emissions impulse,2114,MAGICC 5.3,0.053,0.00056,0.00078
+BC emissions impulse,2115,MAGICC 5.3,0.053,0.00055,0.00078
+BC emissions impulse,2116,MAGICC 5.3,0.052,0.00054,0.00077
+BC emissions impulse,2117,MAGICC 5.3,0.052,0.00054,0.00076
+BC emissions impulse,2118,MAGICC 5.3,0.051,0.00054,0.00075
+BC emissions impulse,2119,MAGICC 5.3,0.05,0.00052,0.00075
+BC emissions impulse,2120,MAGICC 5.3,0.051,0.00052,0.00075
+BC emissions impulse,2121,MAGICC 5.3,0.05,0.00052,0.00074
+BC emissions impulse,2122,MAGICC 5.3,0.05,0.00052,0.00074
+BC emissions impulse,2123,MAGICC 5.3,0.049,0.00051,0.00073
+BC emissions impulse,2124,MAGICC 5.3,0.048,0.0005,0.00071
+BC emissions impulse,2125,MAGICC 5.3,0.048,0.0005,0.00071
+BC emissions impulse,2126,MAGICC 5.3,0.047,0.00049,0.0007
+BC emissions impulse,2127,MAGICC 5.3,0.047,0.00049,0.0007
+BC emissions impulse,2128,MAGICC 5.3,0.046,0.00049,0.0007
+BC emissions impulse,2129,MAGICC 5.3,0.045,0.00047,0.00068
+BC emissions impulse,2130,MAGICC 5.3,0.045,0.00047,0.00068
+BC emissions impulse,2131,MAGICC 5.3,0.045,0.00047,0.00068
+BC emissions impulse,2132,MAGICC 5.3,0.044,0.00046,0.00066
+BC emissions impulse,2133,MAGICC 5.3,0.044,0.00046,0.00066
+BC emissions impulse,2134,MAGICC 5.3,0.043,0.00045,0.00066
+BC emissions impulse,2135,MAGICC 5.3,0.042,0.00045,0.00065
+BC emissions impulse,2136,MAGICC 5.3,0.042,0.00045,0.00065
+BC emissions impulse,2137,MAGICC 5.3,0.041,0.00045,0.00064
+BC emissions impulse,2138,MAGICC 5.3,0.041,0.00044,0.00063
+BC emissions impulse,2139,MAGICC 5.3,0.04,0.00043,0.00063
+BC emissions impulse,2140,MAGICC 5.3,0.04,0.00043,0.00062
+BC emissions impulse,2141,MAGICC 5.3,0.04,0.00043,0.00062
+BC emissions impulse,2142,MAGICC 5.3,0.039,0.00042,0.00062
+BC emissions impulse,2143,MAGICC 5.3,0.039,0.00042,0.0006
+BC emissions impulse,2144,MAGICC 5.3,0.039,0.00041,0.0006
+BC emissions impulse,2145,MAGICC 5.3,0.038,0.0004,0.00059
+BC emissions impulse,2146,MAGICC 5.3,0.038,0.0004,0.0006
+BC emissions impulse,2147,MAGICC 5.3,0.037,0.0004,0.00059
+BC emissions impulse,2148,MAGICC 5.3,0.036,0.00039,0.00059
+BC emissions impulse,2149,MAGICC 5.3,0.036,0.00039,0.00058
+BC emissions impulse,2150,MAGICC 5.3,0.036,0.00039,0.00057
+BC emissions impulse,2151,MAGICC 5.3,0.035,0.00038,0.00057
+BC emissions impulse,2152,MAGICC 5.3,0.036,0.00038,0.00056
+BC emissions impulse,2153,MAGICC 5.3,0.034,0.00037,0.00056
+BC emissions impulse,2154,MAGICC 5.3,0.035,0.00037,0.00056
+BC emissions impulse,2155,MAGICC 5.3,0.034,0.00037,0.00056
+BC emissions impulse,2156,MAGICC 5.3,0.034,0.00037,0.00055
+BC emissions impulse,2157,MAGICC 5.3,0.033,0.00036,0.00055
+BC emissions impulse,2158,MAGICC 5.3,0.033,0.00036,0.00054
+BC emissions impulse,2159,MAGICC 5.3,0.032,0.00035,0.00054
+BC emissions impulse,2160,MAGICC 5.3,0.032,0.00035,0.00053
+BC emissions impulse,2161,MAGICC 5.3,0.032,0.00034,0.00053
+BC emissions impulse,2162,MAGICC 5.3,0.032,0.00034,0.00053
+BC emissions impulse,2163,MAGICC 5.3,0.031,0.00034,0.00052
+BC emissions impulse,2164,MAGICC 5.3,0.031,0.00034,0.00051
+BC emissions impulse,2165,MAGICC 5.3,0.03,0.00033,0.00052
+BC emissions impulse,2166,MAGICC 5.3,0.03,0.00033,0.0005
+BC emissions impulse,2167,MAGICC 5.3,0.029,0.00032,0.0005
+BC emissions impulse,2168,MAGICC 5.3,0.03,0.00032,0.0005
+BC emissions impulse,2169,MAGICC 5.3,0.029,0.00031,0.0005
+BC emissions impulse,2170,MAGICC 5.3,0.028,0.00032,0.00049
+BC emissions impulse,2171,MAGICC 5.3,0.028,0.00031,0.00049
+BC emissions impulse,2172,MAGICC 5.3,0.028,0.0003,0.00049
+BC emissions impulse,2173,MAGICC 5.3,0.027,0.0003,0.00048
+BC emissions impulse,2174,MAGICC 5.3,0.027,0.0003,0.00048
+BC emissions impulse,2175,MAGICC 5.3,0.027,0.0003,0.00048
+BC emissions impulse,2176,MAGICC 5.3,0.027,0.00029,0.00047
+BC emissions impulse,2177,MAGICC 5.3,0.027,0.00029,0.00047
+BC emissions impulse,2178,MAGICC 5.3,0.026,0.00029,0.00047
+BC emissions impulse,2179,MAGICC 5.3,0.026,0.00028,0.00047
+BC emissions impulse,2180,MAGICC 5.3,0.026,0.00028,0.00046
+BC emissions impulse,2181,MAGICC 5.3,0.025,0.00028,0.00046
+BC emissions impulse,2182,MAGICC 5.3,0.025,0.00027,0.00045
+BC emissions impulse,2183,MAGICC 5.3,0.024,0.00027,0.00045
+BC emissions impulse,2184,MAGICC 5.3,0.024,0.00026,0.00045
+BC emissions impulse,2185,MAGICC 5.3,0.024,0.00026,0.00044
+BC emissions impulse,2186,MAGICC 5.3,0.024,0.00026,0.00044
+BC emissions impulse,2187,MAGICC 5.3,0.023,0.00026,0.00044
+BC emissions impulse,2188,MAGICC 5.3,0.023,0.00026,0.00043
+BC emissions impulse,2189,MAGICC 5.3,0.023,0.00025,0.00043
+BC emissions impulse,2190,MAGICC 5.3,0.023,0.00025,0.00043
+BC emissions impulse,2191,MAGICC 5.3,0.022,0.00025,0.00043
+BC emissions impulse,2192,MAGICC 5.3,0.022,0.00025,0.00043
+BC emissions impulse,2193,MAGICC 5.3,0.022,0.00024,0.00042
+BC emissions impulse,2194,MAGICC 5.3,0.022,0.00024,0.00042
+BC emissions impulse,2195,MAGICC 5.3,0.021,0.00024,0.00041
+BC emissions impulse,2196,MAGICC 5.3,0.021,0.00024,0.00041
+BC emissions impulse,2197,MAGICC 5.3,0.02,0.00023,0.0004
+BC emissions impulse,2198,MAGICC 5.3,0.02,0.00023,0.00041
+BC emissions impulse,2199,MAGICC 5.3,0.021,0.00023,0.00041
+BC emissions impulse,2200,MAGICC 5.3,0.02,0.00022,0.0004
+BC emissions impulse,2201,MAGICC 5.3,0.02,0.00022,0.00039
+BC emissions impulse,2202,MAGICC 5.3,0.019,0.00021,0.0004
+BC emissions impulse,2203,MAGICC 5.3,0.019,0.00021,0.0004
+BC emissions impulse,2204,MAGICC 5.3,0.019,0.00022,0.00039
+BC emissions impulse,2205,MAGICC 5.3,0.019,0.00021,0.00039
+BC emissions impulse,2206,MAGICC 5.3,0.018,0.00021,0.00038
+BC emissions impulse,2207,MAGICC 5.3,0.019,0.00021,0.00038
+BC emissions impulse,2208,MAGICC 5.3,0.018,0.00021,0.00038
+BC emissions impulse,2209,MAGICC 5.3,0.018,0.0002,0.00038
+BC emissions impulse,2210,MAGICC 5.3,0.018,0.0002,0.00037
+BC emissions impulse,2211,MAGICC 5.3,0.017,0.00019,0.00037
+BC emissions impulse,2212,MAGICC 5.3,0.017,0.00019,0.00037
+BC emissions impulse,2213,MAGICC 5.3,0.017,0.00019,0.00036
+BC emissions impulse,2214,MAGICC 5.3,0.017,0.00019,0.00036
+BC emissions impulse,2215,MAGICC 5.3,0.017,0.00019,0.00036
+BC emissions impulse,2216,MAGICC 5.3,0.017,0.00018,0.00036
+BC emissions impulse,2217,MAGICC 5.3,0.016,0.00018,0.00035
+BC emissions impulse,2218,MAGICC 5.3,0.016,0.00018,0.00036
+BC emissions impulse,2219,MAGICC 5.3,0.016,0.00018,0.00035
+BC emissions impulse,2220,MAGICC 5.3,0.015,0.00017,0.00035
+BC emissions impulse,2221,MAGICC 5.3,0.015,0.00018,0.00035
+BC emissions impulse,2222,MAGICC 5.3,0.016,0.00018,0.00035
+BC emissions impulse,2223,MAGICC 5.3,0.016,0.00017,0.00034
+BC emissions impulse,2224,MAGICC 5.3,0.015,0.00017,0.00034
+BC emissions impulse,2225,MAGICC 5.3,0.015,0.00017,0.00034
+BC emissions impulse,2226,MAGICC 5.3,0.015,0.00017,0.00034
+BC emissions impulse,2227,MAGICC 5.3,0.014,0.00016,0.00033
+BC emissions impulse,2228,MAGICC 5.3,0.014,0.00016,0.00034
+BC emissions impulse,2229,MAGICC 5.3,0.014,0.00015,0.00033
+BC emissions impulse,2230,MAGICC 5.3,0.014,0.00015,0.00033
+BC emissions impulse,2231,MAGICC 5.3,0.013,0.00015,0.00032
+BC emissions impulse,2232,MAGICC 5.3,0.014,0.00016,0.00033
+BC emissions impulse,2233,MAGICC 5.3,0.013,0.00015,0.00032
+BC emissions impulse,2234,MAGICC 5.3,0.013,0.00015,0.00032
+BC emissions impulse,2235,MAGICC 5.3,0.013,0.00015,0.00032
+BC emissions impulse,2236,MAGICC 5.3,0.012,0.00014,0.00031
+BC emissions impulse,2237,MAGICC 5.3,0.012,0.00014,0.00031
+BC emissions impulse,2238,MAGICC 5.3,0.012,0.00015,0.00031
+BC emissions impulse,2239,MAGICC 5.3,0.013,0.00014,0.00031
+BC emissions impulse,2240,MAGICC 5.3,0.012,0.00014,0.00031
+BC emissions impulse,2241,MAGICC 5.3,0.012,0.00013,0.00031
+BC emissions impulse,2242,MAGICC 5.3,0.011,0.00014,0.0003
+BC emissions impulse,2243,MAGICC 5.3,0.012,0.00013,0.00031
+BC emissions impulse,2244,MAGICC 5.3,0.012,0.00013,0.0003
+BC emissions impulse,2245,MAGICC 5.3,0.011,0.00013,0.0003
+BC emissions impulse,2246,MAGICC 5.3,0.011,0.00013,0.0003
+BC emissions impulse,2247,MAGICC 5.3,0.011,0.00012,0.00029
+BC emissions impulse,2248,MAGICC 5.3,0.011,0.00013,0.00029
+BC emissions impulse,2249,MAGICC 5.3,0.011,0.00012,0.00029
+BC emissions impulse,2250,MAGICC 5.3,0.011,0.00012,0.00029
+BC emissions impulse,2251,MAGICC 5.3,0.01,0.00012,0.00029
+BC emissions impulse,2252,MAGICC 5.3,0.01,0.00011,0.00028
+BC emissions impulse,2253,MAGICC 5.3,0.01,0.00012,0.00029
+BC emissions impulse,2254,MAGICC 5.3,0.01,0.00012,0.00029
+BC emissions impulse,2255,MAGICC 5.3,0.009,0.00012,0.00028
+BC emissions impulse,2256,MAGICC 5.3,0.01,0.00011,0.00028
+BC emissions impulse,2257,MAGICC 5.3,0.009,0.00011,0.00028
+BC emissions impulse,2258,MAGICC 5.3,0.009,0.00011,0.00027
+BC emissions impulse,2259,MAGICC 5.3,0.01,0.0001,0.00028
+BC emissions impulse,2260,MAGICC 5.3,0.009,0.00011,0.00027
+BC emissions impulse,2261,MAGICC 5.3,0.009,0.0001,0.00027
+BC emissions impulse,2262,MAGICC 5.3,0.008,0.0001,0.00027
+BC emissions impulse,2263,MAGICC 5.3,0.009,0.0001,0.00026
+BC emissions impulse,2264,MAGICC 5.3,0.008,0.0001,0.00026
+BC emissions impulse,2265,MAGICC 5.3,0.009,0.0001,0.00026
+BC emissions impulse,2266,MAGICC 5.3,0.008,0.0001,0.00027
+BC emissions impulse,2267,MAGICC 5.3,0.008,0.0001,0.00026
+BC emissions impulse,2268,MAGICC 5.3,0.008,0.00009,0.00026
+BC emissions impulse,2269,MAGICC 5.3,0.008,0.00009,0.00026
+BC emissions impulse,2270,MAGICC 5.3,0.008,0.00009,0.00026
+BC emissions impulse,2271,MAGICC 5.3,0.008,0.00008,0.00025
+BC emissions impulse,2272,MAGICC 5.3,0.008,0.00009,0.00026
+BC emissions impulse,2273,MAGICC 5.3,0.008,0.00008,0.00025
+BC emissions impulse,2274,MAGICC 5.3,0.007,0.00008,0.00025
+BC emissions impulse,2275,MAGICC 5.3,0.007,0.00008,0.00025
+BC emissions impulse,2276,MAGICC 5.3,0.007,0.00008,0.00025
+BC emissions impulse,2277,MAGICC 5.3,0.007,0.00008,0.00024
+BC emissions impulse,2278,MAGICC 5.3,0.007,0.00008,0.00025
+BC emissions impulse,2279,MAGICC 5.3,0.007,0.00008,0.00024
+BC emissions impulse,2280,MAGICC 5.3,0.007,0.00008,0.00024
+BC emissions impulse,2281,MAGICC 5.3,0.006,0.00008,0.00024
+BC emissions impulse,2282,MAGICC 5.3,0.006,0.00008,0.00024
+BC emissions impulse,2283,MAGICC 5.3,0.007,0.00007,0.00023
+BC emissions impulse,2284,MAGICC 5.3,0.006,0.00007,0.00024
+BC emissions impulse,2285,MAGICC 5.3,0.006,0.00007,0.00023
+BC emissions impulse,2286,MAGICC 5.3,0.006,0.00007,0.00023
+BC emissions impulse,2287,MAGICC 5.3,0.006,0.00007,0.00023
+BC emissions impulse,2288,MAGICC 5.3,0.006,0.00007,0.00023
+BC emissions impulse,2289,MAGICC 5.3,0.006,0.00007,0.00023
+BC emissions impulse,2290,MAGICC 5.3,0.006,0.00007,0.00023
+BC emissions impulse,2291,MAGICC 5.3,0.005,0.00006,0.00022
+BC emissions impulse,2292,MAGICC 5.3,0.006,0.00007,0.00023
+BC emissions impulse,2293,MAGICC 5.3,0.006,0.00007,0.00022
+BC emissions impulse,2294,MAGICC 5.3,0.005,0.00006,0.00022
+BC emissions impulse,2295,MAGICC 5.3,0.006,0.00006,0.00023
+BC emissions impulse,2296,MAGICC 5.3,0.005,0.00006,0.00022
+BC emissions impulse,2297,MAGICC 5.3,0.005,0.00006,0.00022
+BC emissions impulse,2298,MAGICC 5.3,0.005,0.00006,0.00022
+BC emissions impulse,2299,MAGICC 5.3,0.005,0.00005,0.00022
+BC emissions impulse,2300,MAGICC 5.3,0.005,0.00006,0.00021
+BC emissions impulse,2010,MAGICC 6.0,0,0,0
+BC emissions impulse,2011,MAGICC 6.0,0,0,0
+BC emissions impulse,2012,MAGICC 6.0,0,0,0
+BC emissions impulse,2013,MAGICC 6.0,0,0,0
+BC emissions impulse,2014,MAGICC 6.0,0,0.1590021,0.05735343
+BC emissions impulse,2015,MAGICC 6.0,-0.02982,0.3173515,0.08486769
+BC emissions impulse,2016,MAGICC 6.0,-0.06977,0.1574203,0.04207694
+BC emissions impulse,2017,MAGICC 6.0,-0.02262,-0.0010677,0.0248292
+BC emissions impulse,2018,MAGICC 6.0,0.07601,0.0003413,0.0182794
+BC emissions impulse,2019,MAGICC 6.0,0.14067,0.0012837,0.0146049
+BC emissions impulse,2020,MAGICC 6.0,0.17866,0.0017542,0.0121428
+BC emissions impulse,2021,MAGICC 6.0,0.20289,0.002017,0.0103813
+BC emissions impulse,2022,MAGICC 6.0,0.21865,0.0022123,0.0090693
+BC emissions impulse,2023,MAGICC 6.0,0.22862,0.0023393,0.0080591
+BC emissions impulse,2024,MAGICC 6.0,0.23453,0.0024135,0.0072596
+BC emissions impulse,2025,MAGICC 6.0,0.23754,0.0024506,0.0066127
+BC emissions impulse,2026,MAGICC 6.0,0.23852,0.0024617,0.006079
+BC emissions impulse,2027,MAGICC 6.0,0.23805,0.0024548,0.0056316
+BC emissions impulse,2028,MAGICC 6.0,0.23658,0.0024353,0.0052513
+BC emissions impulse,2029,MAGICC 6.0,0.2344,0.0024072,0.0049238
+BC emissions impulse,2030,MAGICC 6.0,0.23175,0.0023731,0.0046388
+BC emissions impulse,2031,MAGICC 6.0,0.22878,0.002335,0.0043884
+BC emissions impulse,2032,MAGICC 6.0,0.22561,0.0022946,0.0041667
+BC emissions impulse,2033,MAGICC 6.0,0.22233,0.0022527,0.0039688
+BC emissions impulse,2034,MAGICC 6.0,0.21899,0.0022104,0.0037908
+BC emissions impulse,2035,MAGICC 6.0,0.21562,0.0021677,0.00363
+BC emissions impulse,2036,MAGICC 6.0,0.21227,0.0021254,0.0034839
+BC emissions impulse,2037,MAGICC 6.0,0.20895,0.0020835,0.0033504
+BC emissions impulse,2038,MAGICC 6.0,0.20569,0.0020421,0.0032277
+BC emissions impulse,2039,MAGICC 6.0,0.20248,0.0020015,0.0031148
+BC emissions impulse,2040,MAGICC 6.0,0.19934,0.0019617,0.0030103
+BC emissions impulse,2041,MAGICC 6.0,0.19628,0.0019227,0.0029132
+BC emissions impulse,2042,MAGICC 6.0,0.19327,0.0018845,0.0028226
+BC emissions impulse,2043,MAGICC 6.0,0.19036,0.0018473,0.0027381
+BC emissions impulse,2044,MAGICC 6.0,0.1875,0.0018111,0.0026589
+BC emissions impulse,2045,MAGICC 6.0,0.18472,0.0017756,0.0025844
+BC emissions impulse,2046,MAGICC 6.0,0.18201,0.0017409,0.0025142
+BC emissions impulse,2047,MAGICC 6.0,0.17937,0.001707,0.0024479
+BC emissions impulse,2048,MAGICC 6.0,0.17678,0.0016729,0.0023848
+BC emissions impulse,2049,MAGICC 6.0,0.17427,0.0016412,0.0023255
+BC emissions impulse,2050,MAGICC 6.0,0.17182,0.0016122,0.0022697
+BC emissions impulse,2051,MAGICC 6.0,0.16942,0.0015841,0.0022167
+BC emissions impulse,2052,MAGICC 6.0,0.16708,0.0015568,0.0021665
+BC emissions impulse,2053,MAGICC 6.0,0.16481,0.0015304,0.0021187
+BC emissions impulse,2054,MAGICC 6.0,0.16257,0.0015048,0.0020731
+BC emissions impulse,2055,MAGICC 6.0,0.16039,0.0014799,0.0020296
+BC emissions impulse,2056,MAGICC 6.0,0.15827,0.0014559,0.0019882
+BC emissions impulse,2057,MAGICC 6.0,0.15617,0.0014325,0.0019485
+BC emissions impulse,2058,MAGICC 6.0,0.15414,0.0014098,0.0019105
+BC emissions impulse,2059,MAGICC 6.0,0.15213,0.0013878,0.001874
+BC emissions impulse,2060,MAGICC 6.0,0.15017,0.0013664,0.0018391
+BC emissions impulse,2061,MAGICC 6.0,0.14826,0.0013455,0.0018055
+BC emissions impulse,2062,MAGICC 6.0,0.14638,0.0013253,0.0017732
+BC emissions impulse,2063,MAGICC 6.0,0.14454,0.0013058,0.0017422
+BC emissions impulse,2064,MAGICC 6.0,0.14273,0.0012867,0.0017123
+BC emissions impulse,2065,MAGICC 6.0,0.14095,0.0012683,0.0016835
+BC emissions impulse,2066,MAGICC 6.0,0.13921,0.0012504,0.0016558
+BC emissions impulse,2067,MAGICC 6.0,0.1375,0.001233,0.001629
+BC emissions impulse,2068,MAGICC 6.0,0.13582,0.0012161,0.0016033
+BC emissions impulse,2069,MAGICC 6.0,0.13416,0.0011997,0.0015783
+BC emissions impulse,2070,MAGICC 6.0,0.13254,0.0011837,0.0015543
+BC emissions impulse,2071,MAGICC 6.0,0.13094,0.0011681,0.0015309
+BC emissions impulse,2072,MAGICC 6.0,0.12937,0.001153,0.0015083
+BC emissions impulse,2073,MAGICC 6.0,0.12782,0.0011383,0.0014866
+BC emissions impulse,2074,MAGICC 6.0,0.1263,0.0011242,0.0014654
+BC emissions impulse,2075,MAGICC 6.0,0.12481,0.0011104,0.001445
+BC emissions impulse,2076,MAGICC 6.0,0.12332,0.001097,0.0014252
+BC emissions impulse,2077,MAGICC 6.0,0.12187,0.001084,0.001406
+BC emissions impulse,2078,MAGICC 6.0,0.12043,0.0010713,0.0013874
+BC emissions impulse,2079,MAGICC 6.0,0.11902,0.0010602,0.0013697
+BC emissions impulse,2080,MAGICC 6.0,0.11763,0.0010502,0.0013528
+BC emissions impulse,2081,MAGICC 6.0,0.11625,0.0010402,0.0013363
+BC emissions impulse,2082,MAGICC 6.0,0.11489,0.0010303,0.0013203
+BC emissions impulse,2083,MAGICC 6.0,0.11355,0.00102,0.0013047
+BC emissions impulse,2084,MAGICC 6.0,0.11224,0.0010099,0.0012895
+BC emissions impulse,2085,MAGICC 6.0,0.11095,0.0009996,0.0012746
+BC emissions impulse,2086,MAGICC 6.0,0.10967,0.0009892,0.0012601
+BC emissions impulse,2087,MAGICC 6.0,0.10841,0.0009788,0.0012459
+BC emissions impulse,2088,MAGICC 6.0,0.10719,0.0009685,0.0012319
+BC emissions impulse,2089,MAGICC 6.0,0.10597,0.0009582,0.0012182
+BC emissions impulse,2090,MAGICC 6.0,0.10478,0.0009478,0.0012047
+BC emissions impulse,2091,MAGICC 6.0,0.10361,0.0009376,0.0011916
+BC emissions impulse,2092,MAGICC 6.0,0.10245,0.0009274,0.0011786
+BC emissions impulse,2093,MAGICC 6.0,0.10132,0.0009173,0.0011659
+BC emissions impulse,2094,MAGICC 6.0,0.10021,0.0009073,0.0011534
+BC emissions impulse,2095,MAGICC 6.0,0.09911,0.0008973,0.0011411
+BC emissions impulse,2096,MAGICC 6.0,0.09802,0.0008874,0.0011291
+BC emissions impulse,2097,MAGICC 6.0,0.09696,0.0008776,0.0011172
+BC emissions impulse,2098,MAGICC 6.0,0.09592,0.000868,0.0011056
+BC emissions impulse,2099,MAGICC 6.0,0.09489,0.0008584,0.0010941
+BC emissions impulse,2100,MAGICC 6.0,0.09388,0.0008489,0.0010829
+BC emissions impulse,2101,MAGICC 6.0,0.09288,0.0008395,0.0010718
+BC emissions impulse,2102,MAGICC 6.0,0.0919,0.0008304,0.001061
+BC emissions impulse,2103,MAGICC 6.0,0.09093,0.0008213,0.0010503
+BC emissions impulse,2104,MAGICC 6.0,0.08998,0.0008124,0.0010398
+BC emissions impulse,2105,MAGICC 6.0,0.08904,0.0008037,0.0010295
+BC emissions impulse,2106,MAGICC 6.0,0.08811,0.0007952,0.0010193
+BC emissions impulse,2107,MAGICC 6.0,0.0872,0.0007869,0.0010095
+BC emissions impulse,2108,MAGICC 6.0,0.0863,0.0007787,0.0009997
+BC emissions impulse,2109,MAGICC 6.0,0.0854,0.0007707,0.0009902
+BC emissions impulse,2110,MAGICC 6.0,0.08454,0.0007628,0.0009807
+BC emissions impulse,2111,MAGICC 6.0,0.08366,0.0007549,0.0009715
+BC emissions impulse,2112,MAGICC 6.0,0.08281,0.0007473,0.0009624
+BC emissions impulse,2113,MAGICC 6.0,0.08196,0.0007398,0.0009536
+BC emissions impulse,2114,MAGICC 6.0,0.08113,0.0007323,0.0009448
+BC emissions impulse,2115,MAGICC 6.0,0.08031,0.0007251,0.0009362
+BC emissions impulse,2116,MAGICC 6.0,0.07949,0.0007178,0.0009277
+BC emissions impulse,2117,MAGICC 6.0,0.07869,0.0007108,0.0009194
+BC emissions impulse,2118,MAGICC 6.0,0.07789,0.0007038,0.0009113
+BC emissions impulse,2119,MAGICC 6.0,0.07711,0.0006969,0.0009032
+BC emissions impulse,2120,MAGICC 6.0,0.07634,0.0006901,0.0008953
+BC emissions impulse,2121,MAGICC 6.0,0.07558,0.0006834,0.0008875
+BC emissions impulse,2122,MAGICC 6.0,0.07482,0.0006768,0.0008798
+BC emissions impulse,2123,MAGICC 6.0,0.07407,0.0006703,0.0008722
+BC emissions impulse,2124,MAGICC 6.0,0.07333,0.0006638,0.0008648
+BC emissions impulse,2125,MAGICC 6.0,0.07261,0.0006574,0.0008575
+BC emissions impulse,2126,MAGICC 6.0,0.07189,0.0006511,0.0008503
+BC emissions impulse,2127,MAGICC 6.0,0.07118,0.0006449,0.0008432
+BC emissions impulse,2128,MAGICC 6.0,0.07047,0.0006387,0.0008362
+BC emissions impulse,2129,MAGICC 6.0,0.06978,0.0006326,0.0008292
+BC emissions impulse,2130,MAGICC 6.0,0.06909,0.0006266,0.0008224
+BC emissions impulse,2131,MAGICC 6.0,0.06842,0.0006207,0.0008156
+BC emissions impulse,2132,MAGICC 6.0,0.06775,0.0006148,0.000809
+BC emissions impulse,2133,MAGICC 6.0,0.06708,0.0006089,0.0008024
+BC emissions impulse,2134,MAGICC 6.0,0.06643,0.0006032,0.000796
+BC emissions impulse,2135,MAGICC 6.0,0.06579,0.0005975,0.0007896
+BC emissions impulse,2136,MAGICC 6.0,0.06515,0.0005919,0.0007833
+BC emissions impulse,2137,MAGICC 6.0,0.06452,0.0005863,0.0007771
+BC emissions impulse,2138,MAGICC 6.0,0.06389,0.0005808,0.0007709
+BC emissions impulse,2139,MAGICC 6.0,0.06328,0.0005753,0.0007649
+BC emissions impulse,2140,MAGICC 6.0,0.06267,0.00057,0.0007589
+BC emissions impulse,2141,MAGICC 6.0,0.06206,0.0005647,0.000753
+BC emissions impulse,2142,MAGICC 6.0,0.06147,0.0005594,0.0007472
+BC emissions impulse,2143,MAGICC 6.0,0.06089,0.0005542,0.0007414
+BC emissions impulse,2144,MAGICC 6.0,0.0603,0.0005491,0.0007357
+BC emissions impulse,2145,MAGICC 6.0,0.05973,0.0005439,0.00073
+BC emissions impulse,2146,MAGICC 6.0,0.05916,0.000539,0.0007246
+BC emissions impulse,2147,MAGICC 6.0,0.0586,0.000534,0.000719
+BC emissions impulse,2148,MAGICC 6.0,0.05804,0.0005291,0.0007136
+BC emissions impulse,2149,MAGICC 6.0,0.05749,0.0005242,0.0007082
+BC emissions impulse,2150,MAGICC 6.0,0.05695,0.0005194,0.000703
+BC emissions impulse,2151,MAGICC 6.0,0.05641,0.0005146,0.0006978
+BC emissions impulse,2152,MAGICC 6.0,0.05587,0.0005099,0.0006925
+BC emissions impulse,2153,MAGICC 6.0,0.05535,0.0005052,0.0006875
+BC emissions impulse,2154,MAGICC 6.0,0.05484,0.0005005,0.0006824
+BC emissions impulse,2155,MAGICC 6.0,0.05432,0.0004959,0.0006774
+BC emissions impulse,2156,MAGICC 6.0,0.05381,0.0004914,0.0006725
+BC emissions impulse,2157,MAGICC 6.0,0.05331,0.0004868,0.0006675
+BC emissions impulse,2158,MAGICC 6.0,0.05281,0.0004824,0.0006627
+BC emissions impulse,2159,MAGICC 6.0,0.05232,0.000478,0.0006579
+BC emissions impulse,2160,MAGICC 6.0,0.05183,0.0004736,0.0006532
+BC emissions impulse,2161,MAGICC 6.0,0.05136,0.0004693,0.0006484
+BC emissions impulse,2162,MAGICC 6.0,0.05088,0.000465,0.0006438
+BC emissions impulse,2163,MAGICC 6.0,0.0504,0.0004608,0.0006392
+BC emissions impulse,2164,MAGICC 6.0,0.04994,0.0004566,0.0006346
+BC emissions impulse,2165,MAGICC 6.0,0.04948,0.0004525,0.0006302
+BC emissions impulse,2166,MAGICC 6.0,0.04903,0.0004483,0.0006258
+BC emissions impulse,2167,MAGICC 6.0,0.04858,0.0004442,0.0006213
+BC emissions impulse,2168,MAGICC 6.0,0.04813,0.0004403,0.0006169
+BC emissions impulse,2169,MAGICC 6.0,0.04769,0.0004363,0.0006127
+BC emissions impulse,2170,MAGICC 6.0,0.04725,0.0004323,0.0006084
+BC emissions impulse,2171,MAGICC 6.0,0.04682,0.0004285,0.0006042
+BC emissions impulse,2172,MAGICC 6.0,0.04639,0.0004245,0.0006
+BC emissions impulse,2173,MAGICC 6.0,0.04597,0.0004207,0.0005959
+BC emissions impulse,2174,MAGICC 6.0,0.04555,0.000417,0.0005918
+BC emissions impulse,2175,MAGICC 6.0,0.04514,0.0004132,0.0005877
+BC emissions impulse,2176,MAGICC 6.0,0.04472,0.0004095,0.0005837
+BC emissions impulse,2177,MAGICC 6.0,0.04432,0.0004059,0.0005797
+BC emissions impulse,2178,MAGICC 6.0,0.04391,0.0004022,0.0005758
+BC emissions impulse,2179,MAGICC 6.0,0.04352,0.0003986,0.0005719
+BC emissions impulse,2180,MAGICC 6.0,0.04313,0.0003951,0.0005681
+BC emissions impulse,2181,MAGICC 6.0,0.04274,0.0003915,0.0005642
+BC emissions impulse,2182,MAGICC 6.0,0.04235,0.0003881,0.0005604
+BC emissions impulse,2183,MAGICC 6.0,0.04197,0.0003846,0.0005567
+BC emissions impulse,2184,MAGICC 6.0,0.04159,0.0003811,0.000553
+BC emissions impulse,2185,MAGICC 6.0,0.04121,0.0003778,0.0005494
+BC emissions impulse,2186,MAGICC 6.0,0.04084,0.0003744,0.0005458
+BC emissions impulse,2187,MAGICC 6.0,0.04047,0.000371,0.0005421
+BC emissions impulse,2188,MAGICC 6.0,0.04011,0.0003677,0.0005386
+BC emissions impulse,2189,MAGICC 6.0,0.03976,0.0003645,0.000535
+BC emissions impulse,2190,MAGICC 6.0,0.0394,0.0003612,0.0005315
+BC emissions impulse,2191,MAGICC 6.0,0.03904,0.0003581,0.000528
+BC emissions impulse,2192,MAGICC 6.0,0.03869,0.0003549,0.0005246
+BC emissions impulse,2193,MAGICC 6.0,0.03834,0.0003518,0.0005213
+BC emissions impulse,2194,MAGICC 6.0,0.038,0.0003487,0.0005179
+BC emissions impulse,2195,MAGICC 6.0,0.03766,0.0003456,0.0005145
+BC emissions impulse,2196,MAGICC 6.0,0.03732,0.0003425,0.0005112
+BC emissions impulse,2197,MAGICC 6.0,0.03699,0.0003395,0.0005079
+BC emissions impulse,2198,MAGICC 6.0,0.03666,0.0003365,0.0005047
+BC emissions impulse,2199,MAGICC 6.0,0.03634,0.0003335,0.0005015
+BC emissions impulse,2200,MAGICC 6.0,0.03601,0.0003306,0.0004983
+BC emissions impulse,2201,MAGICC 6.0,0.03569,0.0003277,0.0004951
+BC emissions impulse,2202,MAGICC 6.0,0.03538,0.0003249,0.000492
+BC emissions impulse,2203,MAGICC 6.0,0.03506,0.000322,0.0004889
+BC emissions impulse,2204,MAGICC 6.0,0.03475,0.0003191,0.0004858
+BC emissions impulse,2205,MAGICC 6.0,0.03444,0.0003164,0.0004828
+BC emissions impulse,2206,MAGICC 6.0,0.03413,0.0003136,0.0004798
+BC emissions impulse,2207,MAGICC 6.0,0.03383,0.0003108,0.0004768
+BC emissions impulse,2208,MAGICC 6.0,0.03353,0.0003081,0.0004738
+BC emissions impulse,2209,MAGICC 6.0,0.03324,0.0003053,0.0004709
+BC emissions impulse,2210,MAGICC 6.0,0.03294,0.0003027,0.0004679
+BC emissions impulse,2211,MAGICC 6.0,0.03264,0.0003,0.000465
+BC emissions impulse,2212,MAGICC 6.0,0.03236,0.0002974,0.0004622
+BC emissions impulse,2213,MAGICC 6.0,0.03208,0.0002948,0.0004593
+BC emissions impulse,2214,MAGICC 6.0,0.03179,0.0002922,0.0004565
+BC emissions impulse,2215,MAGICC 6.0,0.03151,0.0002896,0.0004537
+BC emissions impulse,2216,MAGICC 6.0,0.03123,0.0002871,0.0004509
+BC emissions impulse,2217,MAGICC 6.0,0.03095,0.0002846,0.0004482
+BC emissions impulse,2218,MAGICC 6.0,0.03069,0.0002821,0.0004454
+BC emissions impulse,2219,MAGICC 6.0,0.03041,0.0002796,0.0004427
+BC emissions impulse,2220,MAGICC 6.0,0.03014,0.0002772,0.00044
+BC emissions impulse,2221,MAGICC 6.0,0.02987,0.0002747,0.0004374
+BC emissions impulse,2222,MAGICC 6.0,0.02961,0.0002724,0.0004347
+BC emissions impulse,2223,MAGICC 6.0,0.02936,0.00027,0.0004322
+BC emissions impulse,2224,MAGICC 6.0,0.02909,0.0002676,0.0004296
+BC emissions impulse,2225,MAGICC 6.0,0.02883,0.0002652,0.000427
+BC emissions impulse,2226,MAGICC 6.0,0.02858,0.0002629,0.0004245
+BC emissions impulse,2227,MAGICC 6.0,0.02833,0.0002606,0.0004219
+BC emissions impulse,2228,MAGICC 6.0,0.02809,0.0002584,0.0004194
+BC emissions impulse,2229,MAGICC 6.0,0.02784,0.0002561,0.0004169
+BC emissions impulse,2230,MAGICC 6.0,0.02759,0.0002538,0.0004145
+BC emissions impulse,2231,MAGICC 6.0,0.02735,0.0002517,0.0004121
+BC emissions impulse,2232,MAGICC 6.0,0.02711,0.0002494,0.0004096
+BC emissions impulse,2233,MAGICC 6.0,0.02687,0.0002473,0.0004072
+BC emissions impulse,2234,MAGICC 6.0,0.02663,0.0002451,0.0004048
+BC emissions impulse,2235,MAGICC 6.0,0.0264,0.0002429,0.0004025
+BC emissions impulse,2236,MAGICC 6.0,0.02617,0.0002408,0.0004001
+BC emissions impulse,2237,MAGICC 6.0,0.02594,0.0002387,0.0003977
+BC emissions impulse,2238,MAGICC 6.0,0.02571,0.0002366,0.0003954
+BC emissions impulse,2239,MAGICC 6.0,0.02548,0.0002346,0.0003931
+BC emissions impulse,2240,MAGICC 6.0,0.02526,0.0002325,0.0003909
+BC emissions impulse,2241,MAGICC 6.0,0.02504,0.0002304,0.0003886
+BC emissions impulse,2242,MAGICC 6.0,0.02482,0.0002284,0.0003864
+BC emissions impulse,2243,MAGICC 6.0,0.0246,0.0002264,0.0003841
+BC emissions impulse,2244,MAGICC 6.0,0.02439,0.0002245,0.000382
+BC emissions impulse,2245,MAGICC 6.0,0.02417,0.0002225,0.0003798
+BC emissions impulse,2246,MAGICC 6.0,0.02396,0.0002205,0.0003776
+BC emissions impulse,2247,MAGICC 6.0,0.02375,0.0002186,0.0003754
+BC emissions impulse,2248,MAGICC 6.0,0.02354,0.0002167,0.0003733
+BC emissions impulse,2249,MAGICC 6.0,0.02333,0.0002148,0.0003712
+BC emissions impulse,2250,MAGICC 6.0,0.02323,0.0002139,0.0003694
+BC emissions impulse,2251,MAGICC 6.0,0.02323,0.0002139,0.0003678
+BC emissions impulse,2252,MAGICC 6.0,0.02323,0.0002139,0.0003662
+BC emissions impulse,2253,MAGICC 6.0,0.02323,0.0002139,0.0003648
+BC emissions impulse,2254,MAGICC 6.0,0.02323,0.0002139,0.0003634
+BC emissions impulse,2255,MAGICC 6.0,0.02323,0.0002139,0.0003621
+BC emissions impulse,2256,MAGICC 6.0,0.02323,0.0002139,0.0003608
+BC emissions impulse,2257,MAGICC 6.0,0.02323,0.0002139,0.0003596
+BC emissions impulse,2258,MAGICC 6.0,0.02323,0.0002139,0.0003583
+BC emissions impulse,2259,MAGICC 6.0,0.02323,0.0002139,0.0003571
+BC emissions impulse,2260,MAGICC 6.0,0.02323,0.0002139,0.000356
+BC emissions impulse,2261,MAGICC 6.0,0.02323,0.0002139,0.0003549
+BC emissions impulse,2262,MAGICC 6.0,0.02323,0.0002139,0.0003538
+BC emissions impulse,2263,MAGICC 6.0,0.02323,0.0002139,0.0003526
+BC emissions impulse,2264,MAGICC 6.0,0.02323,0.0002139,0.0003516
+BC emissions impulse,2265,MAGICC 6.0,0.02323,0.0002139,0.0003505
+BC emissions impulse,2266,MAGICC 6.0,0.02323,0.0002139,0.0003495
+BC emissions impulse,2267,MAGICC 6.0,0.02323,0.0002139,0.0003484
+BC emissions impulse,2268,MAGICC 6.0,0.02323,0.0002139,0.0003474
+BC emissions impulse,2269,MAGICC 6.0,0.02323,0.0002139,0.0003464
+BC emissions impulse,2270,MAGICC 6.0,0.02323,0.0002139,0.0003455
+BC emissions impulse,2271,MAGICC 6.0,0.02323,0.0002139,0.0003445
+BC emissions impulse,2272,MAGICC 6.0,0.02323,0.0002139,0.0003435
+BC emissions impulse,2273,MAGICC 6.0,0.02323,0.0002139,0.0003426
+BC emissions impulse,2274,MAGICC 6.0,0.02323,0.0002139,0.0003417
+BC emissions impulse,2275,MAGICC 6.0,0.02323,0.0002139,0.0003408
+BC emissions impulse,2276,MAGICC 6.0,0.02323,0.0002139,0.0003399
+BC emissions impulse,2277,MAGICC 6.0,0.02323,0.0002139,0.0003389
+BC emissions impulse,2278,MAGICC 6.0,0.02323,0.0002139,0.0003381
+BC emissions impulse,2279,MAGICC 6.0,0.02323,0.0002139,0.0003372
+BC emissions impulse,2280,MAGICC 6.0,0.02323,0.0002139,0.0003363
+BC emissions impulse,2281,MAGICC 6.0,0.02323,0.0002139,0.0003355
+BC emissions impulse,2282,MAGICC 6.0,0.02323,0.0002139,0.0003347
+BC emissions impulse,2283,MAGICC 6.0,0.02323,0.0002139,0.0003338
+BC emissions impulse,2284,MAGICC 6.0,0.02323,0.0002139,0.0003331
+BC emissions impulse,2285,MAGICC 6.0,0.02323,0.0002139,0.0003323
+BC emissions impulse,2286,MAGICC 6.0,0.02323,0.0002139,0.0003314
+BC emissions impulse,2287,MAGICC 6.0,0.02323,0.0002139,0.0003306
+BC emissions impulse,2288,MAGICC 6.0,0.02323,0.0002139,0.0003299
+BC emissions impulse,2289,MAGICC 6.0,0.02323,0.0002139,0.0003291
+BC emissions impulse,2290,MAGICC 6.0,0.02323,0.0002139,0.0003284
+BC emissions impulse,2291,MAGICC 6.0,0.02323,0.0002139,0.0003276
+BC emissions impulse,2292,MAGICC 6.0,0.02323,0.0002139,0.0003268
+BC emissions impulse,2293,MAGICC 6.0,0.02323,0.0002139,0.0003261
+BC emissions impulse,2294,MAGICC 6.0,0.02323,0.0002139,0.0003254
+BC emissions impulse,2295,MAGICC 6.0,0.02323,0.0002139,0.0003246
+BC emissions impulse,2296,MAGICC 6.0,0.02323,0.0002139,0.0003239
+BC emissions impulse,2297,MAGICC 6.0,0.02323,0.0002139,0.0003232
+BC emissions impulse,2298,MAGICC 6.0,0.02323,0.0002139,0.0003225
+BC emissions impulse,2299,MAGICC 6.0,0.02323,0.0002139,0.0003218
+BC emissions impulse,2300,MAGICC 6.0,0.02323,0.0002139,0.0003211
+BC emissions impulse,2014,AR5-IR,NA,6.65E-17,0.000298608
+BC emissions impulse,2015,AR5-IR,NA,0.59301059,0.04516764
+BC emissions impulse,2016,AR5-IR,NA,3.66E-14,0.040166484
+BC emissions impulse,2017,AR5-IR,NA,-1.64E-16,0.035726464
+BC emissions impulse,2018,AR5-IR,NA,-1.79E-17,0.031784601
+BC emissions impulse,2019,AR5-IR,NA,-2.07E-17,0.028284985
+BC emissions impulse,2020,AR5-IR,NA,1.65E-17,0.025177982
+BC emissions impulse,2021,AR5-IR,NA,-2.18E-17,0.022419527
+BC emissions impulse,2022,AR5-IR,NA,-5.84E-18,0.019970501
+BC emissions impulse,2023,AR5-IR,NA,4.65E-18,0.017796177
+BC emissions impulse,2024,AR5-IR,NA,-5.23E-18,0.015865723
+BC emissions impulse,2025,AR5-IR,NA,5.49E-18,0.01415177
+BC emissions impulse,2026,AR5-IR,NA,-2.22E-17,0.012630018
+BC emissions impulse,2027,AR5-IR,NA,-1.51E-17,0.011278897
+BC emissions impulse,2028,AR5-IR,NA,4.66E-19,0.010079256
+BC emissions impulse,2029,AR5-IR,NA,1.39E-18,0.009014095
+BC emissions impulse,2030,AR5-IR,NA,2.31E-17,0.008068321
+BC emissions impulse,2031,AR5-IR,NA,-7.17E-18,0.007228534
+BC emissions impulse,2032,AR5-IR,NA,-1.29E-17,0.00648284
+BC emissions impulse,2033,AR5-IR,NA,1.50E-17,0.005820678
+BC emissions impulse,2034,AR5-IR,NA,-4.00E-18,0.005232675
+BC emissions impulse,2035,AR5-IR,NA,1.31E-18,0.004710506
+BC emissions impulse,2036,AR5-IR,NA,-2.20E-17,0.004246784
+BC emissions impulse,2037,AR5-IR,NA,-2.99E-18,0.003834949
+BC emissions impulse,2038,AR5-IR,NA,7.19E-18,0.003469178
+BC emissions impulse,2039,AR5-IR,NA,9.69E-18,0.003144301
+BC emissions impulse,2040,AR5-IR,NA,-4.48E-19,0.00285573
+BC emissions impulse,2041,AR5-IR,NA,5.96E-18,0.002599389
+BC emissions impulse,2042,AR5-IR,NA,1.49E-17,0.002371662
+BC emissions impulse,2043,AR5-IR,NA,-9.62E-18,0.002169338
+BC emissions impulse,2044,AR5-IR,NA,8.28E-18,0.001989566
+BC emissions impulse,2045,AR5-IR,NA,2.18E-18,0.001829815
+BC emissions impulse,2046,AR5-IR,NA,-9.92E-18,0.001687838
+BC emissions impulse,2047,AR5-IR,NA,1.06E-17,0.001561642
+BC emissions impulse,2048,AR5-IR,NA,-1.10E-18,0.001449455
+BC emissions impulse,2049,AR5-IR,NA,6.05E-19,0.001349705
+BC emissions impulse,2050,AR5-IR,NA,1.88E-18,0.001260998
+BC emissions impulse,2051,AR5-IR,NA,-6.47E-18,0.001182093
+BC emissions impulse,2052,AR5-IR,NA,5.56E-18,0.001111891
+BC emissions impulse,2053,AR5-IR,NA,-4.50E-19,0.001049416
+BC emissions impulse,2054,AR5-IR,NA,1.41E-17,0.000993801
+BC emissions impulse,2055,AR5-IR,NA,5.58E-19,0.000944276
+BC emissions impulse,2056,AR5-IR,NA,-3.98E-18,0.000900158
+BC emissions impulse,2057,AR5-IR,NA,5.20E-18,0.000860841
+BC emissions impulse,2058,AR5-IR,NA,1.03E-18,0.000825786
+BC emissions impulse,2059,AR5-IR,NA,-5.10E-18,0.000794516
+BC emissions impulse,2060,AR5-IR,NA,-5.48E-18,0.000766605
+BC emissions impulse,2061,AR5-IR,NA,-4.15E-19,0.000741677
+BC emissions impulse,2062,AR5-IR,NA,5.50E-19,0.000719398
+BC emissions impulse,2063,AR5-IR,NA,3.66E-18,0.000699471
+BC emissions impulse,2064,AR5-IR,NA,7.64E-18,0.000681632
+BC emissions impulse,2065,AR5-IR,NA,-5.03E-18,0.000665647
+BC emissions impulse,2066,AR5-IR,NA,-5.50E-18,0.000651309
+BC emissions impulse,2067,AR5-IR,NA,4.01E-18,0.000638433
+BC emissions impulse,2068,AR5-IR,NA,7.44E-18,0.000626855
+BC emissions impulse,2069,AR5-IR,NA,-3.93E-18,0.000616429
+BC emissions impulse,2070,AR5-IR,NA,1.42E-18,0.000607028
+BC emissions impulse,2071,AR5-IR,NA,-5.77E-18,0.000598536
+BC emissions impulse,2072,AR5-IR,NA,4.47E-18,0.000590852
+BC emissions impulse,2073,AR5-IR,NA,-9.85E-18,0.000583885
+BC emissions impulse,2074,AR5-IR,NA,7.99E-19,0.000577555
+BC emissions impulse,2075,AR5-IR,NA,6.61E-18,0.000571792
+BC emissions impulse,2076,AR5-IR,NA,-5.82E-18,0.000566531
+BC emissions impulse,2077,AR5-IR,NA,1.93E-18,0.000561717
+BC emissions impulse,2078,AR5-IR,NA,-6.61E-18,0.000557299
+BC emissions impulse,2079,AR5-IR,NA,-3.08E-18,0.000553235
+BC emissions impulse,2080,AR5-IR,NA,1.85E-18,0.000549484
+BC emissions impulse,2081,AR5-IR,NA,-2.84E-18,0.000546012
+BC emissions impulse,2082,AR5-IR,NA,1.91E-18,0.000542787
+BC emissions impulse,2083,AR5-IR,NA,-9.33E-19,0.000539783
+BC emissions impulse,2084,AR5-IR,NA,-2.24E-20,0.000536975
+BC emissions impulse,2085,AR5-IR,NA,1.44E-19,0.000534341
+BC emissions impulse,2086,AR5-IR,NA,1.60E-18,0.000531862
+BC emissions impulse,2087,AR5-IR,NA,6.85E-18,0.000529521
+BC emissions impulse,2088,AR5-IR,NA,8.56E-19,0.000527303
+BC emissions impulse,2089,AR5-IR,NA,3.69E-17,0.000525195
+BC emissions impulse,2090,AR5-IR,NA,-4.16E-18,0.000523183
+BC emissions impulse,2091,AR5-IR,NA,3.25E-20,0.000521259
+BC emissions impulse,2092,AR5-IR,NA,5.90E-18,0.000519412
+BC emissions impulse,2093,AR5-IR,NA,6.65E-18,0.000517634
+BC emissions impulse,2094,AR5-IR,NA,5.07E-19,0.000515918
+BC emissions impulse,2095,AR5-IR,NA,-9.16E-19,0.000514257
+BC emissions impulse,2096,AR5-IR,NA,1.02E-17,0.000512645
+BC emissions impulse,2097,AR5-IR,NA,2.11E-18,0.000511078
+BC emissions impulse,2098,AR5-IR,NA,-5.45E-18,0.000509549
+BC emissions impulse,2099,AR5-IR,NA,1.10E-17,0.000508057
+BC emissions impulse,2100,AR5-IR,NA,-2.34E-19,0.000506595
+BC emissions impulse,2101,AR5-IR,NA,1.48E-18,0.000505163
+BC emissions impulse,2102,AR5-IR,NA,-1.88E-18,0.000503755
+BC emissions impulse,2103,AR5-IR,NA,-3.56E-18,0.000502371
+BC emissions impulse,2104,AR5-IR,NA,3.14E-18,0.000501008
+BC emissions impulse,2105,AR5-IR,NA,-4.43E-18,0.000499664
+BC emissions impulse,2106,AR5-IR,NA,5.10E-18,0.000498336
+BC emissions impulse,2107,AR5-IR,NA,3.91E-18,0.000497024
+BC emissions impulse,2108,AR5-IR,NA,4.76E-18,0.000495727
+BC emissions impulse,2109,AR5-IR,NA,4.95E-18,0.000494441
+BC emissions impulse,2110,AR5-IR,NA,6.14E-18,0.000493168
+BC emissions impulse,2111,AR5-IR,NA,2.12E-18,0.000491905
+BC emissions impulse,2112,AR5-IR,NA,1.42E-18,0.000490652
+BC emissions impulse,2113,AR5-IR,NA,4.55E-18,0.000489408
+BC emissions impulse,2114,AR5-IR,NA,5.19E-17,0.000488173
+BC emissions impulse,2115,AR5-IR,NA,-7.22E-18,0.000486945
+BC emissions impulse,2116,AR5-IR,NA,-8.78E-18,0.000485724
+BC emissions impulse,2117,AR5-IR,NA,-1.96E-19,0.00048451
+BC emissions impulse,2118,AR5-IR,NA,-5.43E-18,0.000483302
+BC emissions impulse,2119,AR5-IR,NA,4.32E-18,0.0004821
+BC emissions impulse,2120,AR5-IR,NA,3.44E-18,0.000480904
+BC emissions impulse,2121,AR5-IR,NA,4.52E-18,0.000479713
+BC emissions impulse,2122,AR5-IR,NA,5.03E-18,0.000478526
+BC emissions impulse,2123,AR5-IR,NA,-2.45E-18,0.000477345
+BC emissions impulse,2124,AR5-IR,NA,3.62E-18,0.000476168
+BC emissions impulse,2125,AR5-IR,NA,-2.27E-18,0.000474995
+BC emissions impulse,2126,AR5-IR,NA,7.16E-18,0.000473827
+BC emissions impulse,2127,AR5-IR,NA,-3.18E-18,0.000472662
+BC emissions impulse,2128,AR5-IR,NA,-1.59E-18,0.000471501
+BC emissions impulse,2129,AR5-IR,NA,-6.17E-18,0.000470344
+BC emissions impulse,2130,AR5-IR,NA,9.95E-18,0.000469191
+BC emissions impulse,2131,AR5-IR,NA,-3.28E-18,0.000468041
+BC emissions impulse,2132,AR5-IR,NA,5.61E-19,0.000466894
+BC emissions impulse,2133,AR5-IR,NA,4.94E-19,0.000465751
+BC emissions impulse,2134,AR5-IR,NA,2.10E-17,0.000464611
+BC emissions impulse,2135,AR5-IR,NA,-3.43E-18,0.000463475
+BC emissions impulse,2136,AR5-IR,NA,1.91E-18,0.000462341
+BC emissions impulse,2137,AR5-IR,NA,1.99E-18,0.000461211
+BC emissions impulse,2138,AR5-IR,NA,3.67E-18,0.000460084
+BC emissions impulse,2139,AR5-IR,NA,-3.14E-18,0.000458959
+BC emissions impulse,2140,AR5-IR,NA,-4.92E-18,0.000457838
+BC emissions impulse,2141,AR5-IR,NA,4.80E-18,0.00045672
+BC emissions impulse,2142,AR5-IR,NA,1.94E-18,0.000455604
+BC emissions impulse,2143,AR5-IR,NA,1.22E-18,0.000454492
+BC emissions impulse,2144,AR5-IR,NA,-7.05E-18,0.000453382
+BC emissions impulse,2145,AR5-IR,NA,5.34E-18,0.000452275
+BC emissions impulse,2146,AR5-IR,NA,-3.23E-19,0.000451171
+BC emissions impulse,2147,AR5-IR,NA,-9.67E-19,0.00045007
+BC emissions impulse,2148,AR5-IR,NA,3.01E-18,0.000448971
+BC emissions impulse,2149,AR5-IR,NA,2.37E-18,0.000447876
+BC emissions impulse,2150,AR5-IR,NA,-2.90E-18,0.000446783
+BC emissions impulse,2151,AR5-IR,NA,-3.85E-19,0.000445692
+BC emissions impulse,2152,AR5-IR,NA,5.29E-18,0.000444605
+BC emissions impulse,2153,AR5-IR,NA,1.90E-18,0.00044352
+BC emissions impulse,2154,AR5-IR,NA,-3.00E-18,0.000442438
+BC emissions impulse,2155,AR5-IR,NA,-5.72E-19,0.000441359
+BC emissions impulse,2156,AR5-IR,NA,1.40E-18,0.000440282
+BC emissions impulse,2157,AR5-IR,NA,-1.44E-18,0.000439208
+BC emissions impulse,2158,AR5-IR,NA,-3.08E-18,0.000438136
+BC emissions impulse,2159,AR5-IR,NA,-1.53E-18,0.000437067
+BC emissions impulse,2160,AR5-IR,NA,-1.90E-18,0.000436001
+BC emissions impulse,2161,AR5-IR,NA,-4.78E-18,0.000434938
+BC emissions impulse,2162,AR5-IR,NA,4.12E-18,0.000433877
+BC emissions impulse,2163,AR5-IR,NA,-8.33E-19,0.000432818
+BC emissions impulse,2164,AR5-IR,NA,5.23E-17,0.000431763
+BC emissions impulse,2165,AR5-IR,NA,9.21E-19,0.000430709
+BC emissions impulse,2166,AR5-IR,NA,-2.06E-18,0.000429659
+BC emissions impulse,2167,AR5-IR,NA,3.64E-18,0.000428611
+BC emissions impulse,2168,AR5-IR,NA,-1.54E-18,0.000427565
+BC emissions impulse,2169,AR5-IR,NA,-2.01E-18,0.000426522
+BC emissions impulse,2170,AR5-IR,NA,6.32E-19,0.000425482
+BC emissions impulse,2171,AR5-IR,NA,-3.87E-18,0.000424444
+BC emissions impulse,2172,AR5-IR,NA,-4.05E-18,0.000423409
+BC emissions impulse,2173,AR5-IR,NA,1.52E-18,0.000422376
+BC emissions impulse,2174,AR5-IR,NA,4.14E-18,0.000421346
+BC emissions impulse,2175,AR5-IR,NA,2.10E-18,0.000420318
+BC emissions impulse,2176,AR5-IR,NA,1.59E-18,0.000419293
+BC emissions impulse,2177,AR5-IR,NA,-1.29E-18,0.00041827
+BC emissions impulse,2178,AR5-IR,NA,1.93E-17,0.00041725
+BC emissions impulse,2179,AR5-IR,NA,3.50E-18,0.000416233
+BC emissions impulse,2180,AR5-IR,NA,-3.46E-20,0.000415217
+BC emissions impulse,2181,AR5-IR,NA,-4.04E-20,0.000414205
+BC emissions impulse,2182,AR5-IR,NA,-3.34E-18,0.000413194
+BC emissions impulse,2183,AR5-IR,NA,6.10E-18,0.000412187
+BC emissions impulse,2184,AR5-IR,NA,3.32E-19,0.000411181
+BC emissions impulse,2185,AR5-IR,NA,-3.30E-18,0.000410178
+BC emissions impulse,2186,AR5-IR,NA,2.49E-18,0.000409178
+BC emissions impulse,2187,AR5-IR,NA,-8.67E-19,0.00040818
+BC emissions impulse,2188,AR5-IR,NA,2.47E-18,0.000407184
+BC emissions impulse,2189,AR5-IR,NA,9.35E-19,0.000406191
+BC emissions impulse,2190,AR5-IR,NA,-2.69E-18,0.0004052
+BC emissions impulse,2191,AR5-IR,NA,-3.95E-19,0.000404212
+BC emissions impulse,2192,AR5-IR,NA,1.72E-18,0.000403226
+BC emissions impulse,2193,AR5-IR,NA,-2.15E-18,0.000402243
+BC emissions impulse,2194,AR5-IR,NA,3.55E-18,0.000401262
+BC emissions impulse,2195,AR5-IR,NA,-4.87E-18,0.000400283
+BC emissions impulse,2196,AR5-IR,NA,5.34E-19,0.000399307
+BC emissions impulse,2197,AR5-IR,NA,3.87E-19,0.000398333
+BC emissions impulse,2198,AR5-IR,NA,-2.57E-18,0.000397361
+BC emissions impulse,2199,AR5-IR,NA,1.12E-17,0.000396392
+BC emissions impulse,2200,AR5-IR,NA,-4.27E-19,0.000395425
+BC emissions impulse,2201,AR5-IR,NA,-2.77E-18,0.000394461
+BC emissions impulse,2202,AR5-IR,NA,5.61E-19,0.000393499
+BC emissions impulse,2203,AR5-IR,NA,-1.89E-18,0.000392539
+BC emissions impulse,2204,AR5-IR,NA,-2.50E-18,0.000391582
+BC emissions impulse,2205,AR5-IR,NA,-9.15E-19,0.000390626
+BC emissions impulse,2206,AR5-IR,NA,-1.58E-18,0.000389674
+BC emissions impulse,2207,AR5-IR,NA,2.74E-18,0.000388723
+BC emissions impulse,2208,AR5-IR,NA,1.05E-18,0.000387775
+BC emissions impulse,2209,AR5-IR,NA,3.08E-18,0.000386829
+BC emissions impulse,2210,AR5-IR,NA,7.07E-18,0.000385886
+BC emissions impulse,2211,AR5-IR,NA,5.64E-18,0.000384945
+BC emissions impulse,2212,AR5-IR,NA,4.94E-18,0.000384006
+BC emissions impulse,2213,AR5-IR,NA,2.60E-18,0.000383069
+BC emissions impulse,2214,AR5-IR,NA,-1.38E-17,0.000382135
+BC emissions impulse,2215,AR5-IR,NA,1.37E-18,0.000381203
+BC emissions impulse,2216,AR5-IR,NA,4.56E-18,0.000380273
+BC emissions impulse,2217,AR5-IR,NA,-5.83E-18,0.000379346
+BC emissions impulse,2218,AR5-IR,NA,5.56E-18,0.00037842
+BC emissions impulse,2219,AR5-IR,NA,5.65E-18,0.000377497
+BC emissions impulse,2220,AR5-IR,NA,-2.09E-18,0.000376577
+BC emissions impulse,2221,AR5-IR,NA,4.95E-19,0.000375658
+BC emissions impulse,2222,AR5-IR,NA,2.19E-18,0.000374742
+BC emissions impulse,2223,AR5-IR,NA,-1.23E-17,0.000373828
+BC emissions impulse,2224,AR5-IR,NA,3.56E-18,0.000372916
+BC emissions impulse,2225,AR5-IR,NA,2.99E-18,0.000372007
+BC emissions impulse,2226,AR5-IR,NA,6.08E-19,0.000371099
+BC emissions impulse,2227,AR5-IR,NA,-4.95E-18,0.000370194
+BC emissions impulse,2228,AR5-IR,NA,2.02E-18,0.000369291
+BC emissions impulse,2229,AR5-IR,NA,-1.17E-18,0.000368391
+BC emissions impulse,2230,AR5-IR,NA,2.86E-19,0.000367492
+BC emissions impulse,2231,AR5-IR,NA,-8.43E-18,0.000366596
+BC emissions impulse,2232,AR5-IR,NA,5.99E-19,0.000365702
+BC emissions impulse,2233,AR5-IR,NA,1.71E-18,0.00036481
+BC emissions impulse,2234,AR5-IR,NA,-9.97E-19,0.00036392
+BC emissions impulse,2235,AR5-IR,NA,1.97E-18,0.000363032
+BC emissions impulse,2236,AR5-IR,NA,-8.60E-19,0.000362147
+BC emissions impulse,2237,AR5-IR,NA,5.92E-18,0.000361264
+BC emissions impulse,2238,AR5-IR,NA,-2.08E-18,0.000360382
+BC emissions impulse,2239,AR5-IR,NA,6.46E-18,0.000359503
+BC emissions impulse,2240,AR5-IR,NA,1.01E-18,0.000358627
+BC emissions impulse,2241,AR5-IR,NA,3.65E-18,0.000357752
+BC emissions impulse,2242,AR5-IR,NA,8.89E-19,0.000356879
+BC emissions impulse,2243,AR5-IR,NA,7.39E-19,0.000356009
+BC emissions impulse,2244,AR5-IR,NA,-2.72E-18,0.000355141
+BC emissions impulse,2245,AR5-IR,NA,2.24E-18,0.000354274
+BC emissions impulse,2246,AR5-IR,NA,-3.20E-19,0.00035341
+BC emissions impulse,2247,AR5-IR,NA,9.12E-19,0.000352548
+BC emissions impulse,2248,AR5-IR,NA,-7.42E-19,0.000351688
+BC emissions impulse,2249,AR5-IR,NA,1.61E-18,0.000350831
+BC emissions impulse,2250,AR5-IR,NA,8.41E-19,0.000349975
+BC emissions impulse,2251,AR5-IR,NA,-5.31E-18,0.000349121
+BC emissions impulse,2252,AR5-IR,NA,9.90E-19,0.00034827
+BC emissions impulse,2253,AR5-IR,NA,2.12E-18,0.00034742
+BC emissions impulse,2254,AR5-IR,NA,7.77E-18,0.000346573
+BC emissions impulse,2255,AR5-IR,NA,1.02E-18,0.000345728
+BC emissions impulse,2256,AR5-IR,NA,-1.28E-18,0.000344885
+BC emissions impulse,2257,AR5-IR,NA,4.29E-18,0.000344043
+BC emissions impulse,2258,AR5-IR,NA,-1.00E-18,0.000343204
+BC emissions impulse,2259,AR5-IR,NA,-1.97E-18,0.000342367
+BC emissions impulse,2260,AR5-IR,NA,-4.79E-18,0.000341532
+BC emissions impulse,2261,AR5-IR,NA,-2.42E-18,0.000340699
+BC emissions impulse,2262,AR5-IR,NA,-3.90E-20,0.000339868
+BC emissions impulse,2263,AR5-IR,NA,1.32E-18,0.000339039
+BC emissions impulse,2264,AR5-IR,NA,-4.20E-18,0.000338212
+BC emissions impulse,2265,AR5-IR,NA,3.63E-18,0.000337387
+BC emissions impulse,2266,AR5-IR,NA,4.24E-18,0.000336564
+BC emissions impulse,2267,AR5-IR,NA,-1.24E-18,0.000335744
+BC emissions impulse,2268,AR5-IR,NA,2.63E-18,0.000334925
+BC emissions impulse,2269,AR5-IR,NA,2.79E-18,0.000334108
+BC emissions impulse,2270,AR5-IR,NA,8.46E-19,0.000333293
+BC emissions impulse,2271,AR5-IR,NA,-7.07E-20,0.00033248
+BC emissions impulse,2272,AR5-IR,NA,-9.94E-19,0.000331669
+BC emissions impulse,2273,AR5-IR,NA,-2.79E-18,0.00033086
+BC emissions impulse,2274,AR5-IR,NA,-3.19E-18,0.000330053
+BC emissions impulse,2275,AR5-IR,NA,4.70E-18,0.000329248
+BC emissions impulse,2276,AR5-IR,NA,4.05E-18,0.000328445
+BC emissions impulse,2277,AR5-IR,NA,1.08E-17,0.000327644
+BC emissions impulse,2278,AR5-IR,NA,3.06E-18,0.000326845
+BC emissions impulse,2279,AR5-IR,NA,-9.67E-19,0.000326048
+BC emissions impulse,2280,AR5-IR,NA,1.81E-18,0.000325252
+BC emissions impulse,2281,AR5-IR,NA,-7.87E-18,0.000324459
+BC emissions impulse,2282,AR5-IR,NA,4.24E-18,0.000323668
+BC emissions impulse,2283,AR5-IR,NA,-1.43E-18,0.000322878
+BC emissions impulse,2284,AR5-IR,NA,1.26E-17,0.000322091
+BC emissions impulse,2285,AR5-IR,NA,4.02E-18,0.000321305
+BC emissions impulse,2286,AR5-IR,NA,-2.32E-18,0.000320522
+BC emissions impulse,2287,AR5-IR,NA,5.12E-18,0.00031974
+BC emissions impulse,2288,AR5-IR,NA,3.43E-18,0.00031896
+BC emissions impulse,2289,AR5-IR,NA,-3.89E-18,0.000318182
+BC emissions impulse,2290,AR5-IR,NA,1.32E-17,0.000317406
+BC emissions impulse,2291,AR5-IR,NA,-2.94E-18,0.000316632
+BC emissions impulse,2292,AR5-IR,NA,-9.94E-19,0.00031586
+BC emissions impulse,2293,AR5-IR,NA,1.99E-17,0.000315089
+BC emissions impulse,2294,AR5-IR,NA,3.44E-18,0.000314321
+BC emissions impulse,2295,AR5-IR,NA,4.17E-18,0.000313554
+BC emissions impulse,2296,AR5-IR,NA,-3.20E-18,0.000312789
+BC emissions impulse,2297,AR5-IR,NA,-1.02E-17,0.000312026
+BC emissions impulse,2298,AR5-IR,NA,-3.71E-18,0.000311265
+BC emissions impulse,2299,AR5-IR,NA,4.48E-18,0.000310506
+BC emissions impulse,2300,AR5-IR,NA,1.70E-18,0.000309749
+BC emissions impulse,2301,AR5-IR,NA,-3.77E-18,0.000308993
+BC emissions impulse,2302,AR5-IR,NA,2.03E-17,0.00030824
+BC emissions impulse,2303,AR5-IR,NA,-2.36E-18,0.000307488
+BC emissions impulse,2304,AR5-IR,NA,-2.44E-18,0.000306738
+BC emissions impulse,2305,AR5-IR,NA,5.75E-17,0.00030599
+BC emissions impulse,2306,AR5-IR,NA,1.47E-18,0.000305243
+BC emissions impulse,2307,AR5-IR,NA,6.30E-18,0.000304499
+BC emissions impulse,2308,AR5-IR,NA,5.77E-17,0.000303756
+BC emissions impulse,2309,AR5-IR,NA,1.18E-17,0.000303015
+BC emissions impulse,2310,AR5-IR,NA,2.97E-17,0.000302276
+BC emissions impulse,2311,AR5-IR,NA,2.33E-16,0.000301539
+BC emissions impulse,2312,AR5-IR,NA,3.88E-17,0.000300804
+BC emissions impulse,2313,AR5-IR,NA,2.22E-17,0.00030007
+BC emissions impulse,2314,AR5-IR,NA,2.31E-15,0.000299338

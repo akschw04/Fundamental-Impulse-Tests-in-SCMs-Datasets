@@ -1,0 +1,1180 @@
+Experiment ,Time,Model,CH4 concentration response ,CO2 concentration response,Total forcing response,Temperature response
+CH4 emissions impulse,2010,Hector v2.0,0,0,0,0
+CH4 emissions impulse,2011,Hector v2.0,0,0,0,0
+CH4 emissions impulse,2012,Hector v2.0,0,0,0,0
+CH4 emissions impulse,2013,Hector v2.0,0,0,0,0
+CH4 emissions impulse,2014,Hector v2.0,0,0,0,0
+CH4 emissions impulse,2015,Hector v2.0,118.35,0,0.0582175,0
+CH4 emissions impulse,2016,Hector v2.0,108.09,0,0.0531898,0.00504
+CH4 emissions impulse,2017,Hector v2.0,98.7,0.007,0.0486744,0.00884
+CH4 emissions impulse,2018,Hector v2.0,90.13,0.016,0.04458,0.0111
+CH4 emissions impulse,2019,Hector v2.0,82.31,0.025,0.0408419,0.01245
+CH4 emissions impulse,2020,Hector v2.0,75.16,0.033,0.0374221,0.0132
+CH4 emissions impulse,2021,Hector v2.0,68.64,0.04,0.0342968,0.01357
+CH4 emissions impulse,2022,Hector v2.0,62.68,0.046,0.0314408,0.01368
+CH4 emissions impulse,2023,Hector v2.0,57.25,0.052,0.0288312,0.01358
+CH4 emissions impulse,2024,Hector v2.0,52.29,0.058,0.0264473,0.01338
+CH4 emissions impulse,2025,Hector v2.0,47.77,0.063,0.0242701,0.01307
+CH4 emissions impulse,2026,Hector v2.0,43.64,0.067,0.0222814,0.01271
+CH4 emissions impulse,2027,Hector v2.0,39.87,0.071,0.0204653,0.01231
+CH4 emissions impulse,2028,Hector v2.0,36.42,0.074,0.0188067,0.01188
+CH4 emissions impulse,2029,Hector v2.0,33.28,0.078,0.0172918,0.01145
+CH4 emissions impulse,2030,Hector v2.0,30.41,0.081,0.0159081,0.01101
+CH4 emissions impulse,2031,Hector v2.0,27.8,0.083,0.014645,0.01057
+CH4 emissions impulse,2032,Hector v2.0,25.4,0.086,0.0134915,0.01014
+CH4 emissions impulse,2033,Hector v2.0,23.22,0.089,0.0124381,0.00971
+CH4 emissions impulse,2034,Hector v2.0,21.22,0.09,0.011475,0.0093
+CH4 emissions impulse,2035,Hector v2.0,19.4,0.093,0.0105954,0.0089
+CH4 emissions impulse,2036,Hector v2.0,17.73,0.094,0.0097916,0.00853
+CH4 emissions impulse,2037,Hector v2.0,16.21,0.096,0.0090568,0.00815
+CH4 emissions impulse,2038,Hector v2.0,14.82,0.097,0.0083849,0.0078
+CH4 emissions impulse,2039,Hector v2.0,13.55,0.098,0.0077702,0.00747
+CH4 emissions impulse,2040,Hector v2.0,12.39,0.099,0.0072079,0.00715
+CH4 emissions impulse,2041,Hector v2.0,11.32,0.1,0.0066937,0.00684
+CH4 emissions impulse,2042,Hector v2.0,10.36,0.101,0.006223,0.00655
+CH4 emissions impulse,2043,Hector v2.0,9.47,0.102,0.0057925,0.00628
+CH4 emissions impulse,2044,Hector v2.0,8.66,0.102,0.0053982,0.00602
+CH4 emissions impulse,2045,Hector v2.0,7.91,0.103,0.0050371,0.00577
+CH4 emissions impulse,2046,Hector v2.0,7.24,0.103,0.0047063,0.00554
+CH4 emissions impulse,2047,Hector v2.0,6.63,0.104,0.004403,0.00531
+CH4 emissions impulse,2048,Hector v2.0,6.06,0.104,0.004125,0.0051
+CH4 emissions impulse,2049,Hector v2.0,5.54,0.104,0.00387,0.0049
+CH4 emissions impulse,2050,Hector v2.0,5.06,0.104,0.0036361,0.00471
+CH4 emissions impulse,2051,Hector v2.0,4.63,0.105,0.0034217,0.00454
+CH4 emissions impulse,2052,Hector v2.0,4.24,0.105,0.0032249,0.00437
+CH4 emissions impulse,2053,Hector v2.0,3.87,0.104,0.0030445,0.00421
+CH4 emissions impulse,2054,Hector v2.0,3.55,0.104,0.0028783,0.00406
+CH4 emissions impulse,2055,Hector v2.0,3.24,0.105,0.0027268,0.00392
+CH4 emissions impulse,2056,Hector v2.0,2.96,0.105,0.0025872,0.00378
+CH4 emissions impulse,2057,Hector v2.0,2.71,0.104,0.002459,0.00365
+CH4 emissions impulse,2058,Hector v2.0,2.48,0.105,0.0023412,0.00353
+CH4 emissions impulse,2059,Hector v2.0,2.27,0.104,0.0022327,0.00342
+CH4 emissions impulse,2060,Hector v2.0,2.07,0.104,0.0021329,0.00331
+CH4 emissions impulse,2061,Hector v2.0,1.89,0.105,0.0020412,0.0032
+CH4 emissions impulse,2062,Hector v2.0,1.74,0.104,0.0019568,0.00311
+CH4 emissions impulse,2063,Hector v2.0,1.58,0.104,0.0018791,0.00302
+CH4 emissions impulse,2064,Hector v2.0,1.45,0.103,0.0018076,0.00293
+CH4 emissions impulse,2065,Hector v2.0,1.32,0.103,0.0017418,0.00284
+CH4 emissions impulse,2066,Hector v2.0,1.21,0.103,0.0016812,0.00277
+CH4 emissions impulse,2067,Hector v2.0,1.1,0.103,0.0016253,0.00269
+CH4 emissions impulse,2068,Hector v2.0,1.01,0.102,0.0015739,0.00262
+CH4 emissions impulse,2069,Hector v2.0,0.92,0.102,0.0015264,0.00256
+CH4 emissions impulse,2070,Hector v2.0,0.85,0.102,0.0014825,0.00248
+CH4 emissions impulse,2071,Hector v2.0,0.77,0.102,0.0014422,0.00242
+CH4 emissions impulse,2072,Hector v2.0,0.7,0.101,0.001405,0.00237
+CH4 emissions impulse,2073,Hector v2.0,0.64,0.101,0.0013708,0.00232
+CH4 emissions impulse,2074,Hector v2.0,0.58,0.101,0.0013392,0.00226
+CH4 emissions impulse,2075,Hector v2.0,0.53,0.101,0.00131,0.00221
+CH4 emissions impulse,2076,Hector v2.0,0.49,0.1,0.0012832,0.00216
+CH4 emissions impulse,2077,Hector v2.0,0.44,0.1,0.0012586,0.00211
+CH4 emissions impulse,2078,Hector v2.0,0.41,0.1,0.0012359,0.00207
+CH4 emissions impulse,2079,Hector v2.0,0.37,0.099,0.001215,0.00203
+CH4 emissions impulse,2080,Hector v2.0,0.34,0.099,0.0011957,0.00199
+CH4 emissions impulse,2081,Hector v2.0,0.31,0.099,0.0011779,0.00195
+CH4 emissions impulse,2082,Hector v2.0,0.28,0.098,0.0011614,0.00191
+CH4 emissions impulse,2083,Hector v2.0,0.26,0.098,0.0011459,0.00188
+CH4 emissions impulse,2084,Hector v2.0,0.23,0.098,0.0011315,0.00185
+CH4 emissions impulse,2085,Hector v2.0,0.22,0.097,0.0011179,0.00181
+CH4 emissions impulse,2086,Hector v2.0,0.19,0.096,0.0011051,0.00179
+CH4 emissions impulse,2087,Hector v2.0,0.18,0.097,0.0010931,0.00176
+CH4 emissions impulse,2088,Hector v2.0,0.17,0.096,0.0010819,0.00173
+CH4 emissions impulse,2089,Hector v2.0,0.15,0.096,0.0010713,0.0017
+CH4 emissions impulse,2090,Hector v2.0,0.13,0.095,0.0010613,0.00168
+CH4 emissions impulse,2091,Hector v2.0,0.12,0.096,0.0010518,0.00165
+CH4 emissions impulse,2092,Hector v2.0,0.11,0.095,0.0010429,0.00163
+CH4 emissions impulse,2093,Hector v2.0,0.1,0.094,0.0010344,0.0016
+CH4 emissions impulse,2094,Hector v2.0,0.1,0.095,0.0010263,0.00159
+CH4 emissions impulse,2095,Hector v2.0,0.08,0.094,0.0010188,0.00156
+CH4 emissions impulse,2096,Hector v2.0,0.08,0.094,0.0010116,0.00154
+CH4 emissions impulse,2097,Hector v2.0,0.07,0.094,0.0010047,0.00152
+CH4 emissions impulse,2098,Hector v2.0,0.06,0.093,0.0009982,0.0015
+CH4 emissions impulse,2099,Hector v2.0,0.06,0.093,0.0009919,0.00149
+CH4 emissions impulse,2100,Hector v2.0,0.05,0.093,0.0009859,0.00147
+CH4 emissions impulse,2101,Hector v2.0,0.04,0.093,0.0009801,0.00145
+CH4 emissions impulse,2102,Hector v2.0,0.04,0.092,0.0009747,0.00143
+CH4 emissions impulse,2103,Hector v2.0,0.04,0.092,0.0009696,0.00142
+CH4 emissions impulse,2104,Hector v2.0,0.04,0.092,0.0009647,0.0014
+CH4 emissions impulse,2105,Hector v2.0,0.04,0.091,0.0009601,0.00139
+CH4 emissions impulse,2106,Hector v2.0,0.03,0.091,0.0009557,0.00137
+CH4 emissions impulse,2107,Hector v2.0,0.03,0.091,0.0009516,0.00136
+CH4 emissions impulse,2108,Hector v2.0,0.03,0.091,0.0009477,0.00134
+CH4 emissions impulse,2109,Hector v2.0,0.02,0.091,0.000944,0.00133
+CH4 emissions impulse,2110,Hector v2.0,0.02,0.09,0.0009406,0.00132
+CH4 emissions impulse,2111,Hector v2.0,0.02,0.09,0.0009373,0.0013
+CH4 emissions impulse,2112,Hector v2.0,0.01,0.09,0.0009341,0.00129
+CH4 emissions impulse,2113,Hector v2.0,0.02,0.09,0.0009311,0.00127
+CH4 emissions impulse,2114,Hector v2.0,0.01,0.09,0.0009282,0.00126
+CH4 emissions impulse,2115,Hector v2.0,0.01,0.09,0.0009255,0.00125
+CH4 emissions impulse,2116,Hector v2.0,0.01,0.089,0.0009228,0.00124
+CH4 emissions impulse,2117,Hector v2.0,0.01,0.089,0.0009203,0.00123
+CH4 emissions impulse,2118,Hector v2.0,0.01,0.089,0.0009178,0.00123
+CH4 emissions impulse,2119,Hector v2.0,0,0.088,0.0009155,0.00121
+CH4 emissions impulse,2120,Hector v2.0,0.01,0.088,0.0009133,0.0012
+CH4 emissions impulse,2121,Hector v2.0,0.01,0.088,0.0009112,0.00119
+CH4 emissions impulse,2122,Hector v2.0,0,0.088,0.0009091,0.00118
+CH4 emissions impulse,2123,Hector v2.0,0,0.088,0.000907,0.00118
+CH4 emissions impulse,2124,Hector v2.0,0,0.088,0.000905,0.00116
+CH4 emissions impulse,2125,Hector v2.0,0.01,0.088,0.0009031,0.00115
+CH4 emissions impulse,2126,Hector v2.0,0.01,0.087,0.0009012,0.00114
+CH4 emissions impulse,2127,Hector v2.0,0,0.087,0.0008993,0.00114
+CH4 emissions impulse,2128,Hector v2.0,0,0.087,0.0008974,0.00113
+CH4 emissions impulse,2129,Hector v2.0,0.01,0.087,0.0008957,0.00113
+CH4 emissions impulse,2130,Hector v2.0,0.01,0.087,0.0008939,0.00111
+CH4 emissions impulse,2131,Hector v2.0,0,0.087,0.0008921,0.00111
+CH4 emissions impulse,2132,Hector v2.0,0.01,0.086,0.0008904,0.0011
+CH4 emissions impulse,2133,Hector v2.0,0,0.086,0.0008888,0.0011
+CH4 emissions impulse,2134,Hector v2.0,0,0.086,0.0008871,0.00109
+CH4 emissions impulse,2135,Hector v2.0,0,0.086,0.0008853,0.00108
+CH4 emissions impulse,2136,Hector v2.0,0,0.085,0.0008837,0.00108
+CH4 emissions impulse,2137,Hector v2.0,0,0.086,0.0008822,0.00107
+CH4 emissions impulse,2138,Hector v2.0,0,0.085,0.0008805,0.00106
+CH4 emissions impulse,2139,Hector v2.0,0,0.085,0.000879,0.00106
+CH4 emissions impulse,2140,Hector v2.0,0,0.085,0.0008774,0.00105
+CH4 emissions impulse,2141,Hector v2.0,0,0.085,0.0008759,0.00104
+CH4 emissions impulse,2142,Hector v2.0,0,0.084,0.0008743,0.00103
+CH4 emissions impulse,2143,Hector v2.0,0,0.085,0.0008728,0.00104
+CH4 emissions impulse,2144,Hector v2.0,0,0.085,0.0008714,0.00103
+CH4 emissions impulse,2145,Hector v2.0,0,0.084,0.0008699,0.00102
+CH4 emissions impulse,2146,Hector v2.0,0,0.084,0.0008684,0.00101
+CH4 emissions impulse,2147,Hector v2.0,0,0.084,0.0008669,0.00101
+CH4 emissions impulse,2148,Hector v2.0,0,0.084,0.0008655,0.001
+CH4 emissions impulse,2149,Hector v2.0,0,0.084,0.0008641,0.001
+CH4 emissions impulse,2150,Hector v2.0,0,0.084,0.0008626,0.00099
+CH4 emissions impulse,2151,Hector v2.0,0,0.083,0.0008612,0.00099
+CH4 emissions impulse,2152,Hector v2.0,0,0.083,0.0008597,0.00099
+CH4 emissions impulse,2153,Hector v2.0,0,0.083,0.0008583,0.00098
+CH4 emissions impulse,2154,Hector v2.0,0,0.083,0.0008568,0.00097
+CH4 emissions impulse,2155,Hector v2.0,0,0.083,0.0008554,0.00097
+CH4 emissions impulse,2156,Hector v2.0,0,0.083,0.0008538,0.00096
+CH4 emissions impulse,2157,Hector v2.0,0,0.083,0.0008524,0.00096
+CH4 emissions impulse,2158,Hector v2.0,0,0.083,0.0008509,0.00096
+CH4 emissions impulse,2159,Hector v2.0,0,0.082,0.0008495,0.00095
+CH4 emissions impulse,2160,Hector v2.0,0,0.082,0.000848,0.00094
+CH4 emissions impulse,2161,Hector v2.0,0,0.083,0.0008466,0.00094
+CH4 emissions impulse,2162,Hector v2.0,0,0.082,0.0008451,0.00094
+CH4 emissions impulse,2163,Hector v2.0,0,0.082,0.0008437,0.00094
+CH4 emissions impulse,2164,Hector v2.0,0,0.082,0.0008423,0.00093
+CH4 emissions impulse,2165,Hector v2.0,0.01,0.082,0.000841,0.00093
+CH4 emissions impulse,2166,Hector v2.0,0,0.081,0.0008395,0.00093
+CH4 emissions impulse,2167,Hector v2.0,0,0.081,0.0008381,0.00092
+CH4 emissions impulse,2168,Hector v2.0,0,0.081,0.0008366,0.00091
+CH4 emissions impulse,2169,Hector v2.0,0,0.081,0.0008353,0.0009
+CH4 emissions impulse,2170,Hector v2.0,0,0.081,0.0008339,0.00091
+CH4 emissions impulse,2171,Hector v2.0,0,0.081,0.0008325,0.0009
+CH4 emissions impulse,2172,Hector v2.0,0,0.081,0.0008312,0.0009
+CH4 emissions impulse,2173,Hector v2.0,0,0.081,0.0008298,0.0009
+CH4 emissions impulse,2174,Hector v2.0,0,0.081,0.0008284,0.00089
+CH4 emissions impulse,2175,Hector v2.0,0,0.081,0.0008271,0.00089
+CH4 emissions impulse,2176,Hector v2.0,0,0.081,0.0008256,0.00088
+CH4 emissions impulse,2177,Hector v2.0,0,0.08,0.0008243,0.00088
+CH4 emissions impulse,2178,Hector v2.0,0.01,0.08,0.000823,0.00087
+CH4 emissions impulse,2179,Hector v2.0,0,0.079,0.0008216,0.00087
+CH4 emissions impulse,2180,Hector v2.0,0,0.08,0.0008203,0.00087
+CH4 emissions impulse,2181,Hector v2.0,0,0.079,0.000819,0.00087
+CH4 emissions impulse,2182,Hector v2.0,0,0.079,0.0008176,0.00086
+CH4 emissions impulse,2183,Hector v2.0,0,0.079,0.0008163,0.00086
+CH4 emissions impulse,2184,Hector v2.0,0,0.08,0.0008149,0.00086
+CH4 emissions impulse,2185,Hector v2.0,0,0.079,0.0008136,0.00085
+CH4 emissions impulse,2186,Hector v2.0,0,0.079,0.0008123,0.00085
+CH4 emissions impulse,2187,Hector v2.0,0,0.079,0.0008111,0.00085
+CH4 emissions impulse,2188,Hector v2.0,0,0.079,0.0008097,0.00085
+CH4 emissions impulse,2189,Hector v2.0,0,0.079,0.0008084,0.00084
+CH4 emissions impulse,2190,Hector v2.0,0,0.079,0.0008072,0.00084
+CH4 emissions impulse,2191,Hector v2.0,0,0.079,0.0008058,0.00084
+CH4 emissions impulse,2192,Hector v2.0,0,0.079,0.0008046,0.00084
+CH4 emissions impulse,2193,Hector v2.0,0,0.078,0.0008033,0.00083
+CH4 emissions impulse,2194,Hector v2.0,0,0.078,0.0008021,0.00083
+CH4 emissions impulse,2195,Hector v2.0,0,0.078,0.0008009,0.00083
+CH4 emissions impulse,2196,Hector v2.0,0,0.078,0.0007996,0.00083
+CH4 emissions impulse,2197,Hector v2.0,0,0.078,0.0007983,0.00082
+CH4 emissions impulse,2198,Hector v2.0,0,0.078,0.0007971,0.00082
+CH4 emissions impulse,2199,Hector v2.0,0,0.078,0.0007958,0.00082
+CH4 emissions impulse,2200,Hector v2.0,0,0.078,0.0007946,0.00081
+CH4 emissions impulse,2201,Hector v2.0,0,0.077,0.0007934,0.00081
+CH4 emissions impulse,2202,Hector v2.0,0,0.077,0.0007921,0.0008
+CH4 emissions impulse,2203,Hector v2.0,0,0.078,0.0007909,0.00081
+CH4 emissions impulse,2204,Hector v2.0,0,0.077,0.0007897,0.0008
+CH4 emissions impulse,2205,Hector v2.0,0,0.077,0.0007885,0.0008
+CH4 emissions impulse,2206,Hector v2.0,0,0.077,0.0007873,0.0008
+CH4 emissions impulse,2207,Hector v2.0,0,0.077,0.0007861,0.0008
+CH4 emissions impulse,2208,Hector v2.0,0,0.077,0.000785,0.00079
+CH4 emissions impulse,2209,Hector v2.0,0,0.076,0.0007838,0.00079
+CH4 emissions impulse,2210,Hector v2.0,0,0.077,0.0007826,0.00079
+CH4 emissions impulse,2211,Hector v2.0,0,0.076,0.0007815,0.00078
+CH4 emissions impulse,2212,Hector v2.0,0,0.077,0.0007803,0.00079
+CH4 emissions impulse,2213,Hector v2.0,0,0.076,0.0007791,0.00079
+CH4 emissions impulse,2214,Hector v2.0,0,0.076,0.000778,0.00077
+CH4 emissions impulse,2215,Hector v2.0,0,0.076,0.0007769,0.00077
+CH4 emissions impulse,2216,Hector v2.0,0,0.076,0.0007758,0.00078
+CH4 emissions impulse,2217,Hector v2.0,0,0.076,0.0007746,0.00077
+CH4 emissions impulse,2218,Hector v2.0,0,0.075,0.0007735,0.00077
+CH4 emissions impulse,2219,Hector v2.0,0,0.075,0.0007721,0.00077
+CH4 emissions impulse,2220,Hector v2.0,0,0.075,0.00077,0.00077
+CH4 emissions impulse,2221,Hector v2.0,0,0.075,0.0007673,0.00076
+CH4 emissions impulse,2222,Hector v2.0,0,0.075,0.0007638,0.00076
+CH4 emissions impulse,2223,Hector v2.0,0,0.075,0.0007595,0.00076
+CH4 emissions impulse,2224,Hector v2.0,0,0.073,0.0007544,0.00076
+CH4 emissions impulse,2225,Hector v2.0,0,0.073,0.0007487,0.00076
+CH4 emissions impulse,2226,Hector v2.0,0,0.072,0.0007421,0.00075
+CH4 emissions impulse,2227,Hector v2.0,0,0.072,0.0007349,0.00075
+CH4 emissions impulse,2228,Hector v2.0,0,0.071,0.0007271,0.00074
+CH4 emissions impulse,2229,Hector v2.0,0,0.07,0.0007187,0.00074
+CH4 emissions impulse,2230,Hector v2.0,0,0.07,0.0007098,0.00074
+CH4 emissions impulse,2231,Hector v2.0,0,0.069,0.0007004,0.00073
+CH4 emissions impulse,2232,Hector v2.0,0,0.068,0.0006906,0.00072
+CH4 emissions impulse,2233,Hector v2.0,0,0.067,0.0006805,0.00072
+CH4 emissions impulse,2234,Hector v2.0,0,0.065,0.0006701,0.00072
+CH4 emissions impulse,2235,Hector v2.0,0,0.065,0.0006594,0.00071
+CH4 emissions impulse,2236,Hector v2.0,0,0.063,0.0006485,0.0007
+CH4 emissions impulse,2237,Hector v2.0,0,0.062,0.0006373,0.00071
+CH4 emissions impulse,2238,Hector v2.0,0,0.061,0.000626,0.0007
+CH4 emissions impulse,2239,Hector v2.0,0,0.061,0.0006145,0.00069
+CH4 emissions impulse,2240,Hector v2.0,0,0.059,0.000603,0.00069
+CH4 emissions impulse,2241,Hector v2.0,0,0.058,0.0005914,0.00067
+CH4 emissions impulse,2242,Hector v2.0,0,0.057,0.0005798,0.00067
+CH4 emissions impulse,2243,Hector v2.0,0,0.056,0.0005682,0.00067
+CH4 emissions impulse,2244,Hector v2.0,0,0.054,0.0005565,0.00066
+CH4 emissions impulse,2245,Hector v2.0,0,0.053,0.0005449,0.00065
+CH4 emissions impulse,2246,Hector v2.0,0,0.052,0.0005334,0.00065
+CH4 emissions impulse,2247,Hector v2.0,0,0.051,0.0005219,0.00064
+CH4 emissions impulse,2248,Hector v2.0,0,0.05,0.0005105,0.00063
+CH4 emissions impulse,2249,Hector v2.0,0,0.049,0.0004993,0.00063
+CH4 emissions impulse,2250,Hector v2.0,0,0.048,0.000488,0.00062
+CH4 emissions impulse,2251,Hector v2.0,0,0.047,0.000477,0.00061
+CH4 emissions impulse,2252,Hector v2.0,0,0.045,0.000466,0.00061
+CH4 emissions impulse,2253,Hector v2.0,0,0.044,0.0004552,0.0006
+CH4 emissions impulse,2254,Hector v2.0,0,0.044,0.0004446,0.0006
+CH4 emissions impulse,2255,Hector v2.0,0,0.042,0.000434,0.00058
+CH4 emissions impulse,2256,Hector v2.0,0,0.041,0.0004237,0.00058
+CH4 emissions impulse,2257,Hector v2.0,0,0.04,0.0004135,0.00057
+CH4 emissions impulse,2258,Hector v2.0,0,0.04,0.0004035,0.00056
+CH4 emissions impulse,2259,Hector v2.0,0,0.038,0.0003937,0.00056
+CH4 emissions impulse,2260,Hector v2.0,0,0.038,0.0003841,0.00055
+CH4 emissions impulse,2261,Hector v2.0,0,0.036,0.0003745,0.00055
+CH4 emissions impulse,2262,Hector v2.0,0,0.036,0.0003653,0.00054
+CH4 emissions impulse,2263,Hector v2.0,0,0.035,0.0003561,0.00054
+CH4 emissions impulse,2264,Hector v2.0,0,0.034,0.0003471,0.00053
+CH4 emissions impulse,2265,Hector v2.0,0,0.033,0.0003383,0.00052
+CH4 emissions impulse,2266,Hector v2.0,0,0.032,0.0003298,0.00052
+CH4 emissions impulse,2267,Hector v2.0,0,0.031,0.0003213,0.00051
+CH4 emissions impulse,2268,Hector v2.0,0,0.03,0.0003131,0.00051
+CH4 emissions impulse,2269,Hector v2.0,0,0.03,0.000305,0.00049
+CH4 emissions impulse,2270,Hector v2.0,0,0.029,0.0002972,0.00049
+CH4 emissions impulse,2271,Hector v2.0,0,0.028,0.0002894,0.00049
+CH4 emissions impulse,2272,Hector v2.0,0,0.027,0.0002819,0.00048
+CH4 emissions impulse,2273,Hector v2.0,0,0.026,0.0002746,0.00048
+CH4 emissions impulse,2274,Hector v2.0,0,0.026,0.0002673,0.00047
+CH4 emissions impulse,2275,Hector v2.0,0,0.025,0.0002602,0.00047
+CH4 emissions impulse,2276,Hector v2.0,0,0.024,0.0002534,0.00046
+CH4 emissions impulse,2277,Hector v2.0,0,0.024,0.0002467,0.00046
+CH4 emissions impulse,2278,Hector v2.0,0,0.023,0.0002401,0.00045
+CH4 emissions impulse,2279,Hector v2.0,0,0.023,0.0002338,0.00045
+CH4 emissions impulse,2280,Hector v2.0,0,0.022,0.0002274,0.00043
+CH4 emissions impulse,2281,Hector v2.0,0,0.021,0.0002214,0.00043
+CH4 emissions impulse,2282,Hector v2.0,0,0.021,0.0002155,0.00043
+CH4 emissions impulse,2283,Hector v2.0,0,0.021,0.0002096,0.00042
+CH4 emissions impulse,2284,Hector v2.0,0,0.02,0.0002039,0.00042
+CH4 emissions impulse,2285,Hector v2.0,0,0.02,0.0001984,0.00041
+CH4 emissions impulse,2286,Hector v2.0,0,0.019,0.000193,0.00041
+CH4 emissions impulse,2287,Hector v2.0,0,0.018,0.0001877,0.0004
+CH4 emissions impulse,2288,Hector v2.0,0,0.017,0.0001826,0.00039
+CH4 emissions impulse,2289,Hector v2.0,0,0.017,0.0001776,0.00039
+CH4 emissions impulse,2290,Hector v2.0,0,0.016,0.0001727,0.00039
+CH4 emissions impulse,2291,Hector v2.0,0,0.016,0.000168,0.00039
+CH4 emissions impulse,2292,Hector v2.0,0,0.016,0.0001633,0.00038
+CH4 emissions impulse,2293,Hector v2.0,0,0.016,0.0001587,0.00037
+CH4 emissions impulse,2294,Hector v2.0,0,0.015,0.0001543,0.00037
+CH4 emissions impulse,2295,Hector v2.0,0,0.014,0.00015,0.00036
+CH4 emissions impulse,2296,Hector v2.0,0,0.014,0.0001458,0.00037
+CH4 emissions impulse,2297,Hector v2.0,0,0.014,0.0001417,0.00036
+CH4 emissions impulse,2298,Hector v2.0,0,0.013,0.0001377,0.00035
+CH4 emissions impulse,2299,Hector v2.0,0,0.013,0.0001338,0.00035
+CH4 emissions impulse,2300,Hector v2.0,0,0.013,0.00013,0.00034
+CH4 emissions impulse,2010,MAGICC 5.3,0,0,0,0
+CH4 emissions impulse,2011,MAGICC 5.3,0,0,0,0
+CH4 emissions impulse,2012,MAGICC 5.3,0,0,0,0
+CH4 emissions impulse,2013,MAGICC 5.3,0,0,0,0
+CH4 emissions impulse,2014,MAGICC 5.3,0,0,0,0
+CH4 emissions impulse,2015,MAGICC 5.3,109.52,0.001,0.0271,0.003316
+CH4 emissions impulse,2016,MAGICC 5.3,100.82,0.006,0.05206,0.010167
+CH4 emissions impulse,2017,MAGICC 5.3,92.8,0.015,0.04802,0.011895
+CH4 emissions impulse,2018,MAGICC 5.3,85.43,0.024,0.04433,0.012755
+CH4 emissions impulse,2019,MAGICC 5.3,78.64,0.032,0.04093,0.013165
+CH4 emissions impulse,2020,MAGICC 5.3,72.4,0.041,0.0378,0.013299
+CH4 emissions impulse,2021,MAGICC 5.3,66.65,0.048,0.03493,0.013252
+CH4 emissions impulse,2022,MAGICC 5.3,61.36,0.055,0.03228,0.01308
+CH4 emissions impulse,2023,MAGICC 5.3,56.49,0.062,0.02985,0.01283
+CH4 emissions impulse,2024,MAGICC 5.3,52.01,0.068,0.02762,0.01251
+CH4 emissions impulse,2025,MAGICC 5.3,47.89,0.074,0.02556,0.01216
+CH4 emissions impulse,2026,MAGICC 5.3,44.09,0.08,0.02367,0.01179
+CH4 emissions impulse,2027,MAGICC 5.3,40.6,0.086,0.02193,0.0114
+CH4 emissions impulse,2028,MAGICC 5.3,37.38,0.09,0.02033,0.01101
+CH4 emissions impulse,2029,MAGICC 5.3,34.43,0.094,0.01885,0.01061
+CH4 emissions impulse,2030,MAGICC 5.3,31.72,0.098,0.0175,0.01022
+CH4 emissions impulse,2031,MAGICC 5.3,29.21,0.103,0.01625,0.00983
+CH4 emissions impulse,2032,MAGICC 5.3,26.92,0.106,0.01511,0.00946
+CH4 emissions impulse,2033,MAGICC 5.3,24.8,0.109,0.01405,0.00909
+CH4 emissions impulse,2034,MAGICC 5.3,22.85,0.112,0.01307,0.00874
+CH4 emissions impulse,2035,MAGICC 5.3,21.05,0.114,0.01218,0.00839
+CH4 emissions impulse,2036,MAGICC 5.3,19.4,0.117,0.01135,0.00806
+CH4 emissions impulse,2037,MAGICC 5.3,17.88,0.118,0.01059,0.00775
+CH4 emissions impulse,2038,MAGICC 5.3,16.47,0.12,0.00989,0.00744
+CH4 emissions impulse,2039,MAGICC 5.3,15.18,0.122,0.00923,0.00715
+CH4 emissions impulse,2040,MAGICC 5.3,14,0.123,0.00863,0.00686
+CH4 emissions impulse,2041,MAGICC 5.3,12.9,0.124,0.00808,0.00661
+CH4 emissions impulse,2042,MAGICC 5.3,11.89,0.125,0.00757,0.00635
+CH4 emissions impulse,2043,MAGICC 5.3,10.97,0.126,0.0071,0.00611
+CH4 emissions impulse,2044,MAGICC 5.3,10.11,0.127,0.00666,0.00587
+CH4 emissions impulse,2045,MAGICC 5.3,9.32,0.127,0.00626,0.00566
+CH4 emissions impulse,2046,MAGICC 5.3,8.59,0.128,0.00589,0.00545
+CH4 emissions impulse,2047,MAGICC 5.3,7.92,0.128,0.00554,0.00525
+CH4 emissions impulse,2048,MAGICC 5.3,7.3,0.128,0.00523,0.00506
+CH4 emissions impulse,2049,MAGICC 5.3,6.73,0.129,0.00492,0.00488
+CH4 emissions impulse,2050,MAGICC 5.3,6.21,0.129,0.00466,0.00471
+CH4 emissions impulse,2051,MAGICC 5.3,5.72,0.129,0.00441,0.00454
+CH4 emissions impulse,2052,MAGICC 5.3,5.28,0.129,0.00417,0.0044
+CH4 emissions impulse,2053,MAGICC 5.3,4.87,0.129,0.00396,0.00425
+CH4 emissions impulse,2054,MAGICC 5.3,4.49,0.128,0.00375,0.00411
+CH4 emissions impulse,2055,MAGICC 5.3,4.15,0.129,0.00357,0.00397
+CH4 emissions impulse,2056,MAGICC 5.3,3.82,0.128,0.00339,0.00384
+CH4 emissions impulse,2057,MAGICC 5.3,3.52,0.128,0.00323,0.00372
+CH4 emissions impulse,2058,MAGICC 5.3,3.25,0.127,0.00308,0.00361
+CH4 emissions impulse,2059,MAGICC 5.3,2.99,0.127,0.00294,0.0035
+CH4 emissions impulse,2060,MAGICC 5.3,2.76,0.127,0.00281,0.0034
+CH4 emissions impulse,2061,MAGICC 5.3,2.54,0.126,0.0027,0.0033
+CH4 emissions impulse,2062,MAGICC 5.3,2.35,0.126,0.00258,0.00321
+CH4 emissions impulse,2063,MAGICC 5.3,2.17,0.125,0.00247,0.00312
+CH4 emissions impulse,2064,MAGICC 5.3,2,0.124,0.00238,0.00304
+CH4 emissions impulse,2065,MAGICC 5.3,1.84,0.123,0.00229,0.00295
+CH4 emissions impulse,2066,MAGICC 5.3,1.7,0.123,0.0022,0.00288
+CH4 emissions impulse,2067,MAGICC 5.3,1.57,0.123,0.00212,0.0028
+CH4 emissions impulse,2068,MAGICC 5.3,1.44,0.122,0.00205,0.00273
+CH4 emissions impulse,2069,MAGICC 5.3,1.33,0.121,0.00198,0.00266
+CH4 emissions impulse,2070,MAGICC 5.3,1.23,0.12,0.00192,0.0026
+CH4 emissions impulse,2071,MAGICC 5.3,1.13,0.12,0.00186,0.00254
+CH4 emissions impulse,2072,MAGICC 5.3,1.04,0.118,0.0018,0.00248
+CH4 emissions impulse,2073,MAGICC 5.3,0.96,0.118,0.00175,0.00242
+CH4 emissions impulse,2074,MAGICC 5.3,0.88,0.117,0.00171,0.00237
+CH4 emissions impulse,2075,MAGICC 5.3,0.81,0.117,0.00165,0.00232
+CH4 emissions impulse,2076,MAGICC 5.3,0.75,0.115,0.00161,0.00226
+CH4 emissions impulse,2077,MAGICC 5.3,0.7,0.114,0.00157,0.00222
+CH4 emissions impulse,2078,MAGICC 5.3,0.64,0.114,0.00154,0.00217
+CH4 emissions impulse,2079,MAGICC 5.3,0.58,0.113,0.00149,0.00213
+CH4 emissions impulse,2080,MAGICC 5.3,0.54,0.113,0.00147,0.00209
+CH4 emissions impulse,2081,MAGICC 5.3,0.5,0.111,0.00143,0.00205
+CH4 emissions impulse,2082,MAGICC 5.3,0.46,0.111,0.0014,0.00201
+CH4 emissions impulse,2083,MAGICC 5.3,0.42,0.11,0.00137,0.00198
+CH4 emissions impulse,2084,MAGICC 5.3,0.38,0.109,0.00135,0.00193
+CH4 emissions impulse,2085,MAGICC 5.3,0.36,0.108,0.00132,0.00191
+CH4 emissions impulse,2086,MAGICC 5.3,0.33,0.107,0.0013,0.00187
+CH4 emissions impulse,2087,MAGICC 5.3,0.3,0.107,0.00127,0.00184
+CH4 emissions impulse,2088,MAGICC 5.3,0.28,0.105,0.00126,0.0018
+CH4 emissions impulse,2089,MAGICC 5.3,0.26,0.104,0.00123,0.00178
+CH4 emissions impulse,2090,MAGICC 5.3,0.24,0.103,0.00121,0.00175
+CH4 emissions impulse,2091,MAGICC 5.3,0.21,0.103,0.00119,0.00173
+CH4 emissions impulse,2092,MAGICC 5.3,0.2,0.102,0.00117,0.00169
+CH4 emissions impulse,2093,MAGICC 5.3,0.18,0.1,0.00115,0.00167
+CH4 emissions impulse,2094,MAGICC 5.3,0.17,0.1,0.00114,0.00165
+CH4 emissions impulse,2095,MAGICC 5.3,0.15,0.099,0.00112,0.00163
+CH4 emissions impulse,2096,MAGICC 5.3,0.15,0.098,0.00111,0.0016
+CH4 emissions impulse,2097,MAGICC 5.3,0.13,0.097,0.00109,0.00158
+CH4 emissions impulse,2098,MAGICC 5.3,0.12,0.097,0.00108,0.00155
+CH4 emissions impulse,2099,MAGICC 5.3,0.11,0.096,0.00106,0.00153
+CH4 emissions impulse,2100,MAGICC 5.3,0.1,0.095,0.00105,0.00151
+CH4 emissions impulse,2101,MAGICC 5.3,0.1,0.094,0.00103,0.0015
+CH4 emissions impulse,2102,MAGICC 5.3,0.08,0.093,0.00102,0.00147
+CH4 emissions impulse,2103,MAGICC 5.3,0.08,0.092,0.00101,0.00146
+CH4 emissions impulse,2104,MAGICC 5.3,0.07,0.092,0.001,0.00143
+CH4 emissions impulse,2105,MAGICC 5.3,0.07,0.091,0.00098,0.00142
+CH4 emissions impulse,2106,MAGICC 5.3,0.06,0.09,0.00098,0.0014
+CH4 emissions impulse,2107,MAGICC 5.3,0.05,0.09,0.00097,0.00138
+CH4 emissions impulse,2108,MAGICC 5.3,0.05,0.089,0.00095,0.00137
+CH4 emissions impulse,2109,MAGICC 5.3,0.05,0.088,0.00095,0.00136
+CH4 emissions impulse,2110,MAGICC 5.3,0.04,0.088,0.00094,0.00134
+CH4 emissions impulse,2111,MAGICC 5.3,0.04,0.087,0.00093,0.00132
+CH4 emissions impulse,2112,MAGICC 5.3,0.04,0.086,0.00092,0.0013
+CH4 emissions impulse,2113,MAGICC 5.3,0.03,0.085,0.00091,0.00129
+CH4 emissions impulse,2114,MAGICC 5.3,0.03,0.084,0.0009,0.00128
+CH4 emissions impulse,2115,MAGICC 5.3,0.03,0.083,0.00088,0.00126
+CH4 emissions impulse,2116,MAGICC 5.3,0.03,0.083,0.00088,0.00125
+CH4 emissions impulse,2117,MAGICC 5.3,0.03,0.082,0.00087,0.00123
+CH4 emissions impulse,2118,MAGICC 5.3,0.02,0.081,0.00086,0.00123
+CH4 emissions impulse,2119,MAGICC 5.3,0.02,0.08,0.00085,0.00121
+CH4 emissions impulse,2120,MAGICC 5.3,0.01,0.08,0.00085,0.0012
+CH4 emissions impulse,2121,MAGICC 5.3,0.01,0.079,0.00084,0.00119
+CH4 emissions impulse,2122,MAGICC 5.3,0.01,0.078,0.00083,0.00117
+CH4 emissions impulse,2123,MAGICC 5.3,0.02,0.077,0.00083,0.00116
+CH4 emissions impulse,2124,MAGICC 5.3,0.01,0.077,0.00081,0.00115
+CH4 emissions impulse,2125,MAGICC 5.3,0.01,0.077,0.00081,0.00114
+CH4 emissions impulse,2126,MAGICC 5.3,0.01,0.076,0.0008,0.00113
+CH4 emissions impulse,2127,MAGICC 5.3,0.01,0.075,0.0008,0.00113
+CH4 emissions impulse,2128,MAGICC 5.3,0.01,0.075,0.00079,0.00111
+CH4 emissions impulse,2129,MAGICC 5.3,0.01,0.073,0.00078,0.0011
+CH4 emissions impulse,2130,MAGICC 5.3,0.01,0.073,0.00077,0.00109
+CH4 emissions impulse,2131,MAGICC 5.3,0.01,0.072,0.00076,0.00108
+CH4 emissions impulse,2132,MAGICC 5.3,0.01,0.072,0.00076,0.00107
+CH4 emissions impulse,2133,MAGICC 5.3,0.01,0.071,0.00076,0.00106
+CH4 emissions impulse,2134,MAGICC 5.3,0.01,0.07,0.00074,0.00105
+CH4 emissions impulse,2135,MAGICC 5.3,0.01,0.069,0.00074,0.00104
+CH4 emissions impulse,2136,MAGICC 5.3,0.01,0.069,0.00073,0.00104
+CH4 emissions impulse,2137,MAGICC 5.3,0,0.069,0.00073,0.00102
+CH4 emissions impulse,2138,MAGICC 5.3,0.01,0.068,0.00072,0.00101
+CH4 emissions impulse,2139,MAGICC 5.3,0,0.067,0.00071,0.00101
+CH4 emissions impulse,2140,MAGICC 5.3,0.01,0.066,0.00071,0.001
+CH4 emissions impulse,2141,MAGICC 5.3,0,0.066,0.0007,0.00099
+CH4 emissions impulse,2142,MAGICC 5.3,0,0.065,0.0007,0.00098
+CH4 emissions impulse,2143,MAGICC 5.3,0,0.064,0.00069,0.00097
+CH4 emissions impulse,2144,MAGICC 5.3,0,0.064,0.00069,0.00096
+CH4 emissions impulse,2145,MAGICC 5.3,0,0.063,0.00068,0.00095
+CH4 emissions impulse,2146,MAGICC 5.3,0,0.063,0.00068,0.00094
+CH4 emissions impulse,2147,MAGICC 5.3,0,0.062,0.00066,0.00094
+CH4 emissions impulse,2148,MAGICC 5.3,0,0.062,0.00066,0.00093
+CH4 emissions impulse,2149,MAGICC 5.3,0.01,0.062,0.00066,0.00092
+CH4 emissions impulse,2150,MAGICC 5.3,0.01,0.061,0.00065,0.00091
+CH4 emissions impulse,2151,MAGICC 5.3,0,0.06,0.00064,0.00091
+CH4 emissions impulse,2152,MAGICC 5.3,0,0.06,0.00064,0.0009
+CH4 emissions impulse,2153,MAGICC 5.3,0,0.059,0.00064,0.0009
+CH4 emissions impulse,2154,MAGICC 5.3,0,0.058,0.00063,0.00089
+CH4 emissions impulse,2155,MAGICC 5.3,0,0.058,0.00062,0.00088
+CH4 emissions impulse,2156,MAGICC 5.3,0,0.057,0.00062,0.00087
+CH4 emissions impulse,2157,MAGICC 5.3,0,0.057,0.00061,0.00087
+CH4 emissions impulse,2158,MAGICC 5.3,0,0.056,0.00061,0.00086
+CH4 emissions impulse,2159,MAGICC 5.3,0,0.056,0.0006,0.00085
+CH4 emissions impulse,2160,MAGICC 5.3,0,0.056,0.0006,0.00085
+CH4 emissions impulse,2161,MAGICC 5.3,0,0.055,0.0006,0.00084
+CH4 emissions impulse,2162,MAGICC 5.3,0,0.055,0.00059,0.00084
+CH4 emissions impulse,2163,MAGICC 5.3,0,0.054,0.00059,0.00083
+CH4 emissions impulse,2164,MAGICC 5.3,0,0.053,0.00058,0.00082
+CH4 emissions impulse,2165,MAGICC 5.3,0,0.053,0.00058,0.00082
+CH4 emissions impulse,2166,MAGICC 5.3,0,0.052,0.00057,0.00081
+CH4 emissions impulse,2167,MAGICC 5.3,0,0.053,0.00057,0.00081
+CH4 emissions impulse,2168,MAGICC 5.3,0,0.052,0.00056,0.0008
+CH4 emissions impulse,2169,MAGICC 5.3,0,0.052,0.00056,0.00079
+CH4 emissions impulse,2170,MAGICC 5.3,0,0.05,0.00055,0.00079
+CH4 emissions impulse,2171,MAGICC 5.3,0,0.05,0.00055,0.00078
+CH4 emissions impulse,2172,MAGICC 5.3,0,0.049,0.00054,0.00078
+CH4 emissions impulse,2173,MAGICC 5.3,0,0.05,0.00054,0.00077
+CH4 emissions impulse,2174,MAGICC 5.3,0,0.049,0.00053,0.00077
+CH4 emissions impulse,2175,MAGICC 5.3,0,0.048,0.00053,0.00076
+CH4 emissions impulse,2176,MAGICC 5.3,0,0.048,0.00052,0.00075
+CH4 emissions impulse,2177,MAGICC 5.3,0,0.047,0.00052,0.00075
+CH4 emissions impulse,2178,MAGICC 5.3,0,0.047,0.00052,0.00075
+CH4 emissions impulse,2179,MAGICC 5.3,0,0.047,0.00052,0.00074
+CH4 emissions impulse,2180,MAGICC 5.3,0,0.047,0.00051,0.00074
+CH4 emissions impulse,2181,MAGICC 5.3,0,0.046,0.0005,0.00073
+CH4 emissions impulse,2182,MAGICC 5.3,0,0.046,0.0005,0.00072
+CH4 emissions impulse,2183,MAGICC 5.3,0,0.045,0.0005,0.00072
+CH4 emissions impulse,2184,MAGICC 5.3,0,0.045,0.00049,0.00072
+CH4 emissions impulse,2185,MAGICC 5.3,0,0.045,0.00048,0.00071
+CH4 emissions impulse,2186,MAGICC 5.3,0,0.044,0.00049,0.00071
+CH4 emissions impulse,2187,MAGICC 5.3,0,0.043,0.00048,0.0007
+CH4 emissions impulse,2188,MAGICC 5.3,0,0.043,0.00048,0.0007
+CH4 emissions impulse,2189,MAGICC 5.3,0,0.043,0.00046,0.0007
+CH4 emissions impulse,2190,MAGICC 5.3,0,0.043,0.00046,0.00069
+CH4 emissions impulse,2191,MAGICC 5.3,0,0.042,0.00046,0.00068
+CH4 emissions impulse,2192,MAGICC 5.3,0,0.042,0.00046,0.00068
+CH4 emissions impulse,2193,MAGICC 5.3,0,0.041,0.00046,0.00067
+CH4 emissions impulse,2194,MAGICC 5.3,0,0.041,0.00045,0.00067
+CH4 emissions impulse,2195,MAGICC 5.3,0,0.041,0.00045,0.00067
+CH4 emissions impulse,2196,MAGICC 5.3,0,0.04,0.00044,0.00067
+CH4 emissions impulse,2197,MAGICC 5.3,0,0.04,0.00044,0.00066
+CH4 emissions impulse,2198,MAGICC 5.3,0,0.039,0.00043,0.00066
+CH4 emissions impulse,2199,MAGICC 5.3,0,0.039,0.00043,0.00065
+CH4 emissions impulse,2200,MAGICC 5.3,0,0.038,0.00043,0.00065
+CH4 emissions impulse,2201,MAGICC 5.3,0,0.038,0.00043,0.00064
+CH4 emissions impulse,2202,MAGICC 5.3,0,0.038,0.00042,0.00064
+CH4 emissions impulse,2203,MAGICC 5.3,0,0.037,0.00042,0.00064
+CH4 emissions impulse,2204,MAGICC 5.3,0,0.038,0.00042,0.00064
+CH4 emissions impulse,2205,MAGICC 5.3,0,0.037,0.00041,0.00063
+CH4 emissions impulse,2206,MAGICC 5.3,0,0.037,0.0004,0.00062
+CH4 emissions impulse,2207,MAGICC 5.3,0,0.036,0.0004,0.00062
+CH4 emissions impulse,2208,MAGICC 5.3,0,0.036,0.0004,0.00062
+CH4 emissions impulse,2209,MAGICC 5.3,0,0.036,0.0004,0.00062
+CH4 emissions impulse,2210,MAGICC 5.3,0,0.035,0.0004,0.00061
+CH4 emissions impulse,2211,MAGICC 5.3,0,0.035,0.00039,0.0006
+CH4 emissions impulse,2212,MAGICC 5.3,0,0.035,0.00039,0.0006
+CH4 emissions impulse,2213,MAGICC 5.3,0,0.034,0.00039,0.0006
+CH4 emissions impulse,2214,MAGICC 5.3,0,0.035,0.00038,0.0006
+CH4 emissions impulse,2215,MAGICC 5.3,0,0.034,0.00038,0.00059
+CH4 emissions impulse,2216,MAGICC 5.3,0,0.033,0.00037,0.00059
+CH4 emissions impulse,2217,MAGICC 5.3,0,0.033,0.00037,0.00058
+CH4 emissions impulse,2218,MAGICC 5.3,0,0.033,0.00037,0.00058
+CH4 emissions impulse,2219,MAGICC 5.3,0,0.033,0.00037,0.00058
+CH4 emissions impulse,2220,MAGICC 5.3,0,0.032,0.00036,0.00057
+CH4 emissions impulse,2221,MAGICC 5.3,0,0.032,0.00036,0.00057
+CH4 emissions impulse,2222,MAGICC 5.3,0,0.032,0.00036,0.00056
+CH4 emissions impulse,2223,MAGICC 5.3,0,0.031,0.00035,0.00057
+CH4 emissions impulse,2224,MAGICC 5.3,0,0.031,0.00035,0.00056
+CH4 emissions impulse,2225,MAGICC 5.3,0,0.031,0.00035,0.00056
+CH4 emissions impulse,2226,MAGICC 5.3,0,0.03,0.00035,0.00056
+CH4 emissions impulse,2227,MAGICC 5.3,0,0.031,0.00035,0.00056
+CH4 emissions impulse,2228,MAGICC 5.3,0,0.031,0.00034,0.00055
+CH4 emissions impulse,2229,MAGICC 5.3,0,0.03,0.00034,0.00054
+CH4 emissions impulse,2230,MAGICC 5.3,0,0.03,0.00033,0.00054
+CH4 emissions impulse,2231,MAGICC 5.3,0,0.03,0.00034,0.00054
+CH4 emissions impulse,2232,MAGICC 5.3,0,0.029,0.00033,0.00053
+CH4 emissions impulse,2233,MAGICC 5.3,0,0.029,0.00033,0.00054
+CH4 emissions impulse,2234,MAGICC 5.3,0,0.029,0.00032,0.00053
+CH4 emissions impulse,2235,MAGICC 5.3,0,0.028,0.00032,0.00053
+CH4 emissions impulse,2236,MAGICC 5.3,0,0.028,0.00032,0.00052
+CH4 emissions impulse,2237,MAGICC 5.3,0,0.028,0.00032,0.00053
+CH4 emissions impulse,2238,MAGICC 5.3,0,0.028,0.00031,0.00052
+CH4 emissions impulse,2239,MAGICC 5.3,0,0.028,0.00031,0.00052
+CH4 emissions impulse,2240,MAGICC 5.3,0,0.027,0.00031,0.00051
+CH4 emissions impulse,2241,MAGICC 5.3,0,0.027,0.00031,0.00051
+CH4 emissions impulse,2242,MAGICC 5.3,0,0.027,0.00031,0.0005
+CH4 emissions impulse,2243,MAGICC 5.3,0,0.027,0.00031,0.0005
+CH4 emissions impulse,2244,MAGICC 5.3,0,0.027,0.00031,0.0005
+CH4 emissions impulse,2245,MAGICC 5.3,0,0.026,0.0003,0.0005
+CH4 emissions impulse,2246,MAGICC 5.3,0,0.026,0.00029,0.0005
+CH4 emissions impulse,2247,MAGICC 5.3,0,0.025,0.00029,0.00049
+CH4 emissions impulse,2248,MAGICC 5.3,0,0.026,0.00029,0.00049
+CH4 emissions impulse,2249,MAGICC 5.3,0,0.026,0.00028,0.00049
+CH4 emissions impulse,2250,MAGICC 5.3,0,0.025,0.00029,0.00049
+CH4 emissions impulse,2251,MAGICC 5.3,0,0.025,0.00029,0.00048
+CH4 emissions impulse,2252,MAGICC 5.3,0,0.025,0.00028,0.00048
+CH4 emissions impulse,2253,MAGICC 5.3,0,0.024,0.00028,0.00048
+CH4 emissions impulse,2254,MAGICC 5.3,0,0.024,0.00028,0.00047
+CH4 emissions impulse,2255,MAGICC 5.3,0,0.024,0.00027,0.00048
+CH4 emissions impulse,2256,MAGICC 5.3,0,0.023,0.00027,0.00047
+CH4 emissions impulse,2257,MAGICC 5.3,0,0.024,0.00026,0.00046
+CH4 emissions impulse,2258,MAGICC 5.3,0,0.024,0.00027,0.00047
+CH4 emissions impulse,2259,MAGICC 5.3,0,0.024,0.00027,0.00047
+CH4 emissions impulse,2260,MAGICC 5.3,0,0.023,0.00027,0.00046
+CH4 emissions impulse,2261,MAGICC 5.3,0,0.023,0.00026,0.00046
+CH4 emissions impulse,2262,MAGICC 5.3,0,0.022,0.00026,0.00046
+CH4 emissions impulse,2263,MAGICC 5.3,0,0.022,0.00026,0.00045
+CH4 emissions impulse,2264,MAGICC 5.3,0,0.023,0.00025,0.00045
+CH4 emissions impulse,2265,MAGICC 5.3,0,0.022,0.00025,0.00045
+CH4 emissions impulse,2266,MAGICC 5.3,0,0.022,0.00025,0.00045
+CH4 emissions impulse,2267,MAGICC 5.3,0,0.021,0.00024,0.00044
+CH4 emissions impulse,2268,MAGICC 5.3,0,0.021,0.00024,0.00044
+CH4 emissions impulse,2269,MAGICC 5.3,0,0.021,0.00024,0.00044
+CH4 emissions impulse,2270,MAGICC 5.3,0,0.021,0.00025,0.00043
+CH4 emissions impulse,2271,MAGICC 5.3,0,0.021,0.00024,0.00044
+CH4 emissions impulse,2272,MAGICC 5.3,0,0.021,0.00024,0.00043
+CH4 emissions impulse,2273,MAGICC 5.3,0,0.02,0.00024,0.00043
+CH4 emissions impulse,2274,MAGICC 5.3,0,0.021,0.00023,0.00043
+CH4 emissions impulse,2275,MAGICC 5.3,0,0.02,0.00023,0.00043
+CH4 emissions impulse,2276,MAGICC 5.3,0,0.02,0.00023,0.00042
+CH4 emissions impulse,2277,MAGICC 5.3,0,0.02,0.00023,0.00043
+CH4 emissions impulse,2278,MAGICC 5.3,0,0.02,0.00023,0.00042
+CH4 emissions impulse,2279,MAGICC 5.3,0,0.019,0.00022,0.00042
+CH4 emissions impulse,2280,MAGICC 5.3,0,0.019,0.00022,0.00042
+CH4 emissions impulse,2281,MAGICC 5.3,0,0.019,0.00022,0.00042
+CH4 emissions impulse,2282,MAGICC 5.3,0,0.019,0.00022,0.00041
+CH4 emissions impulse,2283,MAGICC 5.3,0,0.019,0.00022,0.00041
+CH4 emissions impulse,2284,MAGICC 5.3,0,0.019,0.00022,0.0004
+CH4 emissions impulse,2285,MAGICC 5.3,0,0.019,0.00022,0.00041
+CH4 emissions impulse,2286,MAGICC 5.3,0,0.018,0.00021,0.0004
+CH4 emissions impulse,2287,MAGICC 5.3,0,0.018,0.00021,0.0004
+CH4 emissions impulse,2288,MAGICC 5.3,0,0.018,0.0002,0.0004
+CH4 emissions impulse,2289,MAGICC 5.3,0,0.017,0.0002,0.0004
+CH4 emissions impulse,2290,MAGICC 5.3,0,0.017,0.0002,0.00039
+CH4 emissions impulse,2291,MAGICC 5.3,0,0.018,0.0002,0.0004
+CH4 emissions impulse,2292,MAGICC 5.3,0,0.017,0.0002,0.00039
+CH4 emissions impulse,2293,MAGICC 5.3,0,0.017,0.0002,0.00039
+CH4 emissions impulse,2294,MAGICC 5.3,0,0.017,0.0002,0.00038
+CH4 emissions impulse,2295,MAGICC 5.3,0,0.017,0.0002,0.00039
+CH4 emissions impulse,2296,MAGICC 5.3,0,0.016,0.00019,0.00038
+CH4 emissions impulse,2297,MAGICC 5.3,0,0.017,0.0002,0.00038
+CH4 emissions impulse,2298,MAGICC 5.3,0,0.017,0.00019,0.00038
+CH4 emissions impulse,2299,MAGICC 5.3,0,0.016,0.00019,0.00038
+CH4 emissions impulse,2300,MAGICC 5.3,0,0.016,0.00018,0.00038
+CH4 emissions impulse,2301,MAGICC 5.3,0,0.016,0.00018,0.00038
+CH4 emissions impulse,2302,MAGICC 5.3,0,0.016,0.00019,0.00038
+CH4 emissions impulse,2303,MAGICC 5.3,0,0.016,0.00018,0.00037
+CH4 emissions impulse,2304,MAGICC 5.3,0,0.016,0.00018,0.00038
+CH4 emissions impulse,2305,MAGICC 5.3,0,0.015,0.00018,0.00036
+CH4 emissions impulse,2010,MAGICC 6.0,0,0,0,0
+CH4 emissions impulse,2011,MAGICC 6.0,0,0,0,0
+CH4 emissions impulse,2012,MAGICC 6.0,0,0,0,0
+CH4 emissions impulse,2013,MAGICC 6.0,0,0,0,0
+CH4 emissions impulse,2014,MAGICC 6.0,0,0,0,0
+CH4 emissions impulse,2015,MAGICC 6.0,0,0,0,0
+CH4 emissions impulse,2016,MAGICC 6.0,55.8156,0.00084,0.0289504,0.00788624
+CH4 emissions impulse,2017,MAGICC 6.0,107.0556,-0.00047,0.0555649,0.0125826
+CH4 emissions impulse,2018,MAGICC 6.0,98.2664,-0.00173,0.0511084,0.014481
+CH4 emissions impulse,2019,MAGICC 6.0,90.1805,0.00417,0.0470882,0.0153931
+CH4 emissions impulse,2020,MAGICC 6.0,82.7472,0.01636,0.0434309,0.0157782
+CH4 emissions impulse,2021,MAGICC 6.0,75.9127,0.03175,0.0401025,0.0158487
+CH4 emissions impulse,2022,MAGICC 6.0,69.6321,0.0486,0.0371048,0.0157159
+CH4 emissions impulse,2023,MAGICC 6.0,63.863,0.06593,0.0343744,0.0154468
+CH4 emissions impulse,2024,MAGICC 6.0,58.5649,0.08313,0.031877,0.0150859
+CH4 emissions impulse,2025,MAGICC 6.0,53.6998,0.09977,0.029587,0.0146645
+CH4 emissions impulse,2026,MAGICC 6.0,49.233,0.11561,0.0274837,0.0142046
+CH4 emissions impulse,2027,MAGICC 6.0,45.1325,0.13049,0.0255497,0.0137219
+CH4 emissions impulse,2028,MAGICC 6.0,41.3687,0.14434,0.0237693,0.0132281
+CH4 emissions impulse,2029,MAGICC 6.0,37.9141,0.15711,0.0221291,0.0127315
+CH4 emissions impulse,2030,MAGICC 6.0,34.7438,0.16882,0.0206169,0.0122384
+CH4 emissions impulse,2031,MAGICC 6.0,31.8347,0.17947,0.019222,0.0117531
+CH4 emissions impulse,2032,MAGICC 6.0,29.1652,0.18912,0.0179351,0.0112793
+CH4 emissions impulse,2033,MAGICC 6.0,26.7158,0.19782,0.0167476,0.010819
+CH4 emissions impulse,2034,MAGICC 6.0,24.4684,0.20562,0.0156513,0.0103739
+CH4 emissions impulse,2035,MAGICC 6.0,22.4066,0.21256,0.0146385,0.0099449
+CH4 emissions impulse,2036,MAGICC 6.0,20.5152,0.21873,0.0137025,0.0095329
+CH4 emissions impulse,2037,MAGICC 6.0,18.7803,0.22416,0.012837,0.0091378
+CH4 emissions impulse,2038,MAGICC 6.0,17.1891,0.22892,0.0120363,0.0087596
+CH4 emissions impulse,2039,MAGICC 6.0,15.7298,0.23305,0.0112953,0.0083985
+CH4 emissions impulse,2040,MAGICC 6.0,14.3917,0.23661,0.0106092,0.0080541
+CH4 emissions impulse,2041,MAGICC 6.0,13.1648,0.23965,0.0099738,0.0077258
+CH4 emissions impulse,2042,MAGICC 6.0,12.04,0.24219,0.0093851,0.0074133
+CH4 emissions impulse,2043,MAGICC 6.0,11.0087,0.2443,0.00884,0.0071161
+CH4 emissions impulse,2044,MAGICC 6.0,10.0632,0.246,0.0083348,0.0068337
+CH4 emissions impulse,2045,MAGICC 6.0,9.1966,0.24732,0.0078664,0.0065654
+CH4 emissions impulse,2046,MAGICC 6.0,8.4024,0.24831,0.0074318,0.0063106
+CH4 emissions impulse,2047,MAGICC 6.0,7.6745,0.24899,0.0070286,0.0060687
+CH4 emissions impulse,2048,MAGICC 6.0,7.0077,0.24937,0.0066538,0.0058391
+CH4 emissions impulse,2049,MAGICC 6.0,6.3967,0.24951,0.0063063,0.0056214
+CH4 emissions impulse,2050,MAGICC 6.0,5.8371,0.24942,0.0059839,0.0054151
+CH4 emissions impulse,2051,MAGICC 6.0,5.3245,0.24911,0.0056845,0.0052195
+CH4 emissions impulse,2052,MAGICC 6.0,4.855,0.24861,0.0054066,0.0050342
+CH4 emissions impulse,2053,MAGICC 6.0,4.4251,0.24794,0.0051487,0.0048586
+CH4 emissions impulse,2054,MAGICC 6.0,4.0315,0.24711,0.0049092,0.0046923
+CH4 emissions impulse,2055,MAGICC 6.0,3.6711,0.24613,0.0046866,0.0045346
+CH4 emissions impulse,2056,MAGICC 6.0,3.3413,0.24503,0.0044799,0.0043853
+CH4 emissions impulse,2057,MAGICC 6.0,3.0395,0.2438,0.0042875,0.0042438
+CH4 emissions impulse,2058,MAGICC 6.0,2.7633,0.24248,0.0041084,0.0041097
+CH4 emissions impulse,2059,MAGICC 6.0,2.5107,0.24105,0.0039416,0.0039825
+CH4 emissions impulse,2060,MAGICC 6.0,2.2796,0.23954,0.0037863,0.003862
+CH4 emissions impulse,2061,MAGICC 6.0,2.0683,0.23797,0.0036413,0.0037476
+CH4 emissions impulse,2062,MAGICC 6.0,1.8751,0.23632,0.0035063,0.0036391
+CH4 emissions impulse,2063,MAGICC 6.0,1.6985,0.23461,0.0033804,0.0035361
+CH4 emissions impulse,2064,MAGICC 6.0,1.5371,0.23285,0.0032627,0.0034384
+CH4 emissions impulse,2065,MAGICC 6.0,1.3896,0.23105,0.003153,0.0033456
+CH4 emissions impulse,2066,MAGICC 6.0,1.2549,0.2292,0.0030504,0.0032575
+CH4 emissions impulse,2067,MAGICC 6.0,1.1318,0.22732,0.0029544,0.0031738
+CH4 emissions impulse,2068,MAGICC 6.0,1.0196,0.22541,0.0028646,0.0030943
+CH4 emissions impulse,2069,MAGICC 6.0,0.917,0.22347,0.0027804,0.0030186
+CH4 emissions impulse,2070,MAGICC 6.0,0.8236,0.22152,0.0027015,0.0029466
+CH4 emissions impulse,2071,MAGICC 6.0,0.7383,0.21954,0.0026275,0.002878
+CH4 emissions impulse,2072,MAGICC 6.0,0.6606,0.21755,0.0025581,0.0028126
+CH4 emissions impulse,2073,MAGICC 6.0,0.5897,0.21555,0.0024929,0.0027504
+CH4 emissions impulse,2074,MAGICC 6.0,0.5252,0.21354,0.0024318,0.0026911
+CH4 emissions impulse,2075,MAGICC 6.0,0.4664,0.21154,0.0023742,0.0026345
+CH4 emissions impulse,2076,MAGICC 6.0,0.4129,0.20952,0.0023202,0.0025806
+CH4 emissions impulse,2077,MAGICC 6.0,0.3643,0.20751,0.0022693,0.0025292
+CH4 emissions impulse,2078,MAGICC 6.0,0.32,0.20548,0.0022213,0.0024801
+CH4 emissions impulse,2079,MAGICC 6.0,0.2755,0.20347,0.0021737,0.0024324
+CH4 emissions impulse,2080,MAGICC 6.0,0.2315,0.20147,0.0021267,0.0023867
+CH4 emissions impulse,2081,MAGICC 6.0,0.1927,0.19947,0.0020831,0.0023428
+CH4 emissions impulse,2082,MAGICC 6.0,0.1588,0.19747,0.0020425,0.0023008
+CH4 emissions impulse,2083,MAGICC 6.0,0.129,0.19548,0.0020041,0.0022606
+CH4 emissions impulse,2084,MAGICC 6.0,0.1028,0.1935,0.001968,0.0022221
+CH4 emissions impulse,2085,MAGICC 6.0,0.0799,0.19155,0.0019338,0.0021852
+CH4 emissions impulse,2086,MAGICC 6.0,0.0599,0.1896,0.0019012,0.0021498
+CH4 emissions impulse,2087,MAGICC 6.0,0.0423,0.18768,0.0018703,0.0021159
+CH4 emissions impulse,2088,MAGICC 6.0,0.027,0.18578,0.001841,0.0020832
+CH4 emissions impulse,2089,MAGICC 6.0,0.0136,0.18389,0.0018129,0.0020518
+CH4 emissions impulse,2090,MAGICC 6.0,0.002,0.18202,0.0017859,0.0020214
+CH4 emissions impulse,2091,MAGICC 6.0,-0.0082,0.18019,0.0017601,0.0019923
+CH4 emissions impulse,2092,MAGICC 6.0,-0.0169,0.17836,0.0017354,0.0019642
+CH4 emissions impulse,2093,MAGICC 6.0,-0.0245,0.17656,0.0017116,0.001937
+CH4 emissions impulse,2094,MAGICC 6.0,-0.0311,0.17479,0.0016886,0.0019107
+CH4 emissions impulse,2095,MAGICC 6.0,-0.0367,0.17305,0.0016664,0.0018852
+CH4 emissions impulse,2096,MAGICC 6.0,-0.0417,0.17132,0.0016449,0.0018606
+CH4 emissions impulse,2097,MAGICC 6.0,-0.0457,0.16962,0.0016241,0.0018368
+CH4 emissions impulse,2098,MAGICC 6.0,-0.0493,0.16795,0.001604,0.0018136
+CH4 emissions impulse,2099,MAGICC 6.0,-0.0524,0.1663,0.0015844,0.0017911
+CH4 emissions impulse,2100,MAGICC 6.0,-0.0548,0.16468,0.0015654,0.0017693
+CH4 emissions impulse,2101,MAGICC 6.0,-0.057,0.16307,0.0015468,0.0017481
+CH4 emissions impulse,2102,MAGICC 6.0,-0.0588,0.1615,0.001529,0.0017275
+CH4 emissions impulse,2103,MAGICC 6.0,-0.0601,0.15995,0.0015115,0.0017075
+CH4 emissions impulse,2104,MAGICC 6.0,-0.0613,0.15842,0.0014947,0.001688
+CH4 emissions impulse,2105,MAGICC 6.0,-0.0622,0.15691,0.0014784,0.0016691
+CH4 emissions impulse,2106,MAGICC 6.0,-0.0629,0.15542,0.0014626,0.0016506
+CH4 emissions impulse,2107,MAGICC 6.0,-0.0634,0.15396,0.0014472,0.0016328
+CH4 emissions impulse,2108,MAGICC 6.0,-0.0639,0.15251,0.0014323,0.0016153
+CH4 emissions impulse,2109,MAGICC 6.0,-0.0641,0.15109,0.0014178,0.0015983
+CH4 emissions impulse,2110,MAGICC 6.0,-0.0642,0.14969,0.0014036,0.0015817
+CH4 emissions impulse,2111,MAGICC 6.0,-0.0642,0.1483,0.0013897,0.0015655
+CH4 emissions impulse,2112,MAGICC 6.0,-0.0641,0.14694,0.0013762,0.0015498
+CH4 emissions impulse,2113,MAGICC 6.0,-0.064,0.14558,0.0013631,0.0015344
+CH4 emissions impulse,2114,MAGICC 6.0,-0.0639,0.14426,0.0013501,0.0015194
+CH4 emissions impulse,2115,MAGICC 6.0,-0.0637,0.14295,0.0013375,0.0015047
+CH4 emissions impulse,2116,MAGICC 6.0,-0.0633,0.14165,0.0013251,0.0014903
+CH4 emissions impulse,2117,MAGICC 6.0,-0.063,0.14038,0.001313,0.0014763
+CH4 emissions impulse,2118,MAGICC 6.0,-0.0626,0.13912,0.0013011,0.0014626
+CH4 emissions impulse,2119,MAGICC 6.0,-0.0623,0.13788,0.0012895,0.0014491
+CH4 emissions impulse,2120,MAGICC 6.0,-0.0619,0.13666,0.0012781,0.001436
+CH4 emissions impulse,2121,MAGICC 6.0,-0.0614,0.13545,0.0012669,0.0014231
+CH4 emissions impulse,2122,MAGICC 6.0,-0.061,0.13426,0.0012558,0.0014105
+CH4 emissions impulse,2123,MAGICC 6.0,-0.0606,0.13308,0.001245,0.0013981
+CH4 emissions impulse,2124,MAGICC 6.0,-0.0601,0.13192,0.0012342,0.001386
+CH4 emissions impulse,2125,MAGICC 6.0,-0.0597,0.13078,0.0012237,0.0013741
+CH4 emissions impulse,2126,MAGICC 6.0,-0.0592,0.12965,0.0012133,0.0013624
+CH4 emissions impulse,2127,MAGICC 6.0,-0.0588,0.12853,0.0012031,0.0013509
+CH4 emissions impulse,2128,MAGICC 6.0,-0.0583,0.12743,0.001193,0.0013397
+CH4 emissions impulse,2129,MAGICC 6.0,-0.0578,0.12635,0.0011831,0.0013286
+CH4 emissions impulse,2130,MAGICC 6.0,-0.0574,0.12528,0.0011733,0.0013177
+CH4 emissions impulse,2131,MAGICC 6.0,-0.0569,0.12423,0.0011636,0.001307
+CH4 emissions impulse,2132,MAGICC 6.0,-0.0564,0.12319,0.0011541,0.0012965
+CH4 emissions impulse,2133,MAGICC 6.0,-0.056,0.12216,0.0011447,0.0012861
+CH4 emissions impulse,2134,MAGICC 6.0,-0.0555,0.12114,0.0011354,0.001276
+CH4 emissions impulse,2135,MAGICC 6.0,-0.055,0.12015,0.0011263,0.001266
+CH4 emissions impulse,2136,MAGICC 6.0,-0.0546,0.11916,0.0011173,0.0012561
+CH4 emissions impulse,2137,MAGICC 6.0,-0.0542,0.11819,0.0011084,0.0012464
+CH4 emissions impulse,2138,MAGICC 6.0,-0.0537,0.11722,0.0010996,0.0012368
+CH4 emissions impulse,2139,MAGICC 6.0,-0.0533,0.11628,0.001091,0.0012275
+CH4 emissions impulse,2140,MAGICC 6.0,-0.0529,0.11535,0.0010825,0.0012182
+CH4 emissions impulse,2141,MAGICC 6.0,-0.0525,0.11441,0.0010741,0.0012091
+CH4 emissions impulse,2142,MAGICC 6.0,-0.0521,0.1135,0.0010657,0.0012002
+CH4 emissions impulse,2143,MAGICC 6.0,-0.0517,0.11261,0.0010575,0.0011913
+CH4 emissions impulse,2144,MAGICC 6.0,-0.0512,0.11171,0.0010495,0.0011826
+CH4 emissions impulse,2145,MAGICC 6.0,-0.0509,0.11084,0.0010414,0.001174
+CH4 emissions impulse,2146,MAGICC 6.0,-0.0504,0.10997,0.0010336,0.0011656
+CH4 emissions impulse,2147,MAGICC 6.0,-0.0501,0.10912,0.0010259,0.0011572
+CH4 emissions impulse,2148,MAGICC 6.0,-0.0497,0.10827,0.0010182,0.001149
+CH4 emissions impulse,2149,MAGICC 6.0,-0.0493,0.10743,0.0010106,0.0011409
+CH4 emissions impulse,2150,MAGICC 6.0,-0.049,0.10661,0.0010031,0.0011329
+CH4 emissions impulse,2151,MAGICC 6.0,-0.0486,0.1058,0.0009956,0.0011251
+CH4 emissions impulse,2152,MAGICC 6.0,-0.0482,0.10499,0.0009883,0.0011172
+CH4 emissions impulse,2153,MAGICC 6.0,-0.0479,0.10419,0.000981,0.0011096
+CH4 emissions impulse,2154,MAGICC 6.0,-0.0475,0.10342,0.0009738,0.001102
+CH4 emissions impulse,2155,MAGICC 6.0,-0.0471,0.10264,0.0009667,0.0010945
+CH4 emissions impulse,2156,MAGICC 6.0,-0.0469,0.10187,0.0009597,0.0010871
+CH4 emissions impulse,2157,MAGICC 6.0,-0.0465,0.10112,0.0009526,0.0010797
+CH4 emissions impulse,2158,MAGICC 6.0,-0.0462,0.10037,0.0009459,0.0010726
+CH4 emissions impulse,2159,MAGICC 6.0,-0.0459,0.09963,0.0009391,0.0010655
+CH4 emissions impulse,2160,MAGICC 6.0,-0.0456,0.0989,0.0009323,0.0010585
+CH4 emissions impulse,2161,MAGICC 6.0,-0.0452,0.09819,0.0009257,0.0010515
+CH4 emissions impulse,2162,MAGICC 6.0,-0.0449,0.09747,0.0009191,0.0010446
+CH4 emissions impulse,2163,MAGICC 6.0,-0.0446,0.09677,0.0009126,0.0010378
+CH4 emissions impulse,2164,MAGICC 6.0,-0.0443,0.09608,0.0009062,0.0010311
+CH4 emissions impulse,2165,MAGICC 6.0,-0.044,0.09539,0.0008999,0.0010245
+CH4 emissions impulse,2166,MAGICC 6.0,-0.0436,0.09472,0.0008936,0.001018
+CH4 emissions impulse,2167,MAGICC 6.0,-0.0434,0.09404,0.0008874,0.0010116
+CH4 emissions impulse,2168,MAGICC 6.0,-0.0431,0.09338,0.0008813,0.0010052
+CH4 emissions impulse,2169,MAGICC 6.0,-0.0428,0.09273,0.0008753,0.0009989
+CH4 emissions impulse,2170,MAGICC 6.0,-0.0426,0.09207,0.0008693,0.0009927
+CH4 emissions impulse,2171,MAGICC 6.0,-0.0423,0.09143,0.0008634,0.0009865
+CH4 emissions impulse,2172,MAGICC 6.0,-0.042,0.0908,0.0008575,0.0009804
+CH4 emissions impulse,2173,MAGICC 6.0,-0.0417,0.09018,0.0008517,0.0009745
+CH4 emissions impulse,2174,MAGICC 6.0,-0.0414,0.08955,0.0008461,0.0009685
+CH4 emissions impulse,2175,MAGICC 6.0,-0.0411,0.08895,0.0008404,0.0009626
+CH4 emissions impulse,2176,MAGICC 6.0,-0.0409,0.08834,0.0008348,0.0009568
+CH4 emissions impulse,2177,MAGICC 6.0,-0.0407,0.08774,0.0008293,0.000951
+CH4 emissions impulse,2178,MAGICC 6.0,-0.0404,0.08714,0.0008238,0.0009454
+CH4 emissions impulse,2179,MAGICC 6.0,-0.0401,0.08656,0.0008184,0.0009398
+CH4 emissions impulse,2180,MAGICC 6.0,-0.0398,0.08598,0.0008131,0.0009342
+CH4 emissions impulse,2181,MAGICC 6.0,-0.0397,0.08541,0.0008078,0.0009287
+CH4 emissions impulse,2182,MAGICC 6.0,-0.0393,0.08484,0.0008026,0.0009233
+CH4 emissions impulse,2183,MAGICC 6.0,-0.0392,0.08429,0.0007974,0.0009179
+CH4 emissions impulse,2184,MAGICC 6.0,-0.0389,0.08372,0.0007922,0.0009126
+CH4 emissions impulse,2185,MAGICC 6.0,-0.0387,0.08317,0.0007872,0.0009074
+CH4 emissions impulse,2186,MAGICC 6.0,-0.0384,0.08263,0.0007822,0.0009022
+CH4 emissions impulse,2187,MAGICC 6.0,-0.0383,0.08209,0.0007772,0.000897
+CH4 emissions impulse,2188,MAGICC 6.0,-0.038,0.08156,0.0007722,0.0008919
+CH4 emissions impulse,2189,MAGICC 6.0,-0.0378,0.08104,0.0007674,0.0008868
+CH4 emissions impulse,2190,MAGICC 6.0,-0.0376,0.08052,0.0007626,0.0008819
+CH4 emissions impulse,2191,MAGICC 6.0,-0.0374,0.08,0.0007579,0.0008769
+CH4 emissions impulse,2192,MAGICC 6.0,-0.0371,0.07948,0.0007532,0.0008721
+CH4 emissions impulse,2193,MAGICC 6.0,-0.0369,0.07898,0.0007485,0.0008673
+CH4 emissions impulse,2194,MAGICC 6.0,-0.0367,0.07848,0.0007439,0.0008625
+CH4 emissions impulse,2195,MAGICC 6.0,-0.0365,0.07799,0.0007392,0.0008577
+CH4 emissions impulse,2196,MAGICC 6.0,-0.0363,0.0775,0.0007347,0.000853
+CH4 emissions impulse,2197,MAGICC 6.0,-0.036,0.07702,0.0007303,0.0008484
+CH4 emissions impulse,2198,MAGICC 6.0,-0.0358,0.07654,0.0007258,0.0008438
+CH4 emissions impulse,2199,MAGICC 6.0,-0.0356,0.07606,0.0007214,0.0008392
+CH4 emissions impulse,2200,MAGICC 6.0,-0.0354,0.07558,0.0007171,0.0008348
+CH4 emissions impulse,2201,MAGICC 6.0,-0.0352,0.07512,0.0007128,0.0008303
+CH4 emissions impulse,2202,MAGICC 6.0,-0.035,0.07467,0.0007086,0.0008259
+CH4 emissions impulse,2203,MAGICC 6.0,-0.0348,0.0742,0.0007043,0.0008215
+CH4 emissions impulse,2204,MAGICC 6.0,-0.0346,0.07375,0.0007001,0.0008171
+CH4 emissions impulse,2205,MAGICC 6.0,-0.0345,0.0733,0.000696,0.0008129
+CH4 emissions impulse,2206,MAGICC 6.0,-0.0342,0.07286,0.0006919,0.0008087
+CH4 emissions impulse,2207,MAGICC 6.0,-0.0341,0.07242,0.0006879,0.0008044
+CH4 emissions impulse,2208,MAGICC 6.0,-0.0339,0.07199,0.0006838,0.0008003
+CH4 emissions impulse,2209,MAGICC 6.0,-0.0337,0.07156,0.0006798,0.0007962
+CH4 emissions impulse,2210,MAGICC 6.0,-0.0335,0.07113,0.0006759,0.0007921
+CH4 emissions impulse,2211,MAGICC 6.0,-0.0333,0.07071,0.000672,0.000788
+CH4 emissions impulse,2212,MAGICC 6.0,-0.0332,0.07029,0.0006681,0.000784
+CH4 emissions impulse,2213,MAGICC 6.0,-0.033,0.06988,0.0006643,0.00078
+CH4 emissions impulse,2214,MAGICC 6.0,-0.0328,0.06947,0.0006605,0.0007761
+CH4 emissions impulse,2215,MAGICC 6.0,-0.0326,0.06906,0.0006567,0.0007722
+CH4 emissions impulse,2216,MAGICC 6.0,-0.0325,0.06866,0.000653,0.0007683
+CH4 emissions impulse,2217,MAGICC 6.0,-0.0323,0.06826,0.0006493,0.0007645
+CH4 emissions impulse,2218,MAGICC 6.0,-0.0322,0.06787,0.0006456,0.0007606
+CH4 emissions impulse,2219,MAGICC 6.0,-0.032,0.06747,0.000642,0.0007569
+CH4 emissions impulse,2220,MAGICC 6.0,-0.0318,0.06708,0.0006384,0.0007531
+CH4 emissions impulse,2221,MAGICC 6.0,-0.0317,0.0667,0.0006348,0.0007495
+CH4 emissions impulse,2222,MAGICC 6.0,-0.0315,0.06632,0.0006314,0.0007458
+CH4 emissions impulse,2223,MAGICC 6.0,-0.0314,0.06595,0.0006279,0.0007422
+CH4 emissions impulse,2224,MAGICC 6.0,-0.0312,0.06557,0.0006244,0.0007386
+CH4 emissions impulse,2225,MAGICC 6.0,-0.031,0.0652,0.0006209,0.0007351
+CH4 emissions impulse,2226,MAGICC 6.0,-0.0308,0.06483,0.0006176,0.0007315
+CH4 emissions impulse,2227,MAGICC 6.0,-0.0307,0.06447,0.0006142,0.000728
+CH4 emissions impulse,2228,MAGICC 6.0,-0.0305,0.06412,0.0006109,0.0007245
+CH4 emissions impulse,2229,MAGICC 6.0,-0.0304,0.06376,0.0006076,0.000721
+CH4 emissions impulse,2230,MAGICC 6.0,-0.0303,0.06341,0.0006042,0.0007177
+CH4 emissions impulse,2231,MAGICC 6.0,-0.0302,0.06306,0.0006011,0.0007143
+CH4 emissions impulse,2232,MAGICC 6.0,-0.03,0.06271,0.0005978,0.0007109
+CH4 emissions impulse,2233,MAGICC 6.0,-0.0299,0.06236,0.0005947,0.0007076
+CH4 emissions impulse,2234,MAGICC 6.0,-0.0297,0.06202,0.0005915,0.0007043
+CH4 emissions impulse,2235,MAGICC 6.0,-0.0295,0.06168,0.0005883,0.0007011
+CH4 emissions impulse,2236,MAGICC 6.0,-0.0294,0.06136,0.0005852,0.0006978
+CH4 emissions impulse,2237,MAGICC 6.0,-0.0293,0.06102,0.0005821,0.0006946
+CH4 emissions impulse,2238,MAGICC 6.0,-0.0291,0.06069,0.0005791,0.0006914
+CH4 emissions impulse,2239,MAGICC 6.0,-0.029,0.06037,0.0005761,0.0006882
+CH4 emissions impulse,2240,MAGICC 6.0,-0.0289,0.06005,0.0005731,0.0006851
+CH4 emissions impulse,2241,MAGICC 6.0,-0.0288,0.05973,0.0005701,0.000682
+CH4 emissions impulse,2242,MAGICC 6.0,-0.0286,0.05941,0.0005671,0.000679
+CH4 emissions impulse,2243,MAGICC 6.0,-0.0284,0.0591,0.0005643,0.0006758
+CH4 emissions impulse,2244,MAGICC 6.0,-0.0283,0.05879,0.0005614,0.0006728
+CH4 emissions impulse,2245,MAGICC 6.0,-0.0281,0.05847,0.0005585,0.0006698
+CH4 emissions impulse,2246,MAGICC 6.0,-0.0281,0.05817,0.0005556,0.0006668
+CH4 emissions impulse,2247,MAGICC 6.0,-0.0279,0.05787,0.0005528,0.0006638
+CH4 emissions impulse,2248,MAGICC 6.0,-0.0278,0.05757,0.0005501,0.000661
+CH4 emissions impulse,2249,MAGICC 6.0,-0.0276,0.05727,0.0005472,0.0006581
+CH4 emissions impulse,2250,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006556
+CH4 emissions impulse,2251,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006534
+CH4 emissions impulse,2252,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006513
+CH4 emissions impulse,2253,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006494
+CH4 emissions impulse,2254,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006476
+CH4 emissions impulse,2255,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006458
+CH4 emissions impulse,2256,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006441
+CH4 emissions impulse,2257,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006425
+CH4 emissions impulse,2258,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006409
+CH4 emissions impulse,2259,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006393
+CH4 emissions impulse,2260,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006378
+CH4 emissions impulse,2261,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006363
+CH4 emissions impulse,2262,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006349
+CH4 emissions impulse,2263,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006334
+CH4 emissions impulse,2264,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006321
+CH4 emissions impulse,2265,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006306
+CH4 emissions impulse,2266,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006293
+CH4 emissions impulse,2267,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.000628
+CH4 emissions impulse,2268,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006267
+CH4 emissions impulse,2269,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006254
+CH4 emissions impulse,2270,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006242
+CH4 emissions impulse,2271,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.000623
+CH4 emissions impulse,2272,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006217
+CH4 emissions impulse,2273,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006206
+CH4 emissions impulse,2274,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006194
+CH4 emissions impulse,2275,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006182
+CH4 emissions impulse,2276,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006171
+CH4 emissions impulse,2277,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006159
+CH4 emissions impulse,2278,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006149
+CH4 emissions impulse,2279,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006137
+CH4 emissions impulse,2280,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006126
+CH4 emissions impulse,2281,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006116
+CH4 emissions impulse,2282,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006105
+CH4 emissions impulse,2283,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006094
+CH4 emissions impulse,2284,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006085
+CH4 emissions impulse,2285,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006075
+CH4 emissions impulse,2286,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006064
+CH4 emissions impulse,2287,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006054
+CH4 emissions impulse,2288,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006045
+CH4 emissions impulse,2289,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006034
+CH4 emissions impulse,2290,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006026
+CH4 emissions impulse,2291,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006016
+CH4 emissions impulse,2292,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0006006
+CH4 emissions impulse,2293,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0005997
+CH4 emissions impulse,2294,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0005988
+CH4 emissions impulse,2295,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0005979
+CH4 emissions impulse,2296,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.000597
+CH4 emissions impulse,2297,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0005961
+CH4 emissions impulse,2298,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0005952
+CH4 emissions impulse,2299,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0005944
+CH4 emissions impulse,2300,MAGICC 6.0,-0.0276,0.05712,0.0005459,0.0005935
+CH4 emissions impulse,2014,AR5-IR,0,NA,0.00E+00,0
+,2015,AR5-IR,9.06E-17,NA,2.72E-16,2.59E-17
+,2016,AR5-IR,0.025060844,NA,6.93E-02,0.00527926
+,2017,AR5-IR,0.022285999,NA,6.39E-02,0.009564945
+,2018,AR5-IR,0.019822495,NA,5.90E-02,0.012999624
+,2019,AR5-IR,0.01763539,NA,5.44E-02,0.015707456
+,2020,AR5-IR,0.015693661,NA,5.02E-02,0.017796449
+,2021,AR5-IR,0.013969769,NA,4.63E-02,0.019360436
+,2022,AR5-IR,0.012439266,NA,4.27E-02,0.020480836
+,2023,AR5-IR,0.011080447,NA,3.94E-02,0.021228182
+,2024,AR5-IR,0.009874043,NA,3.64E-02,0.021663487
+,2025,AR5-IR,0.008802949,NA,3.35E-02,0.02183943
+,2026,AR5-IR,0.007851977,NA,3.09E-02,0.021801412
+,2027,AR5-IR,0.007007648,NA,2.85E-02,0.021588475
+,2028,AR5-IR,0.006257991,NA,2.63E-02,0.021234115
+,2029,AR5-IR,0.005592381,NA,2.43E-02,0.020766995
+,2030,AR5-IR,0.005001387,NA,2.24E-02,0.020211569
+,2031,AR5-IR,0.004476633,NA,2.07E-02,0.019588633
+,2032,AR5-IR,0.004010685,NA,1.91E-02,0.018915807
+,2033,AR5-IR,0.003596943,NA,1.76E-02,0.018207952
+,2034,AR5-IR,0.003229549,NA,1.62E-02,0.017477548
+,2035,AR5-IR,0.002903301,NA,1.50E-02,0.016735007
+,2036,AR5-IR,0.00261358,NA,1.38E-02,0.015988966
+,2037,AR5-IR,0.002356288,NA,1.27E-02,0.015246527
+,2038,AR5-IR,0.002127786,NA,1.18E-02,0.014513475
+,2039,AR5-IR,0.001924841,NA,1.08E-02,0.013794468
+,2040,AR5-IR,0.001744586,NA,1.00E-02,0.013093197
+,2041,AR5-IR,0.001584475,NA,9.23E-03,0.01241253
+,2042,AR5-IR,0.001442247,NA,8.52E-03,0.01175464
+,2043,AR5-IR,0.001315895,NA,7.86E-03,0.011121105
+,2044,AR5-IR,0.001203637,NA,7.25E-03,0.010513009
+,2045,AR5-IR,0.001103892,NA,6.69E-03,0.009931014
+,2046,AR5-IR,0.001015256,NA,6.17E-03,0.00937544
+,2047,AR5-IR,0.000936481,NA,5.69E-03,0.008846317
+,2048,AR5-IR,0.000866463,NA,5.25E-03,0.00834344
+,2049,AR5-IR,0.000804217,NA,4.84E-03,0.007866413
+,2050,AR5-IR,0.000748871,NA,4.47E-03,0.007414687
+,2051,AR5-IR,0.000699653,NA,4.12E-03,0.006987591
+,2052,AR5-IR,0.000655873,NA,3.80E-03,0.006584364
+,2053,AR5-IR,0.000616922,NA,3.51E-03,0.006204174
+,2054,AR5-IR,0.000582259,NA,3.24E-03,0.005846138
+,2055,AR5-IR,0.000551401,NA,2.98E-03,0.005509342
+,2056,AR5-IR,0.000523923,NA,2.75E-03,0.005192852
+,2057,AR5-IR,0.000499444,NA,2.54E-03,0.004895726
+,2058,AR5-IR,0.00047763,NA,2.34E-03,0.004617027
+,2059,AR5-IR,0.00045818,NA,2.16E-03,0.004355823
+,2060,AR5-IR,0.00044083,NA,1.99E-03,0.004111202
+,2061,AR5-IR,0.000425344,NA,1.84E-03,0.003882272
+,2062,AR5-IR,0.000411513,NA,1.70E-03,0.003668166
+,2063,AR5-IR,0.000399151,NA,1.57E-03,0.003468044
+,2064,AR5-IR,0.000388095,NA,1.44E-03,0.003281099
+,2065,AR5-IR,0.000378197,NA,1.33E-03,0.003106553
+,2066,AR5-IR,0.000369328,NA,1.23E-03,0.002943662
+,2067,AR5-IR,0.000361373,NA,1.13E-03,0.002791716
+,2068,AR5-IR,0.000354228,NA,1.05E-03,0.002650037
+,2069,AR5-IR,0.000347804,NA,9.65E-04,0.002517983
+,2070,AR5-IR,0.00034202,NA,8.90E-04,0.002394941
+,2071,AR5-IR,0.000336804,NA,8.21E-04,0.002280334
+,2072,AR5-IR,0.000332092,NA,7.58E-04,0.002173614
+,2073,AR5-IR,0.000327829,NA,6.99E-04,0.002074264
+,2074,AR5-IR,0.000323963,NA,6.45E-04,0.001981797
+,2075,AR5-IR,0.000320451,NA,5.95E-04,0.001895755
+,2076,AR5-IR,0.000317253,NA,5.49E-04,0.001815706
+,2077,AR5-IR,0.000314334,NA,5.06E-04,0.001741243
+,2078,AR5-IR,0.000311663,NA,4.67E-04,0.001671988
+,2079,AR5-IR,0.000309212,NA,4.31E-04,0.001607582
+,2080,AR5-IR,0.000306957,NA,3.97E-04,0.001547691
+,2081,AR5-IR,0.000304876,NA,3.67E-04,0.001492002
+,2082,AR5-IR,0.00030295,NA,3.38E-04,0.001440222
+,2083,AR5-IR,0.000301161,NA,3.12E-04,0.001392076
+,2084,AR5-IR,0.000299494,NA,2.88E-04,0.00134731
+,2085,AR5-IR,0.000297936,NA,2.66E-04,0.001305685
+,2086,AR5-IR,0.000296474,NA,2.45E-04,0.001266976
+,2087,AR5-IR,0.000295099,NA,2.26E-04,0.001230977
+,2088,AR5-IR,0.0002938,NA,2.08E-04,0.001197493
+,2089,AR5-IR,0.000292569,NA,1.92E-04,0.001166344
+,2090,AR5-IR,0.000291399,NA,1.77E-04,0.001137363
+,2091,AR5-IR,0.000290283,NA,1.64E-04,0.001110391
+,2092,AR5-IR,0.000289216,NA,1.51E-04,0.001085285
+,2093,AR5-IR,0.000288191,NA,1.39E-04,0.001061908
+,2094,AR5-IR,0.000287205,NA,1.29E-04,0.001040134
+,2095,AR5-IR,0.000286252,NA,1.19E-04,0.001019847
+,2096,AR5-IR,0.000285331,NA,1.09E-04,0.001000937
+,2097,AR5-IR,0.000284437,NA,1.01E-04,0.000983304
+,2098,AR5-IR,0.000283567,NA,9.31E-05,0.000966854
+,2099,AR5-IR,0.000282719,NA,8.59E-05,0.0009515
+,2100,AR5-IR,0.00028189,NA,7.92E-05,0.000937161
+,2101,AR5-IR,0.00028108,NA,7.31E-05,0.000923763
+,2102,AR5-IR,0.000280285,NA,6.74E-05,0.000911235
+,2103,AR5-IR,0.000279504,NA,6.22E-05,0.000899513
+,2104,AR5-IR,0.000278736,NA,5.74E-05,0.000888537
+,2105,AR5-IR,0.00027798,NA,5.29E-05,0.000878253
+,2106,AR5-IR,0.000277234,NA,4.88E-05,0.000868608
+,2107,AR5-IR,0.000276497,NA,4.50E-05,0.000859555
+,2108,AR5-IR,0.000275769,NA,4.16E-05,0.000851051
+,2109,AR5-IR,0.000275049,NA,3.83E-05,0.000843054
+,2110,AR5-IR,0.000274336,NA,3.54E-05,0.000835526
+,2111,AR5-IR,0.00027363,NA,3.26E-05,0.000828432
+,2112,AR5-IR,0.000272929,NA,3.01E-05,0.000821741
+,2113,AR5-IR,0.000272234,NA,2.78E-05,0.000815421
+,2114,AR5-IR,0.000271544,NA,2.56E-05,0.000809446
+,2115,AR5-IR,0.000270858,NA,2.36E-05,0.000803789
+,2116,AR5-IR,0.000270177,NA,2.18E-05,0.000798427
+,2117,AR5-IR,0.000269499,NA,2.01E-05,0.000793338
+,2118,AR5-IR,0.000268826,NA,1.86E-05,0.000788501
+,2119,AR5-IR,0.000268156,NA,1.71E-05,0.000783898
+,2120,AR5-IR,0.000267489,NA,1.58E-05,0.000779511
+,2121,AR5-IR,0.000266825,NA,1.46E-05,0.000775324
+,2122,AR5-IR,0.000266164,NA,1.34E-05,0.000771322
+,2123,AR5-IR,0.000265506,NA,1.24E-05,0.000767492
+,2124,AR5-IR,0.00026485,NA,1.14E-05,0.00076382
+,2125,AR5-IR,0.000264197,NA,1.05E-05,0.000760295
+,2126,AR5-IR,0.000263547,NA,9.73E-06,0.000756906
+,2127,AR5-IR,0.000262898,NA,8.98E-06,0.000753643
+,2128,AR5-IR,0.000262252,NA,8.28E-06,0.000750497
+,2129,AR5-IR,0.000261608,NA,7.64E-06,0.000747459
+,2130,AR5-IR,0.000260966,NA,7.05E-06,0.000744521
+,2131,AR5-IR,0.000260326,NA,6.50E-06,0.000741676
+,2132,AR5-IR,0.000259688,NA,6.00E-06,0.000738917
+,2133,AR5-IR,0.000259052,NA,5.53E-06,0.000736238
+,2134,AR5-IR,0.000258418,NA,5.11E-06,0.000733633
+,2135,AR5-IR,0.000257785,NA,4.71E-06,0.000731096
+,2136,AR5-IR,0.000257155,NA,4.34E-06,0.000728623
+,2137,AR5-IR,0.000256526,NA,4.01E-06,0.000726209
+,2138,AR5-IR,0.000255899,NA,3.70E-06,0.00072385
+,2139,AR5-IR,0.000255273,NA,3.41E-06,0.000721542
+,2140,AR5-IR,0.000254649,NA,3.15E-06,0.000719282
+,2141,AR5-IR,0.000254027,NA,2.90E-06,0.000717065
+,2142,AR5-IR,0.000253407,NA,2.68E-06,0.00071489
+,2143,AR5-IR,0.000252788,NA,2.47E-06,0.000712753
+,2144,AR5-IR,0.00025217,NA,2.28E-06,0.000710651
+,2145,AR5-IR,0.000251555,NA,2.10E-06,0.000708582
+,2146,AR5-IR,0.000250941,NA,1.94E-06,0.000706545
+,2147,AR5-IR,0.000250328,NA,1.79E-06,0.000704536
+,2148,AR5-IR,0.000249717,NA,1.65E-06,0.000702554
+,2149,AR5-IR,0.000249108,NA,1.52E-06,0.000700597
+,2150,AR5-IR,0.0002485,NA,1.40E-06,0.000698664
+,2151,AR5-IR,0.000247893,NA,1.30E-06,0.000696753
+,2152,AR5-IR,0.000247288,NA,1.20E-06,0.000694862
+,2153,AR5-IR,0.000246685,NA,1.10E-06,0.000692991
+,2154,AR5-IR,0.000246083,NA,1.02E-06,0.000691138
+,2155,AR5-IR,0.000245483,NA,9.39E-07,0.000689302
+,2156,AR5-IR,0.000244884,NA,8.66E-07,0.000687482
+,2157,AR5-IR,0.000244286,NA,7.99E-07,0.000685678
+,2158,AR5-IR,0.00024369,NA,7.37E-07,0.000683887
+,2159,AR5-IR,0.000243096,NA,6.80E-07,0.00068211
+,2160,AR5-IR,0.000242503,NA,6.27E-07,0.000680346
+,2161,AR5-IR,0.000241911,NA,5.79E-07,0.000678594
+,2162,AR5-IR,0.000241321,NA,5.34E-07,0.000676853
+,2163,AR5-IR,0.000240732,NA,4.92E-07,0.000675124
+,2164,AR5-IR,0.000240145,NA,4.54E-07,0.000673404
+,2165,AR5-IR,0.000239559,NA,4.19E-07,0.000671695
+,2166,AR5-IR,0.000238975,NA,3.87E-07,0.000669994
+,2167,AR5-IR,0.000238392,NA,3.57E-07,0.000668303
+,2168,AR5-IR,0.000237811,NA,3.29E-07,0.00066662
+,2169,AR5-IR,0.000237231,NA,3.04E-07,0.000664945
+,2170,AR5-IR,0.000236652,NA,2.80E-07,0.000663279
+,2171,AR5-IR,0.000236075,NA,2.58E-07,0.00066162
+,2172,AR5-IR,0.000235499,NA,2.38E-07,0.000659968
+,2173,AR5-IR,0.000234925,NA,2.20E-07,0.000658323
+,2174,AR5-IR,0.000234352,NA,2.03E-07,0.000656684
+,2175,AR5-IR,0.00023378,NA,1.87E-07,0.000655053
+,2176,AR5-IR,0.00023321,NA,1.73E-07,0.000653427
+,2177,AR5-IR,0.000232641,NA,1.59E-07,0.000651808
+,2178,AR5-IR,0.000232073,NA,1.47E-07,0.000650195
+,2179,AR5-IR,0.000231507,NA,1.35E-07,0.000648587
+,2180,AR5-IR,0.000230943,NA,1.25E-07,0.000646985
+,2181,AR5-IR,0.000230379,NA,1.15E-07,0.000645388
+,2182,AR5-IR,0.000229818,NA,1.06E-07,0.000643797
+,2183,AR5-IR,0.000229257,NA,9.81E-08,0.000642211
+,2184,AR5-IR,0.000228698,NA,9.05E-08,0.00064063
+,2185,AR5-IR,0.00022814,NA,8.35E-08,0.000639054
+,2186,AR5-IR,0.000227584,NA,7.70E-08,0.000637483
+,2187,AR5-IR,0.000227029,NA,7.11E-08,0.000635917
+,2188,AR5-IR,0.000226475,NA,6.56E-08,0.000634355
+,2189,AR5-IR,0.000225922,NA,6.05E-08,0.000632798
+,2190,AR5-IR,0.000225371,NA,5.58E-08,0.000631246
+,2191,AR5-IR,0.000224822,NA,5.15E-08,0.000629698
+,2192,AR5-IR,0.000224273,NA,4.75E-08,0.000628155
+,2193,AR5-IR,0.000223726,NA,4.38E-08,0.000626616
+,2194,AR5-IR,0.000223181,NA,4.04E-08,0.000625081
+,2195,AR5-IR,0.000222636,NA,3.73E-08,0.00062355
+,2196,AR5-IR,0.000222093,NA,3.44E-08,0.000622024
+,2197,AR5-IR,0.000221552,NA,3.17E-08,0.000620502
+,2198,AR5-IR,0.000221011,NA,2.93E-08,0.000618983
+,2199,AR5-IR,0.000220472,NA,2.70E-08,0.000617469
+,2200,AR5-IR,0.000219934,NA,2.49E-08,0.000615959
+,2201,AR5-IR,0.000219398,NA,2.30E-08,0.000614453
+,2202,AR5-IR,0.000218863,NA,2.12E-08,0.000612951
+,2203,AR5-IR,0.000218329,NA,1.96E-08,0.000611453
+,2204,AR5-IR,0.000217797,NA,1.80E-08,0.000609959
+,2205,AR5-IR,0.000217265,NA,1.66E-08,0.000608468
+,2206,AR5-IR,0.000216735,NA,1.54E-08,0.000606982
+,2207,AR5-IR,0.000216207,NA,1.42E-08,0.000605499
+,2208,AR5-IR,0.00021568,NA,1.31E-08,0.00060402
+,2209,AR5-IR,0.000215153,NA,1.21E-08,0.000602545
+,2210,AR5-IR,0.000214629,NA,1.11E-08,0.000601074
+,2211,AR5-IR,0.000214105,NA,1.03E-08,0.000599606
+,2212,AR5-IR,0.000213583,NA,9.47E-09,0.000598142
+,2213,AR5-IR,0.000213062,NA,8.73E-09,0.000596682
+,2214,AR5-IR,0.000212542,NA,8.06E-09,0.000595225
+,2215,AR5-IR,0.000212024,NA,7.43E-09,0.000593772
+,2216,AR5-IR,0.000211507,NA,6.86E-09,0.000592323
+,2217,AR5-IR,0.000210991,NA,6.32E-09,0.000590877
+,2218,AR5-IR,0.000210476,NA,5.83E-09,0.000589435
+,2219,AR5-IR,0.000209963,NA,5.38E-09,0.000587996
+,2220,AR5-IR,0.000209451,NA,4.97E-09,0.000586562
+,2221,AR5-IR,0.00020894,NA,4.58E-09,0.00058513
+,2222,AR5-IR,0.00020843,NA,4.23E-09,0.000583702
+,2223,AR5-IR,0.000207922,NA,3.90E-09,0.000582278
+,2224,AR5-IR,0.000207415,NA,3.60E-09,0.000580857
+,2225,AR5-IR,0.000206909,NA,3.32E-09,0.00057944
+,2226,AR5-IR,0.000206404,NA,3.06E-09,0.000578026
+,2227,AR5-IR,0.000205901,NA,2.82E-09,0.000576616
+,2228,AR5-IR,0.000205399,NA,2.60E-09,0.000575209
+,2229,AR5-IR,0.000204898,NA,2.40E-09,0.000573806
+,2230,AR5-IR,0.000204398,NA,2.22E-09,0.000572406
+,2231,AR5-IR,0.0002039,NA,2.05E-09,0.000571009
+,2232,AR5-IR,0.000203402,NA,1.89E-09,0.000569616
+,2233,AR5-IR,0.000202906,NA,1.74E-09,0.000568227
+,2234,AR5-IR,0.000202411,NA,1.61E-09,0.000566841
+,2235,AR5-IR,0.000201918,NA,1.48E-09,0.000565458
+,2236,AR5-IR,0.000201425,NA,1.37E-09,0.000564079
+,2237,AR5-IR,0.000200934,NA,1.26E-09,0.000562703
+,2238,AR5-IR,0.000200444,NA,1.16E-09,0.00056133
+,2239,AR5-IR,0.000199955,NA,1.07E-09,0.000559961
+,2240,AR5-IR,0.000199467,NA,9.90E-10,0.000558595
+,2241,AR5-IR,0.000198981,NA,9.13E-10,0.000557232
+,2242,AR5-IR,0.000198495,NA,8.42E-10,0.000555873
+,2243,AR5-IR,0.000198011,NA,7.77E-10,0.000554517
+,2244,AR5-IR,0.000197528,NA,7.17E-10,0.000553164
+,2245,AR5-IR,0.000197046,NA,6.61E-10,0.000551815
+,2246,AR5-IR,0.000196566,NA,6.10E-10,0.000550469
+,2247,AR5-IR,0.000196086,NA,5.63E-10,0.000549126
+,2248,AR5-IR,0.000195608,NA,5.19E-10,0.000547787
+,2249,AR5-IR,0.000195131,NA,4.79E-10,0.000546451
+,2250,AR5-IR,0.000194655,NA,4.42E-10,0.000545118
+,2251,AR5-IR,0.00019418,NA,4.08E-10,0.000543788
+,2252,AR5-IR,0.000193707,NA,3.76E-10,0.000542462
+,2253,AR5-IR,0.000193234,NA,3.47E-10,0.000541139
+,2254,AR5-IR,0.000192763,NA,3.20E-10,0.000539819
+,2255,AR5-IR,0.000192293,NA,2.95E-10,0.000538502
+,2256,AR5-IR,0.000191824,NA,2.72E-10,0.000537189
+,2257,AR5-IR,0.000191356,NA,2.51E-10,0.000535879
+,2258,AR5-IR,0.000190889,NA,2.32E-10,0.000534572
+,2259,AR5-IR,0.000190424,NA,2.14E-10,0.000533268
+,2260,AR5-IR,0.000189959,NA,1.97E-10,0.000531967
+,2261,AR5-IR,0.000189496,NA,1.82E-10,0.000530669
+,2262,AR5-IR,0.000189034,NA,1.68E-10,0.000529375
+,2263,AR5-IR,0.000188573,NA,1.55E-10,0.000528084
+,2264,AR5-IR,0.000188113,NA,1.43E-10,0.000526796
+,2265,AR5-IR,0.000187654,NA,1.32E-10,0.000525511
+,2266,AR5-IR,0.000187196,NA,1.22E-10,0.000524229
+,2267,AR5-IR,0.00018674,NA,1.12E-10,0.000522951
+,2268,AR5-IR,0.000186284,NA,1.03E-10,0.000521675
+,2269,AR5-IR,0.00018583,NA,9.55E-11,0.000520403
+,2270,AR5-IR,0.000185377,NA,8.81E-11,0.000519133
+,2271,AR5-IR,0.000184924,NA,8.12E-11,0.000517867
+,2272,AR5-IR,0.000184473,NA,7.49E-11,0.000516604
+,2273,AR5-IR,0.000184023,NA,6.91E-11,0.000515344
+,2274,AR5-IR,0.000183575,NA,6.38E-11,0.000514087
+,2275,AR5-IR,0.000183127,NA,5.88E-11,0.000512833
+,2276,AR5-IR,0.00018268,NA,5.43E-11,0.000511582
+,2277,AR5-IR,0.000182235,NA,5.01E-11,0.000510335
+,2278,AR5-IR,0.00018179,NA,4.62E-11,0.00050909
+,2279,AR5-IR,0.000181347,NA,4.26E-11,0.000507848
+,2280,AR5-IR,0.000180905,NA,3.93E-11,0.00050661
+,2281,AR5-IR,0.000180463,NA,3.63E-11,0.000505374
+,2282,AR5-IR,0.000180023,NA,3.35E-11,0.000504141
+,2283,AR5-IR,0.000179584,NA,3.09E-11,0.000502912
+,2284,AR5-IR,0.000179146,NA,2.85E-11,0.000501685
+,2285,AR5-IR,0.000178709,NA,2.63E-11,0.000500462
+,2286,AR5-IR,0.000178273,NA,2.42E-11,0.000499241
+,2287,AR5-IR,0.000177838,NA,2.24E-11,0.000498023
+,2288,AR5-IR,0.000177405,NA,2.06E-11,0.000496809
+,2289,AR5-IR,0.000176972,NA,1.90E-11,0.000495597
+,2290,AR5-IR,0.00017654,NA,1.76E-11,0.000494388
+,2291,AR5-IR,0.00017611,NA,1.62E-11,0.000493182
+,2292,AR5-IR,0.00017568,NA,1.49E-11,0.000491979
+,2293,AR5-IR,0.000175252,NA,1.38E-11,0.000490779
+,2294,AR5-IR,0.000174824,NA,1.27E-11,0.000489582
+,2295,AR5-IR,0.000174398,NA,1.17E-11,0.000488388
+,2296,AR5-IR,0.000173973,NA,1.08E-11,0.000487197
+,2297,AR5-IR,0.000173548,NA,9.98E-12,0.000486009
+,2298,AR5-IR,0.000173125,NA,9.21E-12,0.000484823
+,2299,AR5-IR,0.000172703,NA,8.49E-12,0.000483641
+,2300,AR5-IR,0.000172281,NA,7.84E-12,0.000482461
+,2301,AR5-IR,0.000171861,NA,7.23E-12,0.000481285
+,2302,AR5-IR,0.000171442,NA,6.67E-12,0.000480111
+,2303,AR5-IR,0.000171024,NA,6.15E-12,0.00047894
+,2304,AR5-IR,0.000170607,NA,5.68E-12,0.000477772
+,2305,AR5-IR,0.000170191,NA,5.24E-12,0.000476606
+,2306,AR5-IR,0.000169776,NA,4.83E-12,0.000475444
+,2307,AR5-IR,0.000169361,NA,4.46E-12,0.000474284
+,2308,AR5-IR,0.000168948,NA,4.11E-12,0.000473127
+,2309,AR5-IR,0.000168536,NA,3.79E-12,0.000471973
+,2310,AR5-IR,0.000168125,NA,3.50E-12,0.000470822
+,2311,AR5-IR,0.000167715,NA,3.23E-12,0.000469674
+,2312,AR5-IR,0.000167306,NA,2.98E-12,0.000468528
+,2313,AR5-IR,0.000166898,NA,2.75E-12,0.000467386
+,2314,AR5-IR,0.000166491,NA,2.53E-12,0.000466246

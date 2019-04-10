@@ -1,0 +1,154 @@
+#------------------------------------------------------------------------------
+# Program Name: IPCC_AGTP_for_CO2_impulse.R
+# Authors Names: Adria K. Schwarber
+# Date Last Updated: 13 July 2018
+# Program Purpose: Reproduces the IPCC Chapter 8 Fig. 8.33 for CO2 concentration impulse
+#                   
+#     The output is a .csv file with a temperature time series and a figure in RStudio. 
+#     This code is able to replicating IPCC AR5 Fig 8.33. 
+#     This code should be run in R, but has been copied to a .txt file. 
+#
+# Input: None. Parameters and equations from IPCC AR5 Supplementary Chapter 8 (8.SM)
+#
+# Output: A .csv file in OUTPUT_DIR 
+#-------------------------------------------------------------------------------
+# 0. Read in global settings and variables
+# -------------------------------------------------------------------------------
+
+SCRIPTNAME		<- "IPCC_AGTP_for_CO2_impulse.R"           #Script name is used in log
+OUTPUT_DIR		<- "E:/Climate_runs/Rcode/output/" #Path to the output directory 
+LOG_DIR			  <-  "E:/Climate_runs/Rcode/logs/"  #Path to the log output directory
+SEPARATOR		  <- "-------------------"
+
+### Input values for paramters from Supplement Table 8.SM.9
+cj1 <- 0.631 #Reference value for CO2 in units of (K * (Wm^-2)^-1)
+cj2 <- 0.429 #Reference value for CO2 in units of (K * (Wm^-2)^-1)
+dj1 <- 8.4   #Reference value for CO2 in units of years
+dj2 <- 409.5 #Reference value for CO2 in units of years
+
+
+### Input values for CO2
+a0 <- 0.2173  #CO2 unitless coefficients from Table 8.SM.10
+a1 <- 0.2240  #CO2 unitless coefficients from Table 8.SM.10
+a2 <- 0.2824  #CO2 unitless coefficients from Table 8.SM.10
+a3 <-  0.2763 #CO2 unitless coefficients from Table 8.SM.10
+tau1 <- 394.4 #CO2 lifetime in units of years from Table 8.SM.10
+tau2 <- 36.54 #CO2 lifetime in units of years from Table 8.SM.10
+tau3 <- 4.304 #CO2 lifetime in units of years from Table 8.SM.10
+Mi <- 44.01   # Molecular weight of CO2 in units of kg/kmol
+RE <- 1.37E-05#Radiative Efficiceny reference value for CO2 in units of Wm^-2ppb^-1 from Appendix Table 8.A.1
+H <- c(0:300) #Time horizon, H, in units of years
+
+emissions <-  0 
+emissions_perturbations <- as.numeric(100 * (44.01/12.01) * 1E+12) #100PgC perturbation converted to KgCO2
+
+
+#-------------------------------------------------------------------------------
+# 1. Define functions used in this code
+#-------------------------------------------------------------------------------
+
+# Time-stamped output function
+printlog <- function( msg="", ..., ts=TRUE, cr=TRUE ) {
+  # if( ts ) cat( date(), " " )
+  cat( msg, ... )
+  if( cr ) cat( "\n")
+} # printlog
+
+# -----------------------------------------------------------------------------
+# Load requested libraries
+loadlibs <- function( liblist ) {
+  printlog( "Loading libraries..." )
+  loadedlibs <- vector()
+  for( lib in liblist ) {
+    printlog( "- loading", lib )
+    loadedlibs[ lib ] <- require( lib, character.only=T )
+    if( !loadedlibs[ lib ] )
+      warning( "this package is not installed!" )
+  }
+  invisible( loadedlibs )
+} # loadlibs
+
+
+#-------------------------------------------------------------------------------
+# 2. Set directories and read all input files
+#-------------------------------------------------------------------------------
+
+OUTPUT_DIR <- normalizePath( OUTPUT_DIR )
+if( !file.exists( OUTPUT_DIR ) ) {
+  printlog( "Creating", OUTPUT_DIR )
+  dir.create( OUTPUT_DIR )
+}
+LOG_DIR <- normalizePath( LOG_DIR )
+if( !file.exists( LOG_DIR ) ) {
+  printlog( "Creating", LOG_DIR )
+  dir.create( LOG_DIR )
+}
+
+sink( paste( LOG_DIR, paste0( SCRIPTNAME, ".txt" ), sep="/" ), split=T )
+
+printlog( "Welcome to", SCRIPTNAME )
+
+#Loading all libraries 
+loadlibs( c("data.table",  "methods", "stats", "tools" ) )
+
+
+#******************************************************************************* 
+#---------------------------Main Processes--------------------------------------
+#******************************************************************************* 
+#-------------------------------------------------------------------------------
+# 3. Begin calcualting the Temperature Impact Using the IPCC IRF
+#-------------------------------------------------------------------------------
+Ai <- RE*(28.97/Mi)*(10^9/5.1352E+18) #Equation from Page that converts RE from Wm^-2ppbv^-1 to Wm^-2kg^-1 from 8.SM.11.3 Updates of Metric Values Last paragraph on page 8SM-15
+
+IP <- list()    # Initiating a list for emissions impusle
+AGTP <- list()  # Initiating a list for Absolute Global Temperature Potential 
+RT <- list()    # Initiating a list for RT is the climate response to a unit forcing
+RF <- list()    # Initiating a list for RF, the radiative forcing due to a pulse emissions
+
+#Begin for loop to calculate response to perturbation
+for(i in seq_along(H)) {
+  IP[i] <- emissions
+  IP[2] <- emissions_perturbations
+  
+  RT[i] <- ((cj1/dj1) * exp(-H[i]/dj1)) + ((cj2/dj2) * exp(-H[i]/dj2))  #Equation 8.SM.13 from page 8SM-15
+  
+  #Assigning radiaitive forcing to bypass emissions.
+  RF[1] <- 0
+  RF[2] <- 2.17
+  RF[i] <- 0
+  
+  }
+
+#Assign values as numeric for the convolution 
+IP <- as.numeric(IP)
+AGTP <- as.numeric(AGTP) #Units in CO2
+RT <- as.numeric(RT)
+RF <- as.numeric(RF)
+
+#Documentation of Convolve: http://astrostatistics.psu.edu/su07/R/html/stats/html/convolve.html
+AGTP <- convolve(RF, rev(RT), conj = TRUE, type = "open") #Absolute Global Temperature Potential
+AGTP <- AGTP[1:301]
+
+#-------------------------------------------------------------------------------
+# 4. Output a plot in RStudio and a .csv file of temperature time series 
+#-------------------------------------------------------------------------------
+
+# Can plot the temperature response from this code to the RStudio plot interface
+# plot(H, unlist(Temp), type = "l", col = "red", ylim = c(0,.025), xlim = c(0,300), xlab = "Time Horizon (years)", ylab = "Temperature Impact (K)",
+#      main = "Temperature Impact for 1-year CO2 Concentration Impulse")
+
+output_dataframe <- list()
+output_dataframe$year <- H            #Time Horizon, H, in units of years
+output_dataframe$Temperature <- Temp  #Temperature impact in units of C
+output_dataframe$Forcing <- Force     #Radiative Forcing in units of WM-2
+
+
+outfnm <- paste0( OUTPUT_DIR, "IPCC_Fig_8.33_CO2_conc_impulse", ".csv")
+write.table( output_dataframe, file=outfnm, row.names=FALSE, sep=",", col.names=TRUE, append=FALSE)
+
+# Every script should finish with this line
+print( sessionInfo() )
+printlog( "All done with", SCRIPTNAME )
+sink()
+
+# END

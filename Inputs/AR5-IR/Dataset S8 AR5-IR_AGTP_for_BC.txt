@@ -1,0 +1,150 @@
+#------------------------------------------------------------------------------
+# Program Name: IPCC_AGTP_for_BC.R
+# Authors Names: Adria K. Schwarber
+# Date Last Updated: 13 July 2018
+# Program Purpose: Reproduces the IPCC Chapter 8 Fig. 8.33 for BC emissions only
+#                   
+#     The output is a .csv file with a temperature time series and a figure in RStudio. 
+#     This code is able to replicating IPCC AR5 Fig 8.33. 
+#     This code should be run in R, but has been copied to a .txt file. 
+#
+# Input: None. Parameters and equations from IPCC AR5 Supplementary Chapter 8 (8.SM)
+#
+# Output: A .csv file in OUTPUT_DIR
+#-------------------------------------------------------------------------------
+# 0. Read in global settings and variables
+#-------------------------------------------------------------------------------
+
+SCRIPTNAME		<- "IPCC_AGTP_for_BC.R"           #Script name is used in log
+OUTPUT_DIR		<- "E:/Climate_runs/Rcode/output/" #Path to the output directory 
+LOG_DIR			  <-  "E:/Climate_runs/Rcode/logs/" #Path to the log output directory
+SEPARATOR		  <- "-------------------"
+
+### Input values for BC paramters from Supplement Table 8.SM.9
+cj1 <- 0.631 #Reference value for non-CO2 GHG in units of (K (W m-2^)^-1)
+cj2 <- 0.429 #Reference value for non-CO2 GHG in units of (K (W m-2^)^-1)
+dj1 <- 8.4   #Reference value for non-CO2 GHG in units of years
+dj2 <- 409.5 #Reference value for non-CO2 GHG in units of years
+
+### Input values for BC
+tau <- 0.032876 #Reference value for BC of 12 days converted into years
+Mi <- 12.01     #Molecular weight of BC in kg/kmol
+Ai <- 7.43E-11  #Raditiave Efficiceny reference value for BC Page 683 in Chapter 8 of IPCC and 8SM-15 in units of Wm^-2Kg^-1 using Central value of Bond et al. 2013
+H <- c(0:300)   #Time horizon, H, based on values used in Figure 8.33 in units of years
+emissions <- as.numeric(0)
+emissions_perturbations <- as.numeric(7.9813E+09) #BC perturation size converted from Gg to Kg
+
+
+#-------------------------------------------------------------------------------
+# 1. Define functions used in this code
+#-------------------------------------------------------------------------------
+
+# Printing output log
+printlog <- function( msg="", ..., ts=TRUE, cr=TRUE ) {
+  cat( msg, ... )
+  if( cr ) cat( "\n")
+} # printlog
+
+# -----------------------------------------------------------------------------
+# Load requested libraries
+loadlibs <- function( liblist ) {
+  printlog( "Loading libraries..." )
+  loadedlibs <- vector()
+  for( lib in liblist ) {
+    printlog( "- loading", lib )
+    loadedlibs[ lib ] <- require( lib, character.only=T )
+    if( !loadedlibs[ lib ] )
+      warning( "this package is not installed!" )
+  }
+  invisible( loadedlibs )
+} # loadlibs
+
+
+#-------------------------------------------------------------------------------
+# 2. Set directories and read all input files
+#-------------------------------------------------------------------------------
+
+OUTPUT_DIR <- normalizePath( OUTPUT_DIR )
+if( !file.exists( OUTPUT_DIR ) ) {
+  printlog( "Creating", OUTPUT_DIR )
+  dir.create( OUTPUT_DIR )
+}
+LOG_DIR <- normalizePath( LOG_DIR )
+if( !file.exists( LOG_DIR ) ) {
+  printlog( "Creating", LOG_DIR )
+  dir.create( LOG_DIR )
+}
+
+sink( paste( LOG_DIR, paste0( SCRIPTNAME, ".txt" ), sep="/" ), split=T )
+
+printlog( "Welcome to", SCRIPTNAME )
+
+#Loading all libraries 
+loadlibs( c("data.table",  "methods", "stats", "tools" ) )
+
+
+#************************************************************************************* 
+#---------------------------Main Processes--------------------------------------------
+#************************************************************************************* 
+#-------------------------------------------------------------------------------------
+# 3. Begin calcualting the Temperature Impact Using the IPCC impulse response function
+#-------------------------------------------------------------------------------------
+
+IP <- list() # Initiating a list for emissions impusle
+AGTP <- list() # Initiating a list for Absolute Global Temperature Potential 
+RT <- list() # Initiating a list for RT is the climate response to a unit forcing
+RF <- list() # Initiating a list for RF, the radiative forcing due to a pulse emissions
+
+#Begin for loop to calculate response to perturbation
+for(i in seq_along(H)) { 
+  IP[i] <- emissions
+  IP[2] <- emissions_perturbations #One year perturbation of 
+  
+  RT[i] <- ((cj1/dj1) * exp(-H[i]/dj1)) + ((cj2/dj2) * exp(-H[i]/dj2)) #Equation 8.SM.13 from page 8SM-15
+  RF[i] <- Ai * exp(-H[i]/tau) #Equation 8.SM.8 from page 8SM-15
+  
+}
+
+#Assign values as numeric for the convolution  
+IP <- as.numeric(IP)
+AGTP <- as.numeric(AGTP)
+RT <- as.numeric(RT)
+RF <- as.numeric(RF)
+
+#Documentation of Convolve: http://astrostatistics.psu.edu/su07/R/html/stats/html/convolve.html
+
+AGTP <- convolve(RF, rev(RT), conj = TRUE, type = "open") #Absolute Global Temperature Potential
+AGTP <- AGTP
+
+Temp <- convolve(AGTP,rev(IP), conj = TRUE, type = "open") #Equation 8.1: convolution of AGTP with emissions impulse, IP, to obtain the Temperarure Impact
+Temp <- Temp[1:301]
+
+Force <- convolve(RF,rev(IP), conj = TRUE, type = "open") #Radiative Forcing 
+Force <- Force[1:301]
+
+
+#-------------------------------------------------------------------------------
+# 4. Output a plot in RStudio and a .csv file of temperature time series 
+#-------------------------------------------------------------------------------
+
+# Can plot the temperature response from this code to the RStudio plot interface
+# plot(H, unlist(DTemp), type = "l", col = "red",  xlim = c(0,300), ylim = c(0,.12), xlab = "Time Horizon (years)", ylab = "Temperature Impact (K)",
+#      main = "Global Mean Temperature Response from BC Emissions Impulse")
+
+#Assign a list for output and append data
+output_dataframe <- list() 
+output_dataframe$year <- H            #Time Horizon, H, in units of years
+output_dataframe$Temperature <- Temp  #Temperature impact in units of C
+output_dataframe$Forcing <- Force     #Radiative Forcing in units of WM-2
+
+#Write output to .csv file
+outfnm <- paste0( OUTPUT_DIR, "IPCC_Fig_8.33_values_BC", ".csv")
+write.table( output_dataframe, file=outfnm, row.names=FALSE, sep=",", col.names=TRUE, append=FALSE)
+
+
+# Every script should finish with this line
+print( sessionInfo() )
+printlog( "All done with", SCRIPTNAME )
+sink()
+
+# END
